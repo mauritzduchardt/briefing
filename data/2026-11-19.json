@@ -1,0 +1,473 @@
+{
+ "date": "2026-11-19",
+ "meta": {
+  "stand": "Stand: früher Morgen (MEZ)",
+  "note": "Einige Quellseiten ließen sich nicht direkt abrufen; Fakten wurden über weitere Berichte gegengeprüft. Keine Anlageberatung.",
+  "generated": "2026-11-19T12:29+01:00"
+ },
+ "glance": [
+  {
+   "text": "Trump, Xi und Putin verhandeln heute in Shenzhen erstmals zu dritt – über Atomwaffen-Kontrolle, Handel und den Ukraine-Krieg.",
+   "story": "s1"
+  },
+  {
+   "text": "In Berlin ringen 37 Staaten um Sicherheitsgarantien für die Ukraine; Streitpunkt bleibt Russlands Forderung nach dem Donbas.",
+   "story": "s2"
+  },
+  {
+   "text": "Strom wird ab 2027 günstiger: Die Stromsteuer sinkt fast auf null, ein Dreipersonenhaushalt spart rund 7,50 € im Monat.",
+   "story": "s5"
+  },
+  {
+   "text": "Frankfurt erwartet am Freitag bei Gen-Z-Protesten Ausschreitungen – über 2.000 Polizisten sind im Einsatz.",
+   "story": "s7"
+  },
+  {
+   "text": "Anthropic geht heute an die Börse – mit rund 1,5 Bio. $ Bewertung ein Stimmungstest für alle KI-Aktien.",
+   "story": "s14"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Geopolitik",
+   "title": "Erstes Dreiertreffen: Trump, Xi und Putin in Shenzhen",
+   "summary": "Die Staatschefs der USA, Chinas und Russlands verhandeln heute erstmals gemeinsam – über Atomwaffen-Kontrolle, Handel, KI und den Ukraine-Krieg.",
+   "details": [
+    "Das Treffen findet am Rande des Apec-Gipfels in China statt. Xi hatte Trump gestern demonstrativ herzlich empfangen, vor dem Dreiertreffen stehen Einzelgespräche an.",
+    "Ein Kernthema ist die atomare Abrüstung: Der New-Start-Vertrag, der als letztes Abkommen die Atomarsenale der USA und Russlands begrenzte, ist ausgelaufen. Ohne Nachfolger gibt es keine verbindlichen Obergrenzen mehr.",
+    "Beide Gäste kommen geschwächt: Putin nach dem ukrainischen Angriff auf die Krim-Brücke, Trump nach dem schlechten Abschneiden der Republikaner bei den Midterms."
+   ],
+   "why": "Eine Einigung zu Handel oder Abrüstung würde Märkte und die Sicherheitslage in Europa direkt beeinflussen. Bleibt es bei Symbolik, ändert sich wenig.",
+   "sources": [
+    {
+     "name": "NZZ",
+     "url": "https://www.nzz.ch/international/apec-gipfel-in-china-xi-begruesst-trump-mit-einer-umarmung-ld.10067471"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Ukraine-Gipfel in Berlin: Ringen um Sicherheitsgarantien",
+   "summary": "Vertreter aus 37 Staaten beraten heute in Berlin, wie die Ukraine nach einem möglichen Waffenstillstand vor einem erneuten russischen Angriff geschützt werden kann.",
+   "details": [
+    "Gastgeber ist Kanzler Merz; dabei sind Selenskyj, Macron, Premier Burnham sowie die US-Gesandten Witkoff und Kushner. Die „Koalition der Willigen“ ist ein Bündnis vor allem europäischer Staaten, das solche Sicherheitsgarantien geben will.",
+    "Daneben geht es um einen Wiederaufbauplan und um die Vorbereitung der nächsten Verhandlungsrunde mit Russland nach den Gesprächen in Abu Dhabi."
+   ],
+   "why": "Der Kernkonflikt ist ungelöst: Moskau verlangt den gesamten Donbas, Kiew lehnt jede Gebietsabtretung ab. Ohne Bewegung dort bleibt ein Abkommen fern.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/zelenskyy-says-us-envoys-to-brief-allies-on-trump-xi-putin-talks"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "EU",
+   "title": "45-Milliarden-Kredit für die Ukraine – vier EU-Staaten blockieren",
+   "summary": "Die EU will die Ukraine 2027 mit 45 Mrd. € aus gemeinsamen Schulden finanzieren; Ungarn, die Slowakei, Tschechien und Bulgarien stellen sich quer.",
+   "details": [
+    "25 Mrd. € sind für Waffen vorgesehen, 20 Mrd. € für den ukrainischen Staatshaushalt. Damit wären rund zwei Drittel der Finanzlücke der Ukraine für 2027 gedeckt.",
+    "Zurückzahlen soll die Ukraine den Kredit aus künftigen russischen Reparationen – notfalls aus eingefrorenem russischem Vermögen."
+   ],
+   "why": "Merz droht den Blockierern mit einem Veto gegen den nächsten EU-Haushalt. Der Streit zeigt, wie schwer sich die EU mit gemeinsamer Ukraine-Finanzierung tut.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/eu-proposes-45-billion-ukraine-loan-as-russian-strikes-mount"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s4",
+   "section": "welt",
+   "kicker": "Nahost",
+   "title": "Golf-Konflikt: USA und Iran greifen sich weiter an",
+   "summary": "Nach einem US-Luftschlag auf eine iranische Raketenstellung hat Iran erneut Ziele in Kuwait, Bahrain und einen Tanker der Emirate angegriffen.",
+   "details": [
+    "Der US-Angriff traf die Insel Qeshm in der Straße von Hormus – der Meerenge, durch die ein großer Teil des weltweit verschifften Öls fährt.",
+    "Die von Katar vermittelten Gespräche stocken. Die USA haben inzwischen einen dritten Flugzeugträger in die Region verlegt."
+   ],
+   "why": "Jede weitere Eskalation kann den Ölpreis nach oben treiben – das belastet Konjunktur, Inflation und Aktienmärkte.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/iran-says-us-attacked-qeshm-island-in-latest-exchange-of-strikes"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Koalitionsausschuss",
+   "title": "Stromsteuer sinkt 2027 fast auf null",
+   "summary": "Union und SPD senken die Stromsteuer für alle auf das EU-Minimum – ein Dreipersonenhaushalt spart dadurch rund 7,50 € im Monat.",
+   "details": [
+    "Die Steuer fällt von 2,05 auf 0,1 Cent pro Kilowattstunde. Das kostet den Staat rund 5,4 Mrd. €; bezahlt ist das bisher nur für 2027, über Überschüsse aus der EEG-Förderung.",
+    "Zusätzlich soll zum 1. Januar ein Deckel für Spritpreise kommen. Bei Rente und Wahlrecht konnte sich der Koalitionsausschuss dagegen nicht einigen."
+   ],
+   "why": "Spürbare Entlastung für Haushalte und Betriebe – offen bleibt, wie die Senkung ab 2028 finanziert wird.",
+   "sources": [
+    {
+     "name": "NZZ",
+     "url": "https://www.nzz.ch/deutschland/politik/deutsche-regierung-einigt-sich-nach-harten-verhandlungen-auf-senkung-der-stromsteuer-ld.10067295"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s6",
+   "section": "deutschland",
+   "kicker": "Banken",
+   "title": "Commerzbank: Bund macht Weg für Unicredit frei",
+   "summary": "Die Bundesregierung gibt ihren Widerstand gegen eine Übernahme der Commerzbank durch die italienische Unicredit auf.",
+   "details": [
+    "Der Bund, der 13,3 % der Commerzbank hält, verzichtet auf seine Sitze im Aufsichtsrat. Unicredit besitzt bereits 49 %.",
+    "Im Gegenzug sagt Unicredit zu, zentrale Entscheidungen in Deutschland zu treffen und Frankfurt nach der Fusion mit ihrer deutschen Tochter HVB zum Sitz zu machen. Stellenabbau schließt die Bank nicht aus."
+   ],
+   "why": "Ein Kurswechsel der Regierung Merz – und für den Finanzplatz Frankfurt eine wichtige Weichenstellung.",
+   "sources": [
+    {
+     "name": "Tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s7",
+   "section": "hessen",
+   "kicker": "Frankfurt",
+   "ongoing": true,
+   "title": "Gen-Z-Proteste: Frankfurt rüstet sich für Freitag",
+   "summary": "Für Freitag sind fünf Demonstrationen angemeldet. Die Polizei setzt über 2.000 Beamte ein, weil sie Ausschreitungen wie Ende Oktober befürchtet.",
+   "details": [
+    "Die größte Versammlung wird mit bis zu 4.000 Teilnehmenden an der Weseler Werft am Main erwartet.",
+    "Bei den Protesten am 31. Oktober war es zu Krawallen gekommen, über 180 Polizisten wurden verletzt. Die Polizei rechnet nun erneut mit Brandstiftungen und Plünderungsversuchen.",
+    "Hessens Innenminister Poseck steht wegen Aussagen über „migrantische Milieus“ in der Kritik."
+   ],
+   "why": "Wer am Freitag in der Innenstadt unterwegs ist, sollte mit Sperrungen rechnen. Das Briefing verfolgt Verlauf und Nachberichterstattung in den kommenden Tagen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/gesellschaft/genz-demos-in-frankfurt-mehr-als-2000-polizisten-im-einsatz-v1,poseck-pk-genz-proteste-100.html"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "section": "hessen",
+   "kicker": "Landespolitik",
+   "title": "Machtkampf in der Hessen-SPD",
+   "summary": "Rund 100 Kommunalpolitiker wollen Offenbachs Oberbürgermeister Schwenke gegen Vize-Ministerpräsident Mansoori an die Spitze der SPD Hessen-Süd bringen.",
+   "details": [
+    "Notfalls wollen die Rebellen eine Urwahl der Mitglieder über die Spitzenkandidatur für die Landtagswahl 2028 erzwingen."
+   ],
+   "why": "Der Streit schwächt die SPD, die in Wiesbaden mit der CDU regiert.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/politik/spd-hessen-jetzt-wollen-die-rebellen-mansoori-auf-andere-weise-stuerzen-v1,spd-machtkampf-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Arbeitsmarkt",
+   "title": "Deutschland verliert Industriejobs",
+   "summary": "Im 3. Quartal gab es 222.000 Erwerbstätige weniger als ein Jahr zuvor – vor allem die Industrie baut Stellen ab.",
+   "details": [
+    "Insgesamt sind noch 45,67 Mio. Menschen erwerbstätig. Allein die Industrie verlor 167.000 Stellen (−2,1 %); neue Jobs entstehen dagegen bei öffentlichen Dienstleistern, in Bildung und Gesundheit (+172.000)."
+   ],
+   "why": "Die Beschäftigung verlagert sich weg von der exportstarken Industrie – ein Zeichen für die Strukturkrise des Standorts.",
+   "sources": [
+    {
+     "name": "WiWo",
+     "url": "https://www.wiwo.de/politik/konjunktur/deutscher-arbeitsmarkt-zahl-der-erwerbstaetigen-erneut-gesunken/100270850.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s10",
+   "section": "wirtschaft",
+   "kicker": "Industrie",
+   "title": "Schaeffler: Lohnverzicht statt weiterer Jobabbau",
+   "summary": "Der Autozulieferer will 1.000 weitere Stellenstreichungen vermeiden, indem Beschäftigte zwei Jahre lang freiwillig auf Gehalt verzichten – Ersparnis: 100 Mio. €.",
+   "details": [
+    "Bereits beschlossen sind 2.660 Stellenstreichungen und die Schließung von vier deutschen Standorten. Die IG Metall kündigt erstmals seit acht Jahren 24-Stunden-Streiks an."
+   ],
+   "why": "Die Autobranche steht unter Druck – zuletzt hatte auch Mercedes alle Investitionen in deutsche Werke gestoppt.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-streit-ueber-gehaltsverzicht-beim-zulieferer-schaeffler/100268764.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s11",
+   "section": "wirtschaft",
+   "kicker": "Welthandel",
+   "title": "Apec: Xi wirbt für offenen Welthandel",
+   "summary": "Chinas Präsident rief die 21 Apec-Volkswirtschaften, die zusammen über 60 % der Weltwirtschaft ausmachen, zum Abbau von Handels- und Investitionshürden auf.",
+   "details": [
+    "Auch Putin kritisierte die „Fragmentierung der Weltwirtschaft“. Konkrete Ergebnisse aus Xis Gesprächen mit Trump gibt es noch nicht."
+   ],
+   "why": "China präsentiert sich als Verteidiger des Freihandels – entscheidend ist, ob daraus Zollsenkungen mit den USA folgen.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/weltpolitik-vor-dreiergipfel-xi-wirbt-bei-apec-fuer-mehr-zusammenarbeit/100271097.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s14",
+   "section": "tech",
+   "kicker": "Börsengang",
+   "title": "Anthropic geht heute an die Börse",
+   "summary": "Der KI-Entwickler hinter Claude startet heute an der Nasdaq. Die Aktie wurde mit 83 $ über der geplanten Spanne bepreist – Bewertung rund 1,5 Bio. $.",
+   "details": [
+    "Geplant waren 70 bis 78 $ je Aktie; die hohe Nachfrage hat bereits die Nasdaq-Futures angeschoben."
+   ],
+   "why": "Wie die Aktie startet, gilt als Stimmungstest für alle KI-Firmen – und damit auch für die großen Tech-Werte in deinen ETFs.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s12",
+   "section": "tech",
+   "kicker": "Sicherheit",
+   "title": "Schwere Sicherheitslücke in Java",
+   "summary": "Über eine Lücke in Java können Angreifer Server ohne Anmeldung übernehmen; betroffen sind verbreitete Firmen-Programme wie Jira, Confluence und Jenkins.",
+   "details": [
+    "Die Lücke gilt als ähnlich gravierend wie „Log4Shell“ 2021, eine der folgenreichsten Sicherheitslücken der letzten Jahre. Updates sind bereits verfügbar."
+   ],
+   "why": "Für Unternehmen heißt das: sofort aktualisieren.",
+   "sources": [
+    {
+     "name": "heise",
+     "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "Ausfälle bei Outlook, US-Banken und Behörden gehen nach Einschätzung der Behörden wohl auf zu viele, kaum getestete Notfall-Updates zurück.",
+   "sources": [
+    {
+     "name": "heise",
+     "url": "https://www.heise.de/news/IT-Probleme-bei-US-Banken-und-NSA-angeblich-wegen-zu-vieler-Patches-11529019.html"
+    }
+   ]
+  },
+  {
+   "text": "Fed-Gouverneur Waller hält sogar eine Zinserhöhung um 0,5 Prozentpunkte für denkbar.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike"
+    }
+   ]
+  },
+  {
+   "text": "Asiens Börsen profitieren vom Anthropic-Börsengang, Sony liegt im Plus.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-profitieren-von-anthropic-boersengang-sony-im-plus/100271133.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "pos",
+    "label": "Leicht freundlich",
+    "text": "US-Futures liegen dank Anthropic rund 1 % im Plus, der starke Dollar hilft zusätzlich.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Zinssorgen vor der Fed-Sitzung und der Iran-Konflikt bremsen, KI-Optimismus stützt.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "label": "Leichter Abgabedruck",
+   "tone": "neg",
+   "text": "Das Fed-Protokoll signalisiert eine Zinserhöhung im Dezember, die 10-jährige US-Rendite liegt über 5 %, und Zweifel an Nvidia nach dem Huang-Abgang dämpfen die KI-Schwergewichte. Der MSCI World verlor in fünf Tagen rund 2,5 %.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-anthropic-ipo-erwartet/100270966.html"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Eine Fed-Zinserhöhung am 9. Dezember gilt als wahrscheinlich; hohe Anleiherenditen drücken auf die Bewertungen von Aktien.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend sind der Zinspfad in den USA, ob KI-Gewinne die hohen Bewertungen tragen, und der Ölpreis im Iran-Konflikt.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Nasdaq-Futures notieren dank der Anthropic-Bepreisung rund 1 % im Plus.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-profitieren-von-anthropic-boersengang-sony-im-plus/100271133.html"
+     }
+    ]
+   },
+   {
+    "text": "Der starke Dollar (Euro unter 1,10 $) wertet die USD-lastigen ETFs in Euro gerechnet auf.",
+    "sources": []
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Fed-Gouverneur Waller bringt sogar eine Erhöhung um 0,5 Prozentpunkte ins Spiel.",
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike"
+     }
+    ]
+   },
+   {
+    "text": "Der DAX fiel gestern um 1,2 %, Asien ohne Japan steuert auf einen Wochenverlust von über 4 % zu.",
+    "sources": []
+   },
+   {
+    "text": "Ölpreis-Risiko durch die Eskalation zwischen Iran und den USA.",
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/iran-says-us-attacked-qeshm-island-in-latest-exchange-of-strikes"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "MSCI World · 5 Tage",
+    "value": "−2,5 %",
+    "tone": "neg",
+    "note": "ungefähr"
+   },
+   {
+    "label": "DAX · gestern",
+    "value": "−1,2 %",
+    "tone": "neg",
+    "note": "Schlusskurs"
+   },
+   {
+    "label": "Nasdaq-Futures",
+    "value": "+1 %",
+    "tone": "pos",
+    "note": "vorbörslich"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "Handelsstart von Anthropic an der Nasdaq"
+   },
+   {
+    "when": "Heute",
+    "text": "Dreiertreffen Trump, Xi und Putin in Shenzhen"
+   },
+   {
+    "when": "24–48 Std.",
+    "text": "Philly-Fed-Index; Reden von Jefferson, Barr und Goolsbee"
+   },
+   {
+    "when": "24–48 Std.",
+    "text": "Quartalszahlen von Walmart und Intuit"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
