@@ -1,0 +1,458 @@
+{
+ "date": "2026-11-21",
+ "meta": {
+  "stand": "Stand: Samstagmorgen (MEZ)",
+  "note": "Quellen konnten überwiegend nur über Suchergebnisse geprüft werden, daher sind manche Meldungen knapper. MSCI World und Devisenkurse ließen sich nicht verlässlich ermitteln. Samstag: kein Börsenhandel. Keine Anlageberatung.",
+  "generated": "2026-11-21T06:50+01:00"
+ },
+ "glance": [
+  {
+   "text": "Bei einem russischen Großangriff auf die Ukraine mit mindestens acht Toten sind Raketen und eine Drohne in Polen eingeschlagen; Warschau spricht von gezielter Provokation.",
+   "story": "s1"
+  },
+  {
+   "text": "Der KI-Ausverkauf verschärft sich: Der Nasdaq fiel am Freitag um 5,3 %, S&P 500 und Dow sind in einer Korrektur, der DAX rutschte unter 25.000 Punkte.",
+   "story": "s7"
+  },
+  {
+   "text": "Die US-Börsenaufsicht SEC prüft laut Berichten die Bilanzierung von Nvidia; die Aktie verlor an einem Tag rund 13 %.",
+   "story": "s9"
+  },
+  {
+   "text": "Iran stellt nach eigenen Angaben einen Konvoi von 14 Öltankern zusammen, um die US-Seeblockade zu durchbrechen, und droht mit Angriffen auf Ölanlagen am Golf.",
+   "story": "s2"
+  },
+  {
+   "text": "Der Gen-Z-Protesttag in Hessen blieb weitgehend friedlich; in Frankfurt kamen deutlich weniger Menschen als angemeldet.",
+   "story": "s6"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Ukraine-Krieg",
+   "title": "Russischer Großangriff auf die Ukraine – Raketen schlagen in Polen ein",
+   "summary": "Russland hat die Ukraine mit Hunderten Raketen und Drohnen angegriffen, mindestens acht Menschen wurden getötet. Mehrere Flugkörper landeten in Polen; Regierungschef Tusk spricht von einer gezielten Provokation, die Nato von einer Verletzung ihres Gebiets.",
+   "details": [
+    "In Kiew trafen die Angriffe nach Agenturberichten Brücken und die Stromversorgung. In Polen schlugen Raketen und eine Drohne ein, eine davon rund zwei Kilometer von einem Wohngebiet entfernt. Die Nato aktivierte ihre Luftabwehr; zur selben Zeit hielten europäische Unterstützer der Ukraine in der Nähe ein Militärmanöver ab.",
+    "Der Angriff folgte einen Tag nach dem Dreiertreffen von Putin, Trump und Xi in Shenzhen. Putin hatte dort Verhandlungen über eine begrenzte Waffenruhe abgelehnt und nach den ukrainischen Angriffen auf die Krim-Brücke eine „deutlich schmerzhaftere“ Vergeltung angekündigt.",
+    "Polen ist Nato-Mitglied. Das Bündnis kann auf Antrag eines Mitglieds Beratungen nach Artikel 4 des Nato-Vertrags einberufen, wenn es seine Sicherheit bedroht sieht."
+   ],
+   "why": "Mit Einschlägen auf Nato-Gebiet rückt der Krieg näher an das Bündnis heran. Wie die Nato reagiert, gilt als wichtiger Test für die Sicherheitslage in Europa, auch für Deutschland.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+     "name": "Tagesspiegel",
+     "url": "https://www.tagesspiegel.de/internationales/alles-deutet-auf-russische-rakete-hin-objekt-schlagt-in-nato-staat-polen-ein--zwei-kilometer-von-wohngebiet-entfernt-15896664.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Iran",
+   "title": "Iran will US-Seeblockade mit Tanker-Konvoi durchbrechen",
+   "summary": "Nach Angaben der den Revolutionsgarden nahen Agentur Fars liegen auf der Ölinsel Charg 14 beladene Tanker bereit, um die US-Blockade iranischer Ölexporte zu testen. Teheran droht mit Angriffen auf Ölanlagen am Golf, falls der Konvoi gestoppt wird.",
+   "details": [
+    "Die USA blockieren iranische Ölexporte auf See. Nach Daten des Analysehauses Kpler hat Iran im Oktober kein Öl mehr verladen, schon den zweiten Monat in Folge; die Einnahmen brechen weg. Außenminister Araghtschi erklärte, die Blockade müsse gebrochen werden. Der Tankerdienst TankerTrackers hält den Konvoi eher für eine Drohung.",
+    "Parallel greift Iran Schiffe in der Straße von Hormus an, im November im Schnitt etwa einmal täglich. Kuwait meldete der Internationalen Seeschifffahrtsorganisation Angriffe auf acht seiner Tanker. Die USA griffen diese Woche eine iranische Raketenstellung auf der Insel Qeschm an."
+   ],
+   "why": "Ein Zusammenstoß zwischen Konvoi und US-Marine könnte den Konflikt am Golf verschärfen und den zuletzt gefallenen Ölpreis wieder steigen lassen.",
+   "sources": [
+    {
+     "name": "Maritime Executive",
+     "url": "https://maritime-executive.com/article/reports-claim-iran-is-preparing-oil-convoy-to-test-u-s-blockade"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Klima",
+   "title": "Klimakonferenz COP31 in der Verlängerung – Streit über fossile Brennstoffe",
+   "summary": "Die UN-Klimakonferenz in Antalya hat ihr offizielles Ende am Freitagabend überschritten. Der Entwurf der Abschlusserklärung erwähnt fossile Brennstoffe nicht; die EU will lieber kein Dokument als ein schlechtes.",
+   "details": [
+    "Frankreich und elf weitere Staaten verlangen einen klaren Ausstieg aus Kohle, Öl und Gas. Golfstaaten wollen dagegen weniger Festlegungen. Umstritten sind auch ein türkischer Vorschlag, den Anteil von Strom am Endenergieverbrauch von 23 auf 35 % zu erhöhen, sowie die Klimafinanzierung: Die EU lehnt neue Zusagen ab.",
+    "Bei der COP28 in Dubai 2023 hatten sich die Staaten erstmals auf eine Abkehr von fossilen Brennstoffen verständigt. Fehlt dieser Bezug nun, werten viele Teilnehmer das als Rückschritt. Die Verhandlungen sollten bis in die Nacht und ins Wochenende gehen."
+   ],
+   "why": "Ohne Bezug auf fossile Brennstoffe würde die Konferenz hinter frühere Beschlüsse zurückfallen. Für die europäische Klima- und Energiepolitik bliebe der Druck, allein voranzugehen.",
+   "sources": [
+    {
+     "name": "ORF",
+     "url": "https://orf.at/stories/3448795/"
+    },
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/politik/ausland/klimakonferenz-antalya-cop-31-verlaengerung-unzufriedenheit-100.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "deutschland",
+   "kicker": "Bundesrat",
+   "title": "Bundesrat billigt Frühstart-Rente und digitale Brieftasche",
+   "summary": "Der Bundesrat hat am Freitag der Frühstart-Rente zugestimmt: Für Kinder von 6 bis 18 Jahren zahlt der Staat monatlich 10 € in die Altersvorsorge ein. Außerdem gebilligt: die digitale Brieftasche für Ausweisdokumente, die ab 2. Januar 2027 verfügbar sein soll.",
+   "details": [
+    "Die Frühstart-Rente soll Kindern früh ein Vorsorgekapital aufbauen, das über viele Jahre am Kapitalmarkt wachsen kann. Sie ist Teil der Rentenpläne der Koalition.",
+    "Die digitale Brieftasche (EUDI-Wallet) ist eine App, mit der sich Bürger auf dem Smartphone ausweisen und amtliche Nachweise vorzeigen können. Grundlage ist eine EU-Verordnung, nach der alle Mitgliedstaaten eine solche Lösung anbieten müssen. Der Beschluss im Bundesrat fiel einstimmig."
+   ],
+   "why": "Familien erhalten für jedes Kind im Schulalter einen staatlichen Vorsorgebeitrag. Mit der Wallet soll sich der Ausweis künftig auch online und am Schalter per Handy nutzen lassen.",
+   "sources": [
+    {
+     "name": "Bundesrat",
+     "url": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1070/1070-pk.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Gesundheit",
+   "title": "Notfallreform beschlossen, Kita-Gesetz im Vermittlungsausschuss",
+   "summary": "Der Bundesrat hat die Reform der Notfallversorgung gebilligt; ein Antrag, den Vermittlungsausschuss anzurufen, fand keine Mehrheit. Beim Kita- und Startchancen-Gesetz riefen die Länder dagegen den Vermittlungsausschuss an.",
+   "details": [
+    "Die Notfallreform soll Patienten gezielter in Praxis, Notdienst oder Klinik lenken und überfüllte Notaufnahmen entlasten. Mit der Zustimmung kann das Gesetz in Kraft treten.",
+    "Der Vermittlungsausschuss aus Bundestag und Bundesrat sucht einen Kompromiss, wenn die Länder ein Gesetz nicht mittragen. Wann er über das Kita-Gesetz berät, ist offen.",
+    "Ebenfalls gebilligt wurde der erste Teil der Führerscheinreform; er soll im Wesentlichen am 1. Juli 2027 in Kraft treten. Der Bundesrat tagt das nächste Mal am 18. Dezember."
+   ],
+   "why": "Die Notfallreform betrifft jeden, der nachts oder am Wochenende ärztliche Hilfe braucht. Das Kita-Gesetz verzögert sich, bis Bund und Länder sich einigen.",
+   "sources": [
+    {
+     "name": "Bundesrat",
+     "url": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1070/1070-pk.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s6",
+   "section": "hessen",
+   "kicker": "Frankfurt",
+   "title": "Gen-Z-Protesttag in Hessen: Weniger Teilnehmer, friedlicher Verlauf",
+   "summary": "Die Gen-Z- und Verdi-Demonstrationen am Freitag blieben nach Angaben der Polizei weitgehend friedlich. In Frankfurt kamen deutlich weniger Menschen als angemeldet; mehr als 2.000 Polizisten waren im Einsatz.",
+   "details": [
+    "Laut Polizei zogen am Vormittag rund 600 Menschen beim Verdi-Schulstreik durch Frankfurt, bei vier weiteren Demos waren es zusammen etwa 1.700. Eine für 4.000 Teilnehmer angemeldete Kundgebung an der Weseler Werft wurde aufgelöst, weil nur 20 bis 30 Menschen kamen: Die bundesweite Initiative „Gen Z regelt“ hatte kurzfristig zu einem eigenen Zug aufgerufen, gegen den Willen der Frankfurter Gruppe.",
+    "Es gab Pyrotechnik und vereinzelt Vermummte; Festnahmen oder Verletzte wurden zunächst nicht gemeldet. Innenminister Poseck sprach am Abend von einem bislang friedlichen Verlauf. Nach der Gen-Z-Demo am 31. Oktober hatte es Krawalle, Plünderungen und mehr als 30 Festnahmen gegeben. Auch in Kassel, Marburg, Darmstadt und Gießen wurde demonstriert."
+   ],
+   "why": "Der ruhige Verlauf entschärft die Debatte über Sicherheit bei den Protesten. Der Streit innerhalb der Bewegung und die geringe Beteiligung schwächen ihre Mobilisierung.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/gesellschaft/gen-z-verregnet---deutlich-weniger-demo-teilnehmer-in-hessen-v8,genz-demos-freitag-100.html"
+    },
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/gen-z-proteste-in-hessen-aktuelle-meldungen-im-ticker--gen-z-kundgebung-an-der-weseler-werft-aufgeloest--streit-mit-bundesinitiative,genz-demo-freitag-100.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s7",
+   "section": "wirtschaft",
+   "kicker": "Börsen",
+   "title": "Ausverkauf verschärft sich: Nasdaq −5,3 %, DAX unter 25.000 Punkten",
+   "summary": "Der Nasdaq fiel am Freitag um 5,3 % und hat damit sein gesamtes Jahresplus verloren. S&P 500 und Dow liegen mehr als 10 % unter ihren Rekorden, der DAX verlor rund 660 Punkte und schloss unter 25.000.",
+   "details": [
+    "Fällt ein Index um mehr als 10 % unter sein Rekordhoch, sprechen Börsianer von einer Korrektur. Auslöser des neuen Schubs war vor allem Nvidia: Die Aktie des wichtigsten KI-Chipherstellers brach nach Berichten über Ermittlungen der Börsenaufsicht um rund 13 % ein.",
+    "Im DAX gaben besonders Infineon und Scout24 nach, während Fresenius Medical Care, Hannover Rück und die Telekom zulegten. Schon am Donnerstag hatte der S&P 500 den sechsten Verlusttag in Folge verbucht; Asiens Börsen erlebten am Freitag einen Einbruch.",
+    "Hinter dem Ausverkauf stehen Zweifel, ob sich die hohen KI-Investitionen auszahlen, und steigende Zinsen in den USA."
+   ],
+   "why": "Die Welt-ETFs von Mauritz sind stark in großen US-Tech-Werten investiert und haben in dieser Woche spürbar verloren. Ob es weiter abwärts geht, hängt vor allem an Nvidia und der Fed.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-660-punkte-und-schliesst-weit-unter-26.000-punkten/100271464.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s8",
+   "section": "wirtschaft",
+   "kicker": "Notenbanken",
+   "title": "US-Notenbank: Fast alle Währungshüter halten weitere Zinserhöhungen für nötig",
+   "summary": "Laut dem Protokoll der jüngsten Fed-Sitzung halten fast alle Notenbanker weitere Zinserhöhungen für angemessen; einige bringen einen großen Schritt von 0,5 Prozentpunkten ins Spiel. Die nächste Entscheidung fällt am 9. Dezember.",
+   "details": [
+    "Grund ist die anhaltend hohe Inflation in den USA. Fed-Gouverneur Waller neigt nach eigenen Worten zu einer Erhöhung um 0,25 Prozentpunkte, schließt aber auch 0,5 Punkte nicht aus. Der Leitzins liegt derzeit bei 3,75 bis 4,00 %.",
+    "Höhere Zinsen machen Anleihen attraktiver und verteuern Kredite. Für Aktien mit hohen Gewinnerwartungen in der Zukunft, etwa Tech-Werte, wirken sie besonders belastend. Das Protokoll wurde am Mittwoch veröffentlicht."
+   ],
+   "why": "Ein großer Zinsschritt im Dezember würde nach Einschätzung vieler Marktbeobachter den Druck auf US-Tech-Aktien und damit auf die Welt-ETFs erhöhen.",
+   "sources": [
+    {
+     "name": "Börsen-Zeitung",
+     "url": "https://www.boersen-zeitung.de/konjunktur-politik/us-notenbanker-signalisieren-weitere-zinserhoehungen"
+    },
+    {
+     "name": "AP",
+     "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "tech",
+   "kicker": "Nvidia",
+   "title": "Börsenaufsicht prüft offenbar Nvidias Bilanzierung – Aktie bricht ein",
+   "summary": "Die US-Börsenaufsicht SEC untersucht laut Medienberichten, ob Nvidia Anleger irregeführt hat, und nimmt nun auch die Bilanzierung in den Blick. Die Aktie fiel am Freitag um rund 13 %, rund 500 Mrd. $ Börsenwert gingen verloren.",
+   "details": [
+    "Zunächst hatte das Wall Street Journal über die Ermittlungen berichtet. Nvidia steckt in einer Führungskrise: Gründer Jensen Huang trat am 12. November nach 33 Jahren an der Spitze mit sofortiger Wirkung zurück, Finanzchefin Colette Kress führt das Unternehmen übergangsweise.",
+    "Nvidia liefert die meisten Chips, mit denen KI-Modelle trainiert werden, und gehört zu den wertvollsten Unternehmen der Welt. Für die Aktie war es der schwerste Tagesverlust seit dem Schock um das chinesische KI-Modell DeepSeek Anfang 2025."
+   ],
+   "why": "Nvidia ist eines der größten Einzelgewichte in MSCI World und FTSE All-World. Zweifel an dem Konzern treffen damit direkt die Welt-ETFs und das Vertrauen in den KI-Boom.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/business/huang-pitches-nvidia-comeback-wsj-reports-sec-probing-the-chipmaker/12978169"
+    }
+   ],
+   "ongoing": true
+  }
+ ],
+ "brief": [
+  {
+   "text": "Arbeitsmarkt: Die Zahl der Erwerbstätigen in Deutschland ist im 3. Quartal saisonbereinigt gegenüber dem Vorquartal gesunken, meldet das Statistische Bundesamt.",
+   "sources": [
+    {
+     "name": "Destatis",
+     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_404_13321.html"
+    }
+   ]
+  },
+  {
+   "text": "Industrie: Der Auftragsbestand im Verarbeitenden Gewerbe ist im September um 0,8 % gegenüber dem Vormonat gestiegen.",
+   "sources": [
+    {
+     "name": "Destatis",
+     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_403_421.html"
+    }
+   ]
+  },
+  {
+   "text": "Handel: Die Warenhauskette Galeria schließt drei weitere Filialen; rund 400 Beschäftigte sind betroffen.",
+   "sources": [
+    {
+     "name": "WiWo",
+     "url": "https://www.wiwo.de/unternehmen/handel/einzelhandel-galeria-schliesst-drei-filialen-400-beschaeftigte-betroffen/100271529.html"
+    }
+   ]
+  },
+  {
+   "text": "EZB: Präsidentin Lagarde hat in einer Rede in Frankfurt davor gewarnt, bei Digitalisierung und wirtschaftlicher Souveränität Europas zu spät zu handeln.",
+   "sources": [
+    {
+     "name": "EZB",
+     "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261120~e52bcc4db2.de.html"
+    }
+   ]
+  },
+  {
+   "text": "Energie: Der Ölpreis der Sorte Brent ist im November trotz der Angriffe in der Straße von Hormus um rund 20 % gefallen; das Angebot gilt als reichlich.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.newstribune.com/news/2026/nov/20/iran-intensifies-hormuz-tanker-attacks-just-as/"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neu",
+    "label": "Kein Handel",
+    "text": "Samstag: Die Börsen sind geschlossen. Der schwache Wochenschluss mit Nasdaq −5,3 % und DAX unter 25.000 wirkt bis Montag nach.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Stark schwankend",
+    "text": "Nach dem Ausverkauf ist eine Gegenbewegung möglich; Nvidia-Ermittlungen, US-Inflationsdaten am Mittwoch und Thanksgiving machen den Handel aber unruhig.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neg",
+   "label": "Deutliche Verluste",
+   "text": "S&P 500 und Dow sind in einer Korrektur (mehr als 10 % unter Rekord), der Nasdaq fiel am Freitag um 5,3 % und liegt im Jahresvergleich im Minus. Der DAX verlor am Freitag rund 2,6 % auf unter 25.000 Punkte. Auslöser: KI-Zweifel, Nvidia und steigende US-Zinsen.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-660-punkte-und-schliesst-weit-unter-26.000-punkten/100271464.html"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Eine Zinserhöhung der Fed am 9. Dezember gilt als sehr wahrscheinlich, möglicherweise um 0,5 Punkte. Dazu kommen die Ermittlungen gegen Nvidia als größte Unsicherheit für Tech-Werte.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend ist, ob KI-Firmen die hohen Erwartungen mit Gewinnen erfüllen, wie weit die Notenbanken die Zinsen anheben und ob der Iran-Konflikt eskaliert.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Der Ölpreis ist im November um rund 20 % gefallen – das dämpft den Inflationsdruck.",
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://www.newstribune.com/news/2026/nov/20/iran-intensifies-hormuz-tanker-attacks-just-as/"
+     }
+    ]
+   },
+   {
+    "text": "Defensive Werte wie Gesundheit, Versicherungen und Telekommunikation hielten sich am Freitag besser; die breite Streuung der Welt-ETFs federt Tech-Verluste etwas ab.",
+    "sources": []
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Die Ermittlungen gegen Nvidia treffen eines der größten Einzelgewichte der Welt-Indizes.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html"
+     }
+    ]
+   },
+   {
+    "text": "Fast alle Fed-Mitglieder halten weitere Zinserhöhungen für nötig; das belastet die Bewertung von Tech-Aktien.",
+    "sources": [
+     {
+      "name": "Börsen-Zeitung",
+      "url": "https://www.boersen-zeitung.de/konjunktur-politik/us-notenbanker-signalisieren-weitere-zinserhoehungen"
+     }
+    ]
+   },
+   {
+    "text": "Russische Raketen in Polen und der Tanker-Konvoi Irans erhöhen die geopolitischen Risiken.",
+    "sources": []
+   }
+  ],
+  "indicators": [
+   {
+    "label": "DAX",
+    "value": "≈ −2,6 %",
+    "tone": "neg",
+    "note": "Fr., ungefähr"
+   },
+   {
+    "label": "Nasdaq Composite",
+    "value": "−5,3 %",
+    "tone": "neg",
+    "note": "Fr."
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Nvidia",
+    "value": "≈ −13 %",
+    "tone": "neg",
+    "note": "Fr., ungefähr"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Wochenende",
+    "text": "Klimakonferenz COP31 in Antalya in der Verlängerung"
+   },
+   {
+    "when": "25. Nov.",
+    "text": "USA: PCE-Preisindex (bevorzugtes Inflationsmaß der Fed)"
+   },
+   {
+    "when": "26. Nov.",
+    "text": "US-Börsen wegen Thanksgiving geschlossen"
+   },
+   {
+    "when": "27. Nov.",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   },
+   {
+    "when": "18. Dez.",
+    "text": "Nächste Sitzung des Bundesrats"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
