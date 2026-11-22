@@ -1,0 +1,572 @@
+{
+ "date": "2026-11-22",
+ "meta": {
+  "note": "Quellen konnten überwiegend nur über Suchergebnisse und Agenturtexte geprüft werden. Das Ergebnis der Klimakonferenz stand bei Redaktionsschluss noch aus. MSCI World nur über einen ETF ermittelbar. Sonntag: kein Börsenhandel. Keine Anlageberatung.",
+  "generated": "2026-11-22T06:59+01:00"
+ },
+ "glance": [
+  {
+   "text": "Nach den russischen Raketen in Polen sagt Nato-Chef Rutte in Warschau Schutz zu; am Montag berät der Nato-Rat in Brüssel.",
+   "story": "s1"
+  },
+  {
+   "text": "Bilanz der Börsenwoche: Nasdaq −10 %, S&P 500 −8,6 %, DAX gut −7 %; Nvidia erlebte die schlechteste Woche seit 2008.",
+   "story": "s9"
+  },
+  {
+   "text": "Die Klimakonferenz COP31 soll am Sonntagmorgen über einen letzten Kompromisstext abstimmen; offen ist, wie er fossile Brennstoffe behandelt.",
+   "story": "s2"
+  },
+  {
+   "text": "Ein russischer Militärfrachter brennt nach einem Drohnenangriff im Finnischen Meerbusen und treibt in finnischen Gewässern.",
+   "story": "s3"
+  },
+  {
+   "text": "Das neue Altersvorsorgedepot startet 2027 zunächst ohne staatliches Basisprodukt; Sparer müssen anfangs private Anbieter wählen.",
+   "story": "s6"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Nato / Polen",
+   "title": "Raketen in Polen: Rutte sagt Schutz zu, Nato-Rat berät am Montag",
+   "summary": "Nato-Generalsekretär Mark Rutte hat in Warschau versichert, das Bündnis werde jeden Zentimeter polnischen Gebiets verteidigen. Polens Staatsanwaltschaft bestätigt, dass einer der eingeschlagenen Flugkörper ein russischer Marschflugkörper war.",
+   "details": [
+    "Neu seit gestern: In Polen gingen nach Behördenangaben drei Objekte nieder, zwei Raketen und eine Drohne mit Strahlantrieb; verletzt wurde niemand. Bei einem Objekt handelt es sich um einen Marschflugkörper vom Typ Ch-101. Rutte nannte den Vorfall gefährlich und ließ den Nato-Oberbefehlshaber prüfen, wo die Verteidigung Lücken hat.",
+    "Polen will, dass die Nato die Überwachung seines Luftraums im Rahmen der laufenden Mission Eastern Sentry verstärkt. Beratungen nach Artikel 4 des Nato-Vertrags, die ein Mitglied bei Bedrohung beantragen kann, hat Warschau nach Berichten bisher nicht ausgelöst. US-Präsident Trump sagte, die Raketen seien wohl versehentlich in Polen gelandet.",
+    "Die US-Denkfabrik ISW hält den Beschuss dagegen für gezielt, abgestimmt auf ein Manöver europäischer Ukraine-Unterstützer in Südostpolen. Am Montag berät der Nordatlantikrat, das wichtigste Nato-Gremium, in Brüssel über den Vorfall."
+   ],
+   "why": "Wie geschlossen die Nato reagiert, gilt als Test für ihre Abschreckung an der Ostflanke, an der auch die Bundeswehr beteiligt ist. Trumps Einschätzung weicht deutlich von der Warschaus ab.",
+   "sources": [
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/politik/ausland/rutte-polen-nato-russland-100.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Klima",
+   "title": "COP31: Letzter Kompromisstext liegt vor, Abstimmung am Sonntagmorgen",
+   "summary": "Am zweiten Tag der Verlängerung hat die Präsidentschaft der Klimakonferenz in Antalya einen dritten, nach eigenen Worten finalen Text vorgelegt. Die Abstimmung darüber war für Sonntag, 7 Uhr MEZ, angesetzt; das Ergebnis stand bei Redaktionsschluss aus.",
+   "details": [
+    "Konferenzpräsident Murat Kurum, türkischer Umweltminister, sagte, alle Staaten könnten dem Text zustimmen; die Bedenken zu fossilen Energien und zur Finanzierung der Anpassung an den Klimawandel seien aufgenommen. Wie genau, blieb zunächst unklar, weil der Text nicht veröffentlicht war.",
+    "Ein Entwurf vom Donnerstag erwähnte Kohle, Öl und Gas nach Einwänden Saudi-Arabiens und anderer Förderländer nicht mehr. Nach Angaben Irlands wollen rund 130 Staaten mindestens einen Verweis auf die Abkehr von fossilen Brennstoffen. EU-Klimakommissar Hoekstra sagte, lieber keine Einigung als eine schlechte.",
+    "Es ist die erste Klimakonferenz, seit das UN-Umweltprogramm bestätigt hat, dass die Erderwärmung die Grenze von 1,5 Grad überschreiten wird. Beschlüsse der Konferenz müssen einstimmig fallen."
+   ],
+   "why": "Ohne klare Aussage zu fossilen Brennstoffen gilt das Ergebnis als Rückschritt gegenüber früheren Konferenzen. Für Europa hängt daran, wie stark andere Länder ihre Klimapolitik verschärfen.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/cop31-klimagipfel-in-antalya-cop31-praesident-sieht-einigung-in-reichweite/100270720.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Ostsee",
+   "title": "Drohnenangriff auf russischen Militärfrachter im Finnischen Meerbusen",
+   "summary": "Der russische Frachter „Sparta II“ ist am Samstag auf dem Weg nach Kaliningrad von Drohnen getroffen worden und in Brand geraten. Das manövrierunfähige Schiff trieb in finnische Hoheitsgewässer vor Loviisa.",
+   "details": [
+    "Nach russischen Angaben trafen zwei Drohnen das Schiff in internationalen Gewässern westlich der Insel Suursaari. Verletzt wurde niemand. Am Abend brannte es weiter; Finnlands Grenzschutz warnte, das Löschen könne Tage oder Wochen dauern, und richtete Sperrzonen für Schiffe und Flugzeuge ein.",
+    "Die „Sparta II“ gehört einer Reederei mit Verbindung zum russischen Verteidigungsministerium, steht unter US-Sanktionen und hat früher Militärgerät transportiert. Wer angegriffen hat, ist offiziell nicht benannt; ein finnischer Militärsprecher hält die Ukraine nach Medienberichten für wahrscheinlich verantwortlich.",
+    "Finnlands Regierungschef Orpo sagte, die Ukraine habe das Recht, sich gegen den Angreifer zu wehren. Finnland meldet zudem eine mutmaßliche Verletzung seines Luftraums durch einen russischen Hubschrauber. Das Schiff soll in russische Gewässer geschleppt werden."
+   ],
+   "why": "Der Krieg erreicht damit erstmals direkt die Gewässer eines Nato-Staats an der Ostsee. Das erhöht das Risiko von Zwischenfällen zwischen Russland und dem Bündnis.",
+   "sources": [
+    {
+     "name": "NZZ",
+     "url": "https://www.nzz.ch/international/russischer-frachter-im-finnischen-meerbusen-von-drohnen-attackiert-ld.10070933"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s4",
+   "section": "welt",
+   "kicker": "Nahost",
+   "title": "Israel: Eisenkot plant notfalls Minderheitsregierung – Gaza-Waffenruhe wackelt",
+   "summary": "Der designierte israelische Regierungschef Gadi Eisenkot will Likud und religiösen Parteien ein Angebot machen und notfalls bis zum 6. Dezember über eine Minderheitsregierung abstimmen lassen. In Gaza wurden binnen zwei Tagen neun Palästinenser getötet.",
+   "details": [
+    "Neu: Netanjahu traf sich nach Berichten unangekündigt mit Oppositionspolitiker Naftali Bennett; ob Bennett danach eine Einheitsregierung mit Netanjahu erwägt, ist widersprüchlich berichtet. Im Parlament kommt Netanjahus Lager auf 53, Eisenkots Lager auf 48 der 120 Sitze; arabische Parteien halten 19. Avigdor Liberman lehnt eine Regierung mit arabischer Unterstützung ab.",
+    "In Gaza starben am Samstag nach Berichten drei Menschen bei einem israelischen Luftangriff auf ein Fahrzeug, das Hilfsgüter verteilte. Ein Berater des internationalen Gremiums für den Wiederaufbau („Board of Peace“) drohte, die Kontrolle über Gaza an die UN zu übergeben, falls Israel den Wiederaufbau weiter behindert."
+   ],
+   "why": "Ob Israel eine stabile Regierung bekommt, entscheidet mit darüber, ob die seit Oktober 2025 geltende Waffenruhe in Gaza hält.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Spritpreise",
+   "title": "Spritpreisdeckel: Reiche will Autobahntankstellen ausnehmen",
+   "summary": "Wirtschaftsministerin Katherina Reiche (CDU) will Tankstellen an Autobahnen vom geplanten Höchstpreis für Benzin und Diesel ausnehmen. Der Deckel soll am 1. Januar den auslaufenden Tankrabatt ersetzen.",
+   "details": [
+    "Reiche begründet die Ausnahme mit höheren Pachten und der Pflicht der Autobahntankstellen, rund um die Uhr zu öffnen. Autohöfe abseits der Autobahn sollen weiter unter den Deckel fallen; die Länder dürfen abweichen.",
+    "Den Deckel hatte der Koalitionsausschuss am Dienstag beschlossen. Die SPD hatte Reiches ersten Entwurf als unbrauchbar kritisiert; der neue ist mit Kanzleramt und Finanzministerium vorabgestimmt. Das Kabinett soll Gesetz und Verordnung zur Berechnung des Höchstpreises am 2. Dezember beschließen."
+   ],
+   "why": "Für Autofahrer entscheidet sich damit, wie stark die Preise nach dem Ende des Tankrabatts steigen. Die Bundesbank erwartet nach dem Jahreswechsel ohnehin einen Inflationsschub.",
+   "sources": [
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen/100271751.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s6",
+   "section": "deutschland",
+   "kicker": "Altersvorsorge",
+   "title": "Altersvorsorgedepot startet 2027 ohne staatliches Basisprodukt",
+   "summary": "Das neue Altersvorsorgedepot, Nachfolger der Riester-Rente, startet am 1. Januar 2027, die geplante staatliche Basisvariante aber erst später – nach Regierungskreisen frühestens im Sommer 2027.",
+   "details": [
+    "Wer ab Januar einsteigt, kann die staatlichen Zulagen trotzdem nutzen, muss dafür aber zunächst ein privates Angebot wählen. Der Staat legt auf jeden eingezahlten Euro 50 Cent bis 360 €, darüber 25 Cent bis 1.800 € Eigenbeitrag drauf, höchstens 540 € im Jahr, plus bis zu 300 € je Kind.",
+    "Das Finanzministerium spricht davon, dass das Basisprodukt voraussichtlich nach dem Start komme. Die Verbraucherzentralen warnen vor einem unübersichtlichen Angebot privater Produkte."
+   ],
+   "why": "Für Sparer mit ETF-Strategie kann das Depot eine geförderte Ergänzung sein; ohne staatliches Basisangebot hängen die Kosten zunächst vom gewählten Anbieter ab.",
+   "sources": [
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/politik/altersvorsorge-basisdepot-2027-verzoegerung-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s7",
+   "section": "deutschland",
+   "kicker": "EU-Haushalt",
+   "title": "EU-Haushalt 2028–2034: Merz hält Costas Vorschlag für zu teuer",
+   "summary": "EU-Ratspräsident António Costa schlägt für den nächsten siebenjährigen EU-Haushalt 1,781 Bio. € vor, 204 Mrd. € weniger als die Kommission. Kanzler Merz nennt das einen ersten Schritt, das Volumen passe aber nicht in diese Zeit.",
+   "details": [
+    "Costas Entwurf sieht eine neue EU-Digitalabgabe auf Online-Werbung, Vermittlungsdienste und Nutzerdaten großer Tech-Konzerne vor, die mehr als 5 Mrd. € im Jahr bringen soll. Die Beiträge der Mitgliedstaaten sollen von 0,80 auf 0,82 % ihrer Wirtschaftsleistung steigen.",
+    "Merz droht mit einer Blockade, falls die mehrjährige Ukraine-Hilfe nicht von allen 27 Staaten abgesichert wird. Frankreich nennt den Plan wegen der Agrarhilfen sehr enttäuschend. Am 26. und 27. November beraten die Staats- und Regierungschefs auf einem Sondergipfel; eine Einigung wird frühestens im Dezember erwartet."
+   ],
+   "why": "Deutschland ist größter Nettozahler der EU. Der Haushalt muss einstimmig beschlossen werden und braucht die Zustimmung des EU-Parlaments.",
+   "sources": [
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/politik/ausland/streit-eu-haushalt-costa-merz-digitalsteuer-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s8",
+   "section": "hessen",
+   "kicker": "Frankfurt",
+   "title": "Großrazzia im Bahnhofsviertel gegen Drogenhandel und Geldwäsche",
+   "summary": "Mehr als 350 Einsatzkräfte haben 31 Objekte in Frankfurt, Neu-Isenburg, Hanau und im Saarland durchsucht, darunter Bars, Hotels und Spielhallen. Ermittelt wird gegen neun Beschuldigte.",
+   "details": [
+    "Die Ermittler beschlagnahmten über 150.000 € Bargeld, mehr als 2 kg Kokain und mehr als 1 kg Crack sowie drei Autos; Vermögen von über 1 Mio. € wurde gesichert. Gefunden wurde auch eine Küche zur Herstellung von Crack. Vier Betriebe wurden geschlossen.",
+    "Die Beschuldigten sollen Bars über Strohleute betrieben haben, um Drogengeld zu waschen. Die Razzia gehört zum Sieben-Punkte-Plan der Landesregierung für das Bahnhofsviertel."
+   ],
+   "why": "Das Bahnhofsviertel ist seit Jahren Brennpunkt der Frankfurter Sicherheitspolitik; Stadt und Land wollen mit solchen Einsätzen die Strukturen hinter dem Drogenhandel treffen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://hessenschau.de/panorama/grossrazzia-gegen-drogenhandel-und-geldwaesche-im-frankfurter-bahnhofsviertel-v1,razzia-bahnhofsviertel-106.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Börse",
+   "title": "Schwerste Börsenwoche seit Jahren: Nasdaq −10 %, DAX gut −7 %",
+   "summary": "Der KI-Ausverkauf hat die US-Börsen in der vergangenen Woche schwer getroffen: Nasdaq −10,0 %, S&P 500 −8,6 %, Dow −8,0 %. Der DAX verlor in fünf Tagen gut 7 % und schloss am Freitag bei 24.803 Punkten.",
+   "details": [
+    "Allein am Freitag fiel der S&P 500 um 3,7 % auf 6.910 Punkte, der Nasdaq um 5,3 %; er liegt seit Jahresbeginn im Minus. Nvidia verlor 14 % und in der Woche rund 23 % – die schlechteste Woche seit Oktober 2008. Auslöser ist ein Reuters-Bericht, wonach die Börsenaufsicht SEC mögliche Bilanzierungsprobleme bei Nvidia prüft.",
+    "Die Anthropic-Aktie gab am zweiten Handelstag rund 10 % nach, liegt aber weiter über dem Ausgabepreis von 83 $. Anleger flüchteten in US-Staatsanleihen: Die Rendite zehnjähriger Papiere sank in der Woche von 5,15 auf 4,92 %.",
+    "Die Woche ist wegen Thanksgiving kurz: Am Donnerstag bleiben die US-Börsen geschlossen, am Freitag schließen sie früher. Wichtigster Termin sind die US-Inflationsdaten (PCE) am Mittwoch."
+   ],
+   "why": "Für Welt-ETFs mit hohem US-Tech-Anteil war es eine der schwächsten Wochen seit Langem; der etwas schwächere Euro hat die Verluste in Euro gerechnet leicht gedämpft.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
+    },
+    {
+     "name": "NZZ",
+     "url": "https://www.nzz.ch/wirtschaft/die-ki-branche-zieht-einen-weiteren-rabenschwarzen-boersentag-ein-nvidia-verliert-14-prozent-an-marktwert-ld.10070689"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s10",
+   "section": "wirtschaft",
+   "kicker": "Tarifstreit",
+   "title": "Metallindustrie: Erste 24-Stunden-Warnstreiks seit acht Jahren",
+   "summary": "In der Metall- und Elektroindustrie legen Tausende Beschäftigte ganztägig die Arbeit nieder, unter anderem in BMW- und Audi-Werken, auf Werften und in Hessen. Die IG Metall will die Streiks in dieser Woche fortsetzen.",
+   "details": [
+    "Die Gewerkschaft fordert 5 % mehr Lohn für zwölf Monate. Die Arbeitgeber bieten eine Einmalzahlung abhängig von der Lage des Betriebs, eine Laufzeit von 26 Monaten und 1,3 % mehr Lohn im Jahr 2028. Ein Termin für die vierte Verhandlungsrunde steht noch nicht fest. Die Branche hat rund 3,7 Mio. Beschäftigte.",
+    "Parallel beginnen am Dienstag in Emden die Verhandlungen über den Haustarif bei Volkswagen für rund 130.000 Beschäftigte; auch dort fordert die IG Metall 5 %. VW hat den Tarifvertrag zum Jahresende gekündigt."
+   ],
+   "why": "Ganztägige Streiks treffen die ohnehin schwache Industrie und können Lieferketten in der Autobranche stören.",
+   "sources": [
+    {
+     "name": "ZDFheute",
+     "url": "https://www.zdfheute.de/wirtschaft/warnstreiks-24-stunden-ig-metall-100.html"
+    },
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/ig-metall-setzt-24-stunden-warnstreiks-kommende-woche-fort-v2,streik-ig-metall-102.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s11",
+   "section": "wirtschaft",
+   "kicker": "Notenbanken",
+   "title": "Fed-Gouverneurin Cook warnt vor größeren Zinsschritten, Bessent mahnt Zurückhaltung",
+   "summary": "Fed-Gouverneurin Lisa Cook hält weitere und größere Zinserhöhungen für möglich. US-Finanzminister Scott Bessent warnt die Notenbank dagegen vor einem großen Schritt, weil die Inflation vor allem vom Energiepreisschock komme.",
+   "details": [
+    "Cook schätzt die Inflation nach dem von der Fed bevorzugten Maß PCE für Oktober auf 3,8 %, ohne Energie und Lebensmittel auf 3,2 % – deutlich über dem Ziel von 2 %. Bessent sagte, die Fed solle nach vorn blicken statt zurück.",
+    "An den Terminmärkten gilt eine Erhöhung um 0,25 Prozentpunkte am 9. Dezember als nahezu sicher; Fed-Gouverneur Waller hatte zuletzt auch 0,5 Punkte ins Spiel gebracht. Auch bei der EZB wird für den 17. Dezember inzwischen eine Erhöhung erwartet."
+   ],
+   "why": "Steigende Zinsen machen Anleihen attraktiver und drücken auf die Bewertung großer Tech-Aktien, die in Welt-ETFs stark gewichtet sind.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/economy-news/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-5042202"
+    },
+    {
+     "name": "24/7 Wall St",
+     "url": "https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s12",
+   "section": "tech",
+   "kicker": "Datenschutz",
+   "title": "Signal sperrt Screenshots, um KI-Assistenten aus Chats fernzuhalten",
+   "summary": "Der Messenger Signal blockiert auf Smartphones künftig standardmäßig Screenshots seiner Chats. So sollen KI-Assistenten von Apple, Google, Microsoft und Meta keine Nachrichten mehr mitlesen können.",
+   "details": [
+    "Nach einem Reuters-Bericht hatte Metas KI-Assistent Signal-Nachrichten über Screenshots und Benachrichtigungen ausgelesen. Signal-Präsidentin Meredith Whittaker spricht von einer existenziellen Bedrohung für vertrauliche Kommunikation. Meta sagt, sein Assistent greife nur mit ausdrücklicher Erlaubnis auf andere Apps zu.",
+    "Nutzer können die Sperre in den Datenschutz-Einstellungen abschalten. Signal räumt ein, dass der Schutz unvollständig ist, etwa auf dem Mac, und fordert von Apple, Google und Microsoft klare Möglichkeiten, Apps vom Zugriff der KI auszunehmen."
+   ],
+   "why": "KI-Assistenten, die den Bildschirm lesen, werden Teil der Betriebssysteme. Damit stellt sich für Nutzer neu die Frage, wer vertrauliche Nachrichten mitlesen kann.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.koreatimes.co.kr/world/20261121/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s13",
+   "section": "tech",
+   "kicker": "Plattformen",
+   "title": "YouTube vor Vergleich über rund 3 Mrd. $ mit US-Schulbezirken",
+   "summary": "YouTube hat sich nach einem Bloomberg-Bericht grundsätzlich mit Tausenden US-Schulbezirken auf einen Vergleich über rund 3 Mrd. $ geeinigt. Die Schulen werfen der Plattform vor, Schüler gezielt süchtig zu machen.",
+   "details": [
+    "Kritisiert werden Empfehlungsalgorithmen, automatisches Abspielen und endloses Scrollen. Der Vergleich ist noch nicht endgültig: Die Mehrheit der Schulbezirke und die zuständige Bundesrichterin müssen zustimmen. Meta, Snap und TikTok bleiben im nächsten Prozess ab Februar Beklagte."
+   ],
+   "why": "Ein Vergleich dieser Größe erhöht den Druck auf andere soziale Netzwerke; auch in der EU wird über Schutzregeln für Minderjährige gestritten.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://wdez.com/2026/11/20/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-bloomberg-news-reports/"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "Iran: Außenminister Araghchi erklärt, die Straße von Hormus bleibe geschlossen, bis die USA Irans Bedingungen akzeptieren. Der angekündigte Tanker-Konvoi ist bisher nicht ausgelaufen.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301"
+    }
+   ]
+  },
+  {
+   "text": "Steuern: CSU-Chef Söder fordert, die kalte Progression sofort auszugleichen; Bayern biete an, seinen Anteil zu tragen. Ein voller Ausgleich kostet Bund und Länder zusammen rund 4 Mrd. €.",
+   "sources": [
+    {
+     "name": "dts",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70196056-soeder-verlangt-sofortigen-ausgleich-der-kalten-progression-003.htm"
+    }
+   ]
+  },
+  {
+   "text": "AfD: Björn Höcke ist mit knapp 89 % als Landeschef der AfD Thüringen wiedergewählt worden.",
+   "sources": [
+    {
+     "name": "dpa",
+     "url": "https://www.volksstimme.de/panorama/hocke-als-thuringer-afd-chef-wiedergewahlt-4360319"
+    }
+   ]
+  },
+  {
+   "text": "Fußball: Borussia Dortmund ist nach einem 1:0 in Mönchengladbach Tabellenführer der Bundesliga; der FC Bayern kam gegen den 1. FC Köln nur zu einem 1:1.",
+   "sources": [
+    {
+     "name": "Flashscore",
+     "url": "https://www.flashscore.com/news/soccer-bundesliga-monchengladbach-dortmund-report-november-21-2026/Cxm2dceU/"
+    }
+   ]
+  },
+  {
+   "text": "Formel 1: Max Verstappen hat in der Nacht den Großen Preis von Las Vegas gewonnen, vor Lando Norris und Oscar Piastri. Es folgen noch Katar und Abu Dhabi.",
+   "sources": [
+    {
+     "name": "The Race",
+     "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/"
+    }
+   ]
+  },
+  {
+   "text": "Tennis: Deutschland trifft bei der Davis-Cup-Endrunde in Bologna am Donnerstag im Viertelfinale auf Großbritannien.",
+   "sources": [
+    {
+     "name": "tennis.de",
+     "url": "https://www.tennis.de/news/mitfiebern/2026/showdown-in-bologna--deutschland-traeumt-vom-grossen-coup.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neu",
+    "label": "Kein Handel",
+    "text": "Sonntag: Die Börsen sind geschlossen. Die US-Futures öffnen am Abend und zeigen, ob sich nach der Verlustwoche eine Gegenbewegung andeutet.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Stark schwankend",
+    "text": "Nach dem Ausverkauf ist eine Erholung möglich; US-Inflationsdaten am Mittwoch, Nvidia-Ermittlungen und der kurze Thanksgiving-Handel halten die Lage unruhig.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neg",
+   "label": "Deutliche Verluste",
+   "text": "In der vergangenen Woche fielen Nasdaq um 10 %, S&P 500 um 8,6 % und DAX um gut 7 %; ein MSCI-World-ETF verlor in Dollar rund 8 %. Auslöser: Zweifel an der KI-Branche, Ermittlungen gegen Nvidia und steigende Zinsen.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
+    },
+    {
+     "name": "dpa-AFX",
+     "url": "https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-dax-faellt-unter-25-000-punkte-schwache-tech-werte-ce785ed3da80f622"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Fed und voraussichtlich auch die EZB dürften im Dezember die Zinsen erhöhen. Dazu kommen die Nvidia-Ermittlungen als Unsicherheit für Tech-Werte.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend ist, ob KI-Firmen die hohen Erwartungen mit Gewinnen erfüllen, wie weit die Notenbanken gehen und ob sich die Lage am Golf entspannt.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Die Renditen von US-Staatsanleihen sind in der Woche deutlich gesunken (zehnjährige von 5,15 auf 4,92 %); das entlastet Aktienbewertungen.",
+    "sources": []
+   },
+   {
+    "text": "Der Euro ist auf den tiefsten Stand seit April 2025 gefallen; das mildert die Verluste der US-lastigen ETFs in Euro gerechnet.",
+    "sources": [
+     {
+      "name": "dpa-AFX",
+      "url": "https://www.ariva.de/news/devisen-euro-stagniert-auf-tiefstem-stand-seit-april-2025-12215666"
+     }
+    ]
+   },
+   {
+    "text": "Die Unternehmensgewinne sind solide: Rund 83 % der S&P-500-Firmen haben im letzten Quartal die Erwartungen übertroffen.",
+    "sources": [
+     {
+      "name": "XTB",
+      "url": "https://www.xtb.com/int/market-analysis/news-and-research/three-markets-to-watch-next-week-20-11-2026"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Die Ermittlungen gegen Nvidia treffen eines der größten Einzelgewichte der Welt-Indizes; die Aktie verlor in einer Woche rund 23 %.",
+    "sources": [
+     {
+      "name": "NZZ",
+      "url": "https://www.nzz.ch/wirtschaft/die-ki-branche-zieht-einen-weiteren-rabenschwarzen-boersentag-ein-nvidia-verliert-14-prozent-an-marktwert-ld.10070689"
+     }
+    ]
+   },
+   {
+    "text": "Fed-Vertreter halten weitere, teils größere Zinserhöhungen für nötig; die Inflation in den USA liegt bei fast 4 %.",
+    "sources": [
+     {
+      "name": "24/7 Wall St",
+      "url": "https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/"
+     }
+    ]
+   },
+   {
+    "text": "Raketen in Polen, der Angriff in der Ostsee und die gesperrte Straße von Hormus erhöhen die geopolitischen Risiken.",
+    "sources": []
+   }
+  ],
+  "indicators": [
+   {
+    "label": "MSCI World (ETF)",
+    "value": "−8,4 %",
+    "tone": "neg",
+    "note": "Woche, in Dollar"
+   },
+   {
+    "label": "DAX",
+    "value": "−2,6 %",
+    "tone": "neg",
+    "note": "Fr., 24.803 Punkte"
+   },
+   {
+    "label": "S&P 500",
+    "value": "−3,7 %",
+    "tone": "neg",
+    "note": "Fr., Schluss"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Ölpreis Brent",
+    "value": "≈ 92,6 $",
+    "note": "je Barrel, Fr."
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Mo.",
+    "text": "Nato-Rat berät in Brüssel über die russischen Raketen in Polen; Einkaufsmanagerindizes"
+   },
+   {
+    "when": "Di.",
+    "text": "ifo-Geschäftsklima; Start der VW-Tarifverhandlungen in Emden"
+   },
+   {
+    "when": "Mi.",
+    "text": "USA: PCE-Inflation und zweite Schätzung des BIP; Details zum deutschen BIP"
+   },
+   {
+    "when": "Do.",
+    "text": "US-Börsen wegen Thanksgiving geschlossen; EU-Sondergipfel zum Haushalt (bis Fr.)"
+   },
+   {
+    "when": "Fr.",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab; deutsche Arbeitsmarktdaten"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderquoten für 2027"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
