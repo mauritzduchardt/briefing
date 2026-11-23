@@ -1,0 +1,481 @@
+{
+ "date": "2026-11-23",
+ "meta": {
+  "note": "Quellen konnten teils nur über Suchergebnisse, Agenturtexte und Liveticker geprüft werden. MSCI World nur als Wochenwert eines ETF verfügbar. Keine Anlageberatung.",
+  "generated": "2026-11-23T06:57+01:00"
+ },
+ "glance": [
+  {
+   "text": "Iran hat am Samstagabend US-Stützpunkte in Bahrain mit Drohnen und Raketen angegriffen; vor Hormus melden Tanker Minentreffer und einen Zwischenfall mit Militär.",
+   "story": "s1"
+  },
+  {
+   "text": "Die Weltklimakonferenz in Antalya ist ohne Abschlusserklärung zu Ende gegangen; die EU lehnte einen Text ohne Erwähnung von Öl, Gas und Kohle ab.",
+   "story": "s2"
+  },
+  {
+   "text": "Der Nato-Rat berät heute über die russischen Raketen in Polen; bei einem Drohnenangriff nördlich von Kiew stieg die Zahl der Toten auf zehn.",
+   "story": "s3"
+  },
+  {
+   "text": "Nach der schwersten Börsenwoche seit 2020 deuten US-Futures auf eine Erholung von gut 2 % hin, in Seoul fiel der Kospi dagegen um 5,3 %.",
+   "story": "s6"
+  },
+  {
+   "text": "Der Bundestag beginnt am Dienstag die Schlussberatungen über den Haushalt 2027: 561 Mrd. € Ausgaben und rund 123 Mrd. € neue Kredite im Kernhaushalt.",
+   "story": "s4"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Iran / Golf",
+   "title": "Iran greift US-Stützpunkte in Bahrain an – Zwischenfälle mit Tankern bei Hormus",
+   "summary": "Iran hat am Samstagabend in zwei Wellen Drohnen und ballistische Raketen auf vier US-Stützpunkte in Bahrain abgefeuert. Am Sonntag meldeten Behörden einen Tanker-Zwischenfall mit Militärkräften östlich der Straße von Hormus; Teheran spricht von zwei Supertankern, die auf Minen gelaufen seien.",
+   "details": [
+    "Ziel waren unter anderem die Stützpunkte Sheikh Isa und Juffair, wo das Hauptquartier der Fünften US-Flotte liegt. Bahrains Luftabwehr fing nach Regierungsangaben mehrere Geschosse ab; in einem Industriegebiet brach ein Feuer aus. Staaten der Region verurteilten die Angriffe.",
+    "Hintergrund ist die US-Seeblockade iranischer Ölexporte. Vor der Ölinsel Charg liegen nach iranischen Medienberichten mehr als 14 beladene Tanker bereit, um sie zu durchbrechen. Ob am Sonntag ein Tanker ausgelaufen ist, ist umstritten. Die britische Seefahrtsbehörde UKMTO meldete einen Vorfall nahe dem iranischen Hafen Tschabahar im Golf von Oman.",
+    "US-Präsident Trump sagte, er habe keine Eile und wolle nach dem Jahreswechsel über das weitere Vorgehen entscheiden; ein Abkommen solle Iran dauerhaft am Bau von Atomwaffen hindern. Katar vermittelt weiter zwischen beiden Seiten."
+   ],
+   "why": "Jede Eskalation am Golf kann die Ölpreise und damit Inflation und Zinserwartungen treiben. Bisher gilt das Ölangebot als reichlich, Brent liegt bei rund 92 $.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://de.euronews.com/2026/11/22/iran-greift-us-stutzpunkte-in-bahrain-an-oltanker-durchbrechen-blockade"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Klima",
+   "title": "Weltklimakonferenz COP31 scheitert ohne Abschlusserklärung",
+   "summary": "Die UN-Klimakonferenz in Antalya ist am Sonntag nach zwei Tagen Verlängerung ohne gemeinsamen Beschluss zu Ende gegangen. Die EU und weitere Staaten lehnten den Kompromisstext ab, weil er fossile Brennstoffe nicht erwähnte.",
+   "details": [
+    "Neu seit gestern: Konferenzpräsident Murat Kurum, türkischer Umweltminister, räumte in der Abschlusssitzung ein, dass keine Einigung zustande kam. Die Konferenz war die bisher längste ihrer Art. UN-Generalsekretär Guterres zeigte sich tief enttäuscht.",
+    "Ein erster Entwurf hatte noch einen beschleunigten Ausstieg aus Öl, Gas und Kohle verlangt, spätere Fassungen strichen das. Rund 130 Staaten wollten den Ausstieg ausdrücklich verankern, Ölstaaten wehrten sich dagegen. Bundesumweltminister Carsten Schneider (SPD) sprach von einem zähen Ringen mit den Förderländern.",
+    "Ohne Beschluss gibt es vorerst keine neuen Finanzzusagen für ärmere Staaten. Die offenen Fragen können bei der nächsten Klimakonferenz 2027 in Addis Abeba erneut verhandelt werden."
+   ],
+   "why": "Das Scheitern schwächt den UN-Prozess als Rahmen für den Klimaschutz. Die EU dürfte stärker auf Bündnisse williger Staaten setzen.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/ausland/cop-31-klimakonferenz-antalya-100.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://de.nachrichten.yahoo.com/cop31-antalya-scheitert-eu-verb%C3%BCndete-142857670.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Ukraine / Nato",
+   "title": "Nato-Rat berät über Raketen in Polen – zehn Tote bei Angriff nahe Kiew",
+   "summary": "Der Nordatlantikrat, das wichtigste Nato-Gremium, berät heute in Brüssel über die russischen Flugkörper, die am Donnerstag in Polen eingeschlagen sind. Bei einem russischen Drohnenangriff auf ein Wohnhaus in Dymer nördlich von Kiew starben nach neuen Angaben zehn Menschen.",
+   "details": [
+    "Polens Verteidigungsminister Kosiniak-Kamysz spricht von einer Notfallsitzung und kündigt konkrete Vorschläge zum Schutz der Grenze an; nach ZDF-Angaben handelt es sich um reguläre Konsultationen. Laut der Staatsanwaltschaft Lublin wurde der in Polen gefundene Marschflugkörper Ch-101 erst in diesem Quartal gebaut.",
+    "Neu seit gestern: In Dymer traf eine Drohne ein fünfstöckiges Wohnhaus; am Sonntag galten 14 Menschen als vermisst, am Montagmorgen meldeten die Behörden zehn Tote. Präsident Selenskyj zählte für die vergangene Woche rund 2.700 Drohnen, 1.460 Gleitbomben und 165 Raketen und fordert schnellere Lieferungen von Abwehrraketen.",
+    "Dazu gehören Patriot-Raketen aus dem Nato-Programm PURL, über das europäische Staaten US-Waffen für die Ukraine kaufen. Ukrainische Drohnen trafen am Wochenende zudem Schiffe in der Ostsee und vor Bengasi in Libyen."
+   ],
+   "why": "Wie entschlossen die Nato auf die Einschläge reagiert, gilt als Test ihrer Abschreckung an der Ostflanke, an der auch die Bundeswehr beteiligt ist.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://de.euronews.com/2026/11/22/14-menschen-vermisst-russischer-angriff-trifft-wohnhaus-nordlich-von-kyjiw"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "deutschland",
+   "kicker": "Bundeshaushalt",
+   "title": "Haushaltswoche im Bundestag: Etat 2027 mit Rekordausgaben",
+   "summary": "Der Bundestag berät ab Dienstag abschließend über den Haushalt 2027 und stimmt am Freitag ab. Geplant sind Ausgaben von 560,9 Mrd. € und neue Kredite von 123 Mrd. € im Kernhaushalt, mit Sondervermögen rund 210 Mrd. €.",
+   "details": [
+    "Die Ausgaben steigen gegenüber 2026 um 6,9 %. Größter Posten ist das Arbeits- und Sozialministerium mit 203,3 Mrd. €, die Verteidigung erhält 109,8 Mrd. €. Investiert werden sollen 61,9 Mrd. €.",
+    "Von den Krediten im Kernhaushalt fallen nur 38,4 Mrd. € unter die Schuldenbremse. 84,6 Mrd. € laufen über eine Ausnahme für Verteidigungsausgaben; hinzu kommen Sondervermögen für Infrastruktur und Bundeswehr. Der Haushaltsausschuss hatte den Etat am 13. November mit den Stimmen von Union und SPD beschlossen.",
+    "Die Opposition kritisiert vor allem die hohe Verschuldung. Für 2028 fehlen nach Berichten noch mehr als 25 Mrd. €; ob die geplante Stromsteuersenkung dauerhaft finanziert ist, ist offen."
+   ],
+   "why": "Der Haushalt legt fest, wie viel Geld 2027 in Rente, Bundeswehr und Infrastruktur fließt. Die hohen Kredite erhöhen die Zinslast des Bundes in den kommenden Jahren.",
+   "sources": [
+    {
+     "name": "Bundestag",
+     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+    },
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Tarifstreit",
+   "title": "VW-Tarifrunde beginnt: Konzern will Nullrunden, IG Metall 5 % mehr",
+   "summary": "Am Dienstag beginnen in Emden die Tarifverhandlungen für rund 130.000 Beschäftigte der Volkswagen AG. VW verlangt Nullrunden für 2027 und 2028, die IG Metall fordert 5 % mehr Geld.",
+   "details": [
+    "Volkswagen will außerdem die 35-Stunden-Woche ohne Lohnausgleich an die Auslastung anpassen können und eine tarifliche Zusatzvergütung sowie eine Monatszulage von 167 € streichen. Die IG Metall nennt das einen „Katalog des Grauens“.",
+    "Bis 2030 sollen bei VW bereits 35.000 Stellen in Deutschland wegfallen; weitere rund 12.000 stehen zur Debatte. Betroffen sind neun Standorte, darunter das Werk Kassel in Baunatal.",
+    "Die zweite Runde ist für den 15. Dezember in Zwickau angesetzt. Die Friedenspflicht endet am 31. Dezember, danach sind Warnstreiks möglich."
+   ],
+   "why": "Der Ausgang gilt als Gradmesser dafür, wie stark die Autoindustrie Kosten bei den Beschäftigten senken kann. In Nordhessen hängen Tausende Arbeitsplätze am VW-Werk.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-nullrunde-100.html"
+    },
+    {
+     "name": "Automotive World",
+     "url": "https://www.automotiveworld.com/news/volkswagen-and-ig-metall-to-begin-talks-on-24-november/"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s6",
+   "section": "hessen",
+   "kicker": "Flughafen",
+   "title": "Übelkeit und Erbrechen auf zwei Condor-Flügen nach Frankfurt",
+   "summary": "Auf zwei Condor-Flügen aus der Dominikanischen Republik klagten am Sonntag zahlreiche Passagiere über Übelkeit und Erbrechen. Nach der Landung in Frankfurt wurden mehrere Menschen behandelt, zwei kamen ins Krankenhaus; die Ursache ist unklar.",
+   "details": [
+    "An Bord der beiden Maschinen waren insgesamt rund 620 Menschen. Der Rettungsdienst wurde schon während des Flugs alarmiert und untersuchte die Passagiere auf dem Vorfeld. Die meisten konnten nach Angaben von Condor nach der Behandlung gehen.",
+    "Das Gesundheitsamt ermittelt, was die Beschwerden ausgelöst hat."
+   ],
+   "why": "Ob eine ansteckende Erkrankung oder etwa verdorbene Bordverpflegung dahintersteckt, ist offen; das Ergebnis des Gesundheitsamts steht aus.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/uebelkeit-und-erbrechen-in-zwei-fluegen-aus-dominikanischer-republik-v1,condor-passagiere-unwohlsein-100.html"
+    },
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/hessen-am-morgen/hessens-groesster-weihnachtsmarkt-eroeffnet--hessen-am-morgen-die-nachrichten-im-ticker-vom-23112026,hessen-am-morgen-montag-1040.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s7",
+   "section": "wirtschaft",
+   "kicker": "Börsen",
+   "title": "Nach Ausverkauf: US-Futures erholen sich, Asien bleibt unter Druck",
+   "summary": "Nach der schwersten Börsenwoche seit Beginn der Pandemie stiegen die US-Aktienfutures am Sonntagabend deutlich: S&P 500 +2,1 %, Nasdaq +2,8 %. In Südkorea fiel der Kospi dagegen bis Mittag um 5,3 %.",
+   "details": [
+    "Der Handel in Seoul wurde wegen der starken Schwankungen kurz ausgesetzt; Samsung und SK Hynix verloren rund 4 %. Hongkong gab 1,5 % nach, Taiwan legte zu, Japan blieb wegen eines Feiertags geschlossen. Der DAX-Future notierte am frühen Morgen leicht im Plus bei rund 24.900 Punkten.",
+    "Auslöser des Ausverkaufs sind Zweifel, ob sich die hohen Ausgaben für KI-Chips und Rechenzentren lohnen. Dazu kommen die Krise bei Nvidia nach dem Rücktritt von Firmenchef Jensen Huang und Berichte über Lücken bei US-Exportkontrollen für KI-Chips nach China. Die Aktie von Anthropic fiel am Freitag in Richtung Ausgabekurs.",
+    "In dieser Woche sind die US-Börsen am Donnerstag wegen Thanksgiving geschlossen und am Freitag nur halbtags geöffnet; geringe Umsätze können Schwankungen verstärken."
+   ],
+   "why": "Für Welt-ETFs mit hohem US-Tech-Anteil ist entscheidend, ob die Erholung hält. Großbanken wie Goldman Sachs und Morgan Stanley erwarten nach eigenen Prognosen für Ende 2027 weiter steigende Kurse.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/asien-boersen-ki-ausverkauf-setzt-sich-in-asien-fort-kopsi-sackt-um-mehr-als-fuenf-prozent-ab/100271898.html"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s8",
+   "section": "wirtschaft",
+   "kicker": "Handel",
+   "title": "Großbritannien und EU vereinbaren Annäherung nach dem Brexit",
+   "summary": "Großbritannien und die EU haben Abkommen über einfachere Lebensmittelexporte, verknüpften Emissionshandel und ein Jugendprogramm besiegelt. Bis zu 100.000 unter 30-Jährige pro Seite sollen bis zu drei Jahre im jeweils anderen Gebiet leben, arbeiten oder studieren dürfen.",
+   "details": [
+    "Premierminister Andy Burnham unterzeichnete die Vereinbarungen am Freitag mit Kommissionspräsidentin von der Leyen und Ratspräsident Costa. Er beziffert den Nutzen für die britische Wirtschaft auf rund 22 Mrd. $.",
+    "Der Emissionshandel ist das System, in dem Unternehmen Rechte für den CO2-Ausstoß kaufen müssen; die Verknüpfung soll Zusatzkosten an der Grenze vermeiden. Streit gibt es noch über Studiengebühren: Die EU-Staaten wollen das Jugendprogramm erst umsetzen, wenn EU-Studierende in Großbritannien nicht mehr zahlen als Einheimische. Darüber wird sechs Monate weiterverhandelt.",
+    "Eine Rückkehr in die Zollunion steht nicht zur Debatte."
+   ],
+   "why": "Für deutsche Exporteure und Lebensmittelhersteller sinkt der Aufwand im Handel mit dem wichtigen Absatzmarkt Großbritannien.",
+   "sources": [
+    {
+     "name": "AFP",
+     "url": "https://www.yahoo.com/news/politics/articles/eu-uk-eye-reset-deal-015738623.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "tech",
+   "kicker": "KI",
+   "title": "OpenAI schlägt Messlatte vor, um KI-Entwicklung zu bremsen",
+   "summary": "OpenAI-Chefwissenschaftler Jakub Pachocki schlägt vor, dass KI-Firmen sich auf eine gemeinsame Leistungsgrenze für ihre Modelle verpflichten. Diese soll erst überschritten werden, wenn sich das Verhalten von KI besser überwachen lässt.",
+   "details": [
+    "Als Maßstab nennt er einen Messwert dafür, wie gut ein Modell Texte vorhersagt; je niedriger, desto leistungsfähiger. Unterhalb einer bestimmten Schwelle seien sprunghaft neue Fähigkeiten etwa in Mathematik und Cybersicherheit aufgetreten.",
+    "Der Vorschlag knüpft an einen Plan von Anthropic-Chef Dario Amodei vom September an, das Tempo der Spitzenforschung gemeinsam zu begrenzen. OpenAI-Chef Sam Altman nannte den Beitrag die wichtigste Veröffentlichung seines Unternehmens seit Langem."
+   ],
+   "why": "Freiwillige Selbstbeschränkung der großen KI-Firmen würde die Debatte über staatliche Regeln beeinflussen; verbindlich ist bisher nichts.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "Frankfurt: Der Weihnachtsmarkt rund um den Römerberg, der größte in Hessen, öffnet heute mit 250 Ständen; Oberbürgermeister Mike Josef eröffnet ihn am frühen Abend.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/hessen-am-morgen/hessens-groesster-weihnachtsmarkt-eroeffnet--hessen-am-morgen-die-nachrichten-im-ticker-vom-23112026,hessen-am-morgen-montag-1040.html"
+    }
+   ]
+  },
+  {
+   "text": "Hessen: Bei Bürgermeister-Stichwahlen gewann in Ahnatal Amtsinhaber Stephan Hänes (SPD) mit 21 Stimmen Vorsprung, in Gladenbach Dirk Füssmann (CDU) mit gut 52 %.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/hessen-am-morgen/hessens-groesster-weihnachtsmarkt-eroeffnet--hessen-am-morgen-die-nachrichten-im-ticker-vom-23112026,hessen-am-morgen-montag-1040.html"
+    }
+   ]
+  },
+  {
+   "text": "Gold: Der Goldpreis erholt sich am Montagmorgen um gut 1 % auf rund 3.576 $ je Unze, nach einem Wochenverlust von etwa 9 %.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/asien-boersen-ki-ausverkauf-setzt-sich-in-asien-fort-kopsi-sackt-um-mehr-als-fuenf-prozent-ab/100271898.html"
+    }
+   ]
+  },
+  {
+   "text": "Konjunktur: Heute erscheinen die Einkaufsmanagerindizes für Deutschland und die Eurozone, morgen das ifo-Geschäftsklima.",
+   "sources": [
+    {
+     "name": "Dow Jones",
+     "url": "https://www.finanzen.at/nachrichten/aktien/tagesvorschau-montag-23-november-1036790243"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "pos",
+    "label": "Leicht freundlich",
+    "text": "Die US-Futures liegen gut 2 % im Plus, der DAX-Future aber nur knapp darüber und Asien schwach – eine Gegenbewegung ist wahrscheinlich, die Schwankungen bleiben hoch.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "US-Inflationsdaten am Mittwoch, der verkürzte Thanksgiving-Handel mit dünnen Umsätzen und die Lage bei Nvidia und am Golf lassen die Richtung offen.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neg",
+   "label": "Deutliche Verluste",
+   "text": "In der vergangenen Woche fielen Nasdaq um 10 %, S&P 500 um 8,6 % und DAX um gut 7 %; ein MSCI-World-ETF verlor in Dollar rund 8 %. Auslöser: Zweifel an der KI-Branche, die Nvidia-Krise und steigende Zinsen.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Die Fed dürfte am 9. Dezember die Zinsen erhöhen, die EZB entscheidet am 17. Dezember; dazu kommen die Unsicherheit bei Nvidia und die Lage am Golf.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend ist, ob KI-Firmen die Erwartungen mit Gewinnen erfüllen und wie weit die Notenbanken gehen; große US-Banken rechnen für Ende 2027 dennoch mit höheren Kursen.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Die US-Futures zeigen nach dem Ausverkauf eine kräftige Gegenbewegung: Dow rund +800 Punkte, Nasdaq +2,8 %.",
+    "sources": [
+     {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+     }
+    ]
+   },
+   {
+    "text": "Goldman Sachs und Morgan Stanley erwarten den S&P 500 Ende 2027 bei 8.700 Punkten, deutlich über dem aktuellen Stand.",
+    "sources": [
+     {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/"
+     }
+    ]
+   },
+   {
+    "text": "Der schwache Euro mildert die Verluste der US-lastigen ETFs in Euro gerechnet.",
+    "sources": [
+     {
+      "name": "dpa-AFX",
+      "url": "https://www.ariva.de/news/devisen-euro-stagniert-auf-tiefstem-stand-seit-april-2025-12215666"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Die Sorge um KI-Investitionen hält an: Der Kospi fiel am Montag um 5,3 %, der US-Halbleiterindex hatte am Freitag 10,7 % verloren.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/asien-boersen-ki-ausverkauf-setzt-sich-in-asien-fort-kopsi-sackt-um-mehr-als-fuenf-prozent-ab/100271898.html"
+     }
+    ]
+   },
+   {
+    "text": "Fed-Vertreter halten weitere, teils größere Zinserhöhungen für nötig; die US-Inflation liegt bei fast 4 %.",
+    "sources": [
+     {
+      "name": "24/7 Wall St",
+      "url": "https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/"
+     }
+    ]
+   },
+   {
+    "text": "Irans Angriffe auf US-Stützpunkte in Bahrain und Zwischenfälle mit Tankern bei Hormus erhöhen die geopolitischen Risiken.",
+    "sources": [
+     {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "MSCI World (ETF)",
+    "value": "−8,4 %",
+    "tone": "neg",
+    "note": "Vorwoche, in Dollar"
+   },
+   {
+    "label": "DAX",
+    "value": "−2,6 %",
+    "tone": "neg",
+    "note": "Fr., 24.803 Punkte"
+   },
+   {
+    "label": "Nasdaq-Futures",
+    "value": "+2,8 %",
+    "tone": "pos",
+    "note": "vorbörslich"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Gold",
+    "value": "≈ 3.576 $",
+    "tone": "pos",
+    "note": "je Unze, +1,2 %"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "Nato-Rat zu den Raketen in Polen; Einkaufsmanagerindizes; Rede von New-York-Fed-Chef Williams"
+   },
+   {
+    "when": "Di.",
+    "text": "ifo-Geschäftsklima; Haushaltswoche im Bundestag beginnt; VW-Tarifverhandlungen in Emden"
+   },
+   {
+    "when": "Mi.",
+    "text": "USA: PCE-Inflation und zweite Schätzung des BIP"
+   },
+   {
+    "when": "Do.",
+    "text": "US-Börsen wegen Thanksgiving geschlossen; EU-Sondergipfel zum Haushalt (bis Fr.)"
+   },
+   {
+    "when": "Fr.",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab; US-Börsen nur halbtags"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderquoten für 2027"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
