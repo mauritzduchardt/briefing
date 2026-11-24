@@ -1,0 +1,497 @@
+{
+ "date": "2026-11-24",
+ "meta": {
+  "note": "Quellen teils nur über Suchergebnisse, Agenturtexte und Aggregatoren geprüft. MSCI-World-Tageswert und US-Futures am Morgen nicht ermittelbar; Euro-Dollar-Kurs ohne aktuelle Quelle. Keine Anlageberatung.",
+  "generated": "2026-11-24T06:51+01:00"
+ },
+ "glance": [
+  {
+   "text": "Die Nato hat nach den drei russischen Marschflugkörpern in Polen ein Awacs-Aufklärungsflugzeug verlegt; die Botschafter sehen die volle Verantwortung bei Russland.",
+   "story": "s1"
+  },
+  {
+   "text": "Nvidia holt Jensen Huang als Chef zurück: Die Aktie steigt um gut 31 %, Nasdaq +6,5 %, S&P 500 +4,7 %, DAX +2,2 % – die stärkste Erholung seit Langem.",
+   "story": "s8"
+  },
+  {
+   "text": "Russische Luftangriffe töten in der Region Kiew mindestens 15 Menschen; die Friedensgespräche stocken bei Gebietsfragen und Sicherheitsgarantien.",
+   "story": "s2"
+  },
+  {
+   "text": "Der Bundestag beginnt heute die Schlussberatung des Haushalts 2027: rund 560 Mrd. € Ausgaben, insgesamt rund 210 Mrd. € neue Schulden.",
+   "story": "s4"
+  },
+  {
+   "text": "Metall-Tarifstreit: Das Opel-Werk Rüsselsheim stand 24 Stunden still; am Mittwoch wird in Mannheim weiterverhandelt.",
+   "story": "s6"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Nato / Polen",
+   "title": "Nato verlegt Awacs nach Polen – alle drei Flugkörper waren russisch",
+   "summary": "Nach dem Einschlag russischer Flugkörper in Polen hat die Nato ein Frühwarnflugzeug vom Typ Awacs nach Polen verlegt. Die Botschafter im Nordatlantikrat sehen die volle Verantwortung bei Russland; weitere Kräfte werden geprüft.",
+   "details": [
+    "Neu seit gestern: Nach Angaben der Staatsanwaltschaft Lublin waren alle drei Objekte, die am Donnerstag in den polnischen Luftraum eindrangen, russische Marschflugkörper vom Typ Ch-101. Warschau hatte zunächst von zwei Raketen und einer Drohne gesprochen. Zwei gingen im Karpatenvorland nieder, einer in der Region Lublin; verletzt wurde niemand.",
+    "Der Nordatlantikrat, das wichtigste Gremium der Nato, beriet am Montag in Brüssel über die Lage. Nato-Sprecherin Allison Hart teilte mit, der Oberbefehlshaber in Europa habe das Awacs-Flugzeug genehmigt und prüfe, ob weitere Kräfte entsandt werden. Ein schwedischer Kampfpilot hatte während des Vorfalls Abschusserlaubnis, schoss aber wegen schlechter Sicht nicht.",
+    "Polen hatte vorab konkrete Vorschläge angekündigt und wurde in Brüssel von Vize-Verteidigungsminister Paweł Zalewski vertreten. Generalsekretär Rutte hatte am Samstag in Warschau zugesichert, die Nato werde jeden Zentimeter polnischen Gebiets verteidigen."
+   ],
+   "why": "Die Nato verstärkt die Überwachung an der Ostflanke, ohne militärisch zu eskalieren. Wie das Bündnis auf künftige Grenzverletzungen reagiert, bleibt die zentrale Frage für die Sicherheit in Europa.",
+   "sources": [
+    {
+     "name": "United24",
+     "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90893"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Mindestens 15 Tote bei russischen Angriffen in der Region Kiew",
+   "summary": "Bei russischen Luftangriffen in der Region Kiew sind nach ukrainischen Angaben mindestens 15 Menschen getötet worden, allein elf in einem Wohnhaus in Dymer. Die von den USA vermittelten Friedensgespräche kommen nicht voran.",
+   "details": [
+    "In Dymer, rund 45 km nördlich von Kiew, traf ein Angriff ein fünfstöckiges Wohnhaus. In Wyschnewe starben beim Angriff auf einen Supermarkt drei Menschen, 15 wurden verletzt. Zudem griff Russland ein Umspannwerk in der Region Dnipropetrowsk an. Präsident Putin hatte nach ukrainischen Angriffen auf die Krim-Brücke eine deutlich härtere Antwort angekündigt.",
+    "Die Ukraine meldete ihrerseits, Drohnen hätten am Sonntag das russische Patrouillenschiff „Merkuri“ im libyschen Hafen Bengasi versenkt.",
+    "Russland und die Ukraine hatten am 10. und 11. November in Abu Dhabi nach neun Monaten Pause wieder verhandelt. Streitpunkte sind Gebiete und Sicherheitsgarantien; Moskau lehnt eine Beteiligung der Nato daran ab. Kremlsprecher Peskow kündigte bald neue Dreiergespräche mit den USA an, ohne Termin."
+   ],
+   "why": "Die Kämpfe nehmen trotz Verhandlungen zu. Ein Durchbruch bei den Gesprächen gilt derzeit als nicht absehbar.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"
+    },
+    {
+     "name": "SBS",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008859694"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Israel",
+   "title": "Israel: Koalitionsgespräche zwischen Eisenkot und Likud ohne Ergebnis",
+   "summary": "Die Parteien des designierten Regierungschefs Gadi Eisenkot und von Benjamin Netanjahus Likud haben eine weitere Gesprächsrunde über eine Einheitsregierung ohne Einigung beendet. Eisenkot bereitet notfalls eine Minderheitsregierung vor.",
+   "details": [
+    "Nach Berichten des Senders Kan will Eisenkot, Chef der Partei Yashar, in den kommenden Wochen eine Koalition verkünden und das Parlament binnen ein, zwei Tagen darüber abstimmen lassen. Mit den religiösen und arabischen Parteien sowie dem Likud gebe es bislang keine nennenswerten Fortschritte.",
+    "Im Lager Eisenkots gibt es Streit über das Vorgehen: Er und Ex-Premier Naftali Bennett sind laut Times of Israel uneins, ob dem Likud eine Frist gesetzt werden soll. Zugleich widersprach Eisenkot Netanjahus Warnungen, ein Krieg mit Iran stehe dringend bevor. Eine weitere Verhandlungsrunde ist vereinbart."
+   ],
+   "why": "Von der künftigen Regierung hängen Israels Kurs gegenüber Iran und die brüchige Waffenruhe im Gazastreifen ab.",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-23-2026/"
+    },
+    {
+     "name": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/23/world/politics/netanyahu-eisenkot-talks-israel-government/"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "deutschland",
+   "kicker": "Haushalt",
+   "title": "Haushaltswoche beginnt: Klingbeil bringt Etat 2027 in die Schlussberatung",
+   "summary": "Finanzminister Lars Klingbeil (SPD) eröffnet heute die viertägige Schlussberatung des Bundeshaushalts 2027. Geplant sind rund 560 Mrd. € Ausgaben im Kernhaushalt und insgesamt rund 210 Mrd. € neue Schulden; abgestimmt wird am Freitag.",
+   "details": [
+    "Der Etat ist bei Klingbeils Rede technisch noch nicht fertig: Die im Koalitionsausschuss beschlossene Senkung der Stromsteuer muss noch eingearbeitet werden. Sie kostet den Bund rund 5,4 Mrd. € und soll mit nicht abgerufenen Mitteln für erneuerbare Energien bezahlt werden. Die Ausschüsse beraten das Begleitgesetz am Mittwoch in Sondersitzungen.",
+    "Die Ausgaben steigen gegenüber 2026 um rund 36 Mrd. €, für Verteidigung sind fast 140 Mrd. € vorgesehen. Zu rund 123 Mrd. € Krediten im Kernhaushalt kommen Kredite aus den Sondervermögen für Infrastruktur (57,8 Mrd. €) und Bundeswehr (29,6 Mrd. €). Zucker- und Plastiksteuer wurden verschoben, Kürzungen beim Wohngeld abgewendet.",
+    "Am Mittwoch folgt die Generaldebatte, in der Kanzler Merz auf die Opposition antwortet. Die Grünen kritisieren, jeder dritte Euro sei kreditfinanziert."
+   ],
+   "why": "Mit dem Haushalt werden Stromsteuer-Senkung, Verteidigungsausgaben und die hohe Neuverschuldung für 2027 festgeschrieben – mit Folgen für Energiekosten und den Anleihemarkt.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/etat-2027-was-an-dieser-bundestagswoche-besonders-ist/100272229.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Volkswagen",
+   "title": "VW-Tarifverhandlungen beginnen: Konzern will Nullrunden und weniger Zulagen",
+   "summary": "In Emden beginnen heute die Tarifverhandlungen für mehr als 120.000 Beschäftigte der Volkswagen AG an neun Standorten, darunter Kassel. VW fordert Nullrunden für 2027 und 2028, die IG Metall 5 % mehr Geld.",
+   "details": [
+    "VW will außerdem Zusatzzahlungen und Zulagen streichen und die 35-Stunden-Woche je nach Auslastung ohne Lohnausgleich anpassen können. Der Konzern hatte Ende September zehn Tarifverträge ganz oder teilweise gekündigt. Im Zukunftsplan 2030 sollen zusätzlich zu den bereits vereinbarten 35.000 Stellen rund 12.000 weitere in Deutschland wegfallen.",
+    "Die IG Metall nennt die Forderungen einen „Katalog des Grauens“. Weiterverhandelt wird am 15. Dezember in Zwickau. Die Friedenspflicht endet am 31. Dezember, danach sind Warnstreiks möglich; Verhandlungsführer Thorsten Gröger erwartet keine Einigung mehr in diesem Jahr."
+   ],
+   "why": "Der Konflikt betrifft auch das VW-Werk in Kassel. Ab Januar drohen Warnstreiks beim größten deutschen Autobauer.",
+   "sources": [
+    {
+     "name": "Stuttgarter Zeitung",
+     "url": "https://www.stuttgarter-zeitung.de/wirtschaft/ringen-um-schaerfere-sparplaene-ig-metall-und-vw-starten-am-dienstag-tarifverhandlungen-79774742.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s6",
+   "section": "hessen",
+   "kicker": "Rüsselsheim",
+   "title": "Metall-Tarifstreit: Opel-Werk Rüsselsheim 24 Stunden bestreikt",
+   "summary": "Die IG Metall hat das Opel-Werk in Rüsselsheim am Montag 24 Stunden lang bestreikt; ganztägig gestreikt wurde auch bei GKN in Offenbach, Airbus Helicopters in Kassel, Vakuumschmelze in Hanau und Safran in Herborn.",
+   "details": [
+    "Die IG Metall fordert für rund 3,7 Mio. Beschäftigte der Metall- und Elektroindustrie 5 % mehr Geld bei 12 Monaten Laufzeit. Die Arbeitgeber bieten 1,3 % ab Juli 2028 bei 26 Monaten Laufzeit plus eine Einmalzahlung, die unter Bedingungen ausfallen kann. Die Gewerkschaft spricht von einem „Generalangriff“ auf den Flächentarif, also den für die ganze Branche geltenden Vertrag.",
+    "Hessenmetall verweist auf hohe Arbeits-, Energie- und Bürokratiekosten. Für Dienstag sind in Hessen zunächst keine weiteren Streiks angekündigt. Die vierte Verhandlungsrunde findet am Mittwoch in Mannheim statt; scheitert sie, kündigt die IG Metall neue Streiks an."
+   ],
+   "why": "Ganztägige Warnstreiks sind ein ungewöhnlich hartes Mittel. Ohne Annäherung am Mittwoch dürften weitere Werke in Hessen stillstehen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/opel-mitarbeiter-in-ruesselsheim-im-24-stunden-streik--ig-metall-sieht-generalangriff-v1,opel-streik-100.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s7",
+   "section": "hessen",
+   "kicker": "Landespolitik",
+   "title": "Machtkampf in der Hessen-SPD: Mitgliederentscheid über Spitzenkandidatur rückt näher",
+   "summary": "In der hessischen SPD wird eine Urwahl des Spitzenkandidaten für die Landtagswahl 2028 wahrscheinlicher. Landeschef Sören Bartol nennt einen Mitgliederentscheid nach einem Krisengespräch einen „sehr, sehr guten Weg“.",
+   "details": [
+    "Mehr als 150 Landräte, Ober- und Bürgermeister wollen statt Wirtschaftsminister Kaweh Mansoori den Offenbacher Oberbürgermeister Felix Schwenke als Spitzenkandidaten; koordiniert wird die Gruppe vom früheren Hanauer OB Claus Kaminsky. Rund 40.000 Mitglieder könnten abstimmen. Schwenke selbst hat sich zu einer Kandidatur nicht geäußert.",
+    "Ein Wechsel im Ministeramt ist vom Tisch: Mansoori bleibt Wirtschaftsminister. Anfang 2027 soll ein Parteitreffen das Wahlprogramm vorbereiten, danach entscheiden die Gremien über das Verfahren."
+   ],
+   "why": "Der Streit belastet die SPD als Juniorpartner der CDU in der Landesregierung, in Umfragen liegt sie bei rund 15 %.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/politik/machtkampf-in-hessen-spd-urwahl-des-spitzenkandidaten-rueckt-naeher-v1,spd_mitgliederentscheid-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s8",
+   "section": "wirtschaft",
+   "kicker": "Börsen",
+   "title": "Kräftige Erholung: Nasdaq +6,5 %, S&P 500 +4,7 %, DAX +2,2 %",
+   "summary": "Nach der schweren Vorwoche haben die Börsen am Montag einen großen Teil der Verluste wettgemacht. Auslöser war die Rückkehr von Jensen Huang an die Nvidia-Spitze: Nasdaq +6,5 %, S&P 500 +4,7 %, Dow +3,0 %, DAX +2,2 % auf 25.337 Punkte.",
+   "details": [
+    "Der US-Halbleiterindex stieg um 14 %, die Nvidia-Aktie um rund 31 %. In Frankfurt führten Infineon, Siemens Energy und Hochtief den DAX an. Der Euro Stoxx 50 gewann 2,2 %. Die Angstbarometer-Kennzahl VIX, die erwartete Schwankungen misst, fiel deutlich.",
+    "In Asien setzte sich die Erholung am Dienstag fort: Der Nikkei lag mittags knapp 4 % im Plus, der Kospi zeitweise mehr als 7 %, Taiwans Börse rund 9 %. Der DAX-Future notierte am frühen Morgen kaum verändert bei rund 25.400 Punkten.",
+    "Die Woche ist wegen Thanksgiving verkürzt: Am Donnerstag bleiben die US-Börsen geschlossen, am Freitag schließen sie früher. Die Zweifel am KI-Boom räumt die Erholung nach Einschätzung des Handelsblatts nicht aus."
+   ],
+   "why": "Für die Welt-ETFs mit hohem US-Tech-Anteil ist das eine deutliche Entlastung. Ob die Erholung hält, hängt von Nvidia, den Zinsen und den US-Inflationsdaten ab.",
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-hang-seng-jensen-huang-rally-in-asien-raeumt-zweifel-an-ki-boom-nicht-aus/100272218.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Konjunktur",
+   "title": "Deutsche Wirtschaft wächst so stark wie seit 2022 nicht mehr",
+   "summary": "Der Einkaufsmanagerindex für Deutschland ist im November auf 55,0 Punkte gestiegen, den höchsten Stand seit März 2022. Werte über 50 zeigen Wachstum an; erwartet worden waren gut 53 Punkte.",
+   "details": [
+    "Der Index beruht auf einer Umfrage unter Einkaufsmanagern und gilt als frühes Konjunktursignal. Die Industrie erreichte 55,0 Punkte und stellt erstmals seit dreieinhalb Jahren wieder ein, die Dienstleister kamen auf 54,0 Punkte. Die Abschwächung zu Beginn des Quartals habe sich als kurzlebig erwiesen, so S&P-Ökonom Phil Smith.",
+    "In Frankreich schrumpft die Wirtschaft dagegen weiter (Dienstleister 46,6, Industrie 47,9). Heute um 10 Uhr folgt das ifo-Geschäftsklima; erwartet werden 90,5 nach 90,2 Punkten."
+   ],
+   "why": "Ein stärkeres Wachstum stützt deutsche Unternehmensgewinne, kann bei einer Inflation von 4 % im Euroraum aber auch den Druck auf die EZB erhöhen.",
+   "sources": [
+    {
+     "name": "aktiencheck",
+     "url": "https://aktiencheck.de/artikel/einkaufsmanagerindex-deutschland-550-punkte-und-56-monatshoch-stuetzt-die"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s10",
+   "section": "tech",
+   "kicker": "Nvidia",
+   "title": "Nvidia setzt Jensen Huang wieder als Chef ein – nach Druck aus dem Weißen Haus",
+   "summary": "Nvidias Verwaltungsrat hat Gründer Jensen Huang elf Tage nach seinem Rücktritt einstimmig wieder als Konzernchef eingesetzt. US-Präsident Trump hatte sich zuvor mehrfach für ihn ausgesprochen; die Aktie stieg um rund 31 %.",
+   "details": [
+    "Huang war am 12. November zurückgetreten, nachdem er eine Affäre eingeräumt hatte; die Frau steht laut US-Regierung im Verdacht, für China zu spionieren. Finanzchefin Colette Kress führte das Unternehmen übergangsweise. Noch am 17. November hatte der Verwaltungsrat eine Rückkehr abgelehnt; nun erklärt er, die Regierung stufe Huang nicht als Sicherheitsrisiko ein.",
+    "Gegen Nvidia laufen laut Handelsblatt vier Untersuchungen, darunter eine zur möglichen Umgehung des Exportverbots für KI-Chips nach China. Am 3. Dezember befasst sich der Bankenausschuss des US-Senats mit Exportkontrollen; Demokraten-Fraktionschef Schumer kündigte an, Huang genau zu prüfen."
+   ],
+   "why": "Nvidia ist eines der schwersten Unternehmen in Welt-ETFs. Die Personalie beruhigt die Märkte, die offenen Ermittlungen bleiben aber ein Risiko.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-hang-seng-jensen-huang-rally-in-asien-raeumt-zweifel-an-ki-boom-nicht-aus/100272218.html"
+    }
+   ],
+   "ongoing": true
+  }
+ ],
+ "brief": [
+  {
+   "text": "Fed: New-York-Fed-Chef John Williams hält die Inflation für zu hoch und signalisiert weitere Zinserhöhungen; die nächste Entscheidung fällt am 9. Dezember.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.marketscreener.com/news/fed-s-williams-says-inflation-still-too-high-signals-more-rate-hikes-possible-ce7851dadf81f62c"
+    }
+   ]
+  },
+  {
+   "text": "Golf: Die jemenitischen Huthi sollen am Sonntag eine saudische Raffinerie angegriffen haben; in Bahrain wurden bei einem iranischen Angriff auf eine Industrieanlage zwei Menschen verletzt.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://finance.yahoo.com/news/oil-prices-fall-amid-equity-022442236.html"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz-3013503"
+    }
+   ]
+  },
+  {
+   "text": "Öl: Trotz der Angriffe am Golf fiel Brent am Montag unter 90 $ je Barrel, US-Öl erstmals seit August unter 80 $; Grund ist die Sorge vor einem Überangebot. Die Opec+ entscheidet am 29. November über 2027.",
+   "sources": [
+    {
+     "name": "Goldesel",
+     "url": "https://goldesel.de/artikel/abendupdate-23-11-dax-schliesst-nach-huang-rueckkehr-215-hoeher-nasdaq-100-vor-bestem-tag-des-jahres-us-oel-unter-80-dollar"
+    }
+   ]
+  },
+  {
+   "text": "Gold: Der Goldpreis stieg am Montag um rund 3 % auf etwa 3.650 $ je Unze; die Rendite zehnjähriger US-Staatsanleihen lag bei 4,94 %.",
+   "sources": [
+    {
+     "name": "Goldesel",
+     "url": "https://goldesel.de/artikel/abendupdate-23-11-dax-schliesst-nach-huang-rueckkehr-215-hoeher-nasdaq-100-vor-bestem-tag-des-jahres-us-oel-unter-80-dollar"
+    }
+   ]
+  },
+  {
+   "text": "Hessen: Die Eisengießerei Fritz Winter in Stadtallendorf will ihren Betriebsratsvorsitzenden wegen antisemitischer Beiträge in sozialen Medien gerichtlich aus dem Betriebsrat ausschließen lassen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/hessen-am-morgen/katze-steckt-in-lueftungsgitter-fest---feuerwehr-rueckt-mit-presslufthammer-an--hessen-am-morgen-die-nachrichten-im-ticker-vom-23112026,hessen-am-morgen-montag-1040.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Der DAX-Future liegt nach dem Plus vom Montag kaum verändert, Asien zieht kräftig an; ifo am Vormittag und Dell-Zahlen am Abend geben Impulse.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "US-Inflationsdaten vor Thanksgiving, dünner Feiertagshandel und die Frage, ob die Nvidia-Erholung hält, lassen die Richtung offen.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neu",
+   "label": "Kräftige Gegenbewegung",
+   "text": "Nach der schweren Vorwoche (Nasdaq −10 %) holten die Börsen am Montag einen Teil zurück: Nasdaq +6,5 %, S&P 500 +4,7 %, DAX +2,2 %. Auslöser war Huangs Rückkehr an die Nvidia-Spitze.",
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Die Fed dürfte am 9. Dezember die Zinsen erhöhen, die EZB entscheidet am 17. Dezember; dazu kommen die Ermittlungen gegen Nvidia und die Lage am Golf.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend ist, ob die KI-Firmen die hohen Erwartungen mit Gewinnen erfüllen und wie weit die Notenbanken die Zinsen anheben; die anziehende deutsche Konjunktur stützt.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Huangs Rückkehr beruhigt die Anleger: Nvidia +31 %, Halbleiterwerte +14 %, die Erholung setzt sich in Asien fort.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+     }
+    ]
+   },
+   {
+    "text": "Die deutsche Wirtschaft wächst laut Einkaufsmanagerindex so stark wie seit März 2022 nicht mehr.",
+    "sources": [
+     {
+      "name": "aktiencheck",
+      "url": "https://aktiencheck.de/artikel/einkaufsmanagerindex-deutschland-550-punkte-und-56-monatshoch-stuetzt-die"
+     }
+    ]
+   },
+   {
+    "text": "Fallende Ölpreise dämpfen den Inflationsdruck.",
+    "sources": [
+     {
+      "name": "Goldesel",
+      "url": "https://goldesel.de/artikel/abendupdate-23-11-dax-schliesst-nach-huang-rueckkehr-215-hoeher-nasdaq-100-vor-bestem-tag-des-jahres-us-oel-unter-80-dollar"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Fed-Vertreter wie John Williams signalisieren weitere Zinserhöhungen; die zehnjährige US-Rendite liegt bei 4,94 %.",
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://www.marketscreener.com/news/fed-s-williams-says-inflation-still-too-high-signals-more-rate-hikes-possible-ce7851dadf81f62c"
+     }
+    ]
+   },
+   {
+    "text": "Gegen Nvidia laufen vier Untersuchungen, unter anderem zu Chip-Exporten nach China; Zweifel am KI-Boom bleiben.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-hang-seng-jensen-huang-rally-in-asien-raeumt-zweifel-an-ki-boom-nicht-aus/100272218.html"
+     }
+    ]
+   },
+   {
+    "text": "Angriffe am Golf und in der Straße von Hormus halten die geopolitischen Risiken hoch.",
+    "sources": [
+     {
+      "name": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz-3013503"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "S&P 500",
+    "value": "+4,7 %",
+    "tone": "pos",
+    "note": "Vortag"
+   },
+   {
+    "label": "DAX",
+    "value": "+2,2 %",
+    "tone": "pos",
+    "note": "Vortag, 25.337 Punkte"
+   },
+   {
+    "label": "DAX-Future",
+    "value": "±0,0 %",
+    "note": "vorbörslich"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Gold",
+    "value": "≈ 3.648 $",
+    "tone": "pos",
+    "note": "je Unze, +3 %"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "ifo-Geschäftsklima (10 Uhr); Haushaltsberatung im Bundestag; VW-Tarifauftakt; abends Dell und HP"
+   },
+   {
+    "when": "Mi.",
+    "text": "Generaldebatte im Bundestag; vierte Verhandlungsrunde Metall- und Elektroindustrie in Mannheim"
+   },
+   {
+    "when": "Do.",
+    "text": "US-Börsen wegen Thanksgiving geschlossen"
+   },
+   {
+    "when": "Fr.",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab; US-Börsen nur verkürzt"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderpolitik 2027"
+   },
+   {
+    "when": "3. Dez.",
+    "text": "US-Senat: Anhörung zu Exportkontrollen für Chips"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
