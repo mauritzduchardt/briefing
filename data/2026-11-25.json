@@ -1,0 +1,541 @@
+{
+ "date": "2026-11-25",
+ "meta": {
+  "note": "Viele Seiten waren nicht abrufbar; mehrere Meldungen beruhen auf Agenturtexten und Suchergebnissen. MSCI-World-Tageswert und genaue US-Futures-Stände nicht ermittelbar. Keine Anlageberatung.",
+  "generated": "2026-11-25T06:49+01:00"
+ },
+ "glance": [
+  {
+   "text": "Am Golf wurden erneut Tanker getroffen; der Schiffsverkehr durch die Straße von Hormus ist binnen zwei Wochen um mehr als 40 % eingebrochen.",
+   "story": "s1"
+  },
+  {
+   "text": "Laut Selenskyj drängen die US-Unterhändler Witkoff und Kushner auf ein Friedensabkommen mit Russland noch vor Januar.",
+   "story": "s2"
+  },
+  {
+   "text": "Chipwerte belasten erneut: Nasdaq −1,5 %, DAX −1,0 %, in Asien fallen Kospi und Nikkei kräftig – der Dow schließt aber erstmals über 50.000.",
+   "story": "s9"
+  },
+  {
+   "text": "Der Bundestag debattiert heute den Haushalt 2027 mit 560 Mrd. € Ausgaben; die Stromsteuer soll 2027 für alle auf das EU-Minimum sinken.",
+   "story": "s5"
+  },
+  {
+   "text": "Lufthansa will insgesamt 5.000 Stellen streichen, 1.000 mehr als bisher bekannt; auch Frankfurt ist betroffen.",
+   "story": "s7"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Iran / Golf",
+   "title": "Weitere Tanker getroffen – Verkehr durch Hormus um 40 % eingebrochen",
+   "summary": "Die britische Seesicherheitsbehörde UKMTO meldet drei Schiffe, die am Montagabend in der Straße von Hormus von Geschossen getroffen wurden; Irans Marine spricht von zwei Tankern, die am Dienstag auf Minen liefen. Die Zahl der Durchfahrten ist binnen zwei Wochen um mehr als 40 % gesunken.",
+   "details": [
+    "Neu seit gestern: Die Besatzungen der drei von UKMTO gemeldeten Schiffe blieben unverletzt, die Schiffe setzten ihre Fahrt fort. Irans Revolutionsgarden bezeichnen Durchfahrten ohne ihre Erlaubnis als illegal; das US-Zentralkommando hatte frühere iranische Minenmeldungen als falsch zurückgewiesen. In Riad wurde zudem ein Hochhaus im Finanzviertel bei einem Angriff getroffen, Einzelheiten nannte Saudi-Arabien nicht.",
+    "Nach Daten von Marine Traffic passierten vom 1. bis 7. November 226 Schiffe die Meerenge, vom 17. bis 23. November nur noch 125. Vor dem Krieg waren es 125 bis 140 Schiffe am Tag. Binnen einer Woche wurden nach Al-Jazeera-Angaben mehr als 25 Tanker getroffen.",
+    "Hintergrund: Der Krieg begann im Februar mit Angriffen der USA und Israels; die USA blockieren iranische Häfen. Teheran will die Meerenge geschlossen halten, bis die Angriffe enden, die Blockade aufgehoben und Sanktionen gelockert werden. Die USA prüfen außerdem Cyberangriffe auf mindestens 50 Tanker."
+   ],
+   "why": "Durch Hormus lief vor dem Krieg rund ein Fünftel des weltweiten Ölhandels. Der Ölpreis reagiert derzeit trotzdem verhalten (Brent rund 88 $), weil Anleger ein Überangebot erwarten.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Selenskyj: USA drängen auf Friedensabkommen bis Januar",
+   "summary": "Der ukrainische Präsident Wolodymyr Selenskyj sagt, die US-Unterhändler Steve Witkoff und Jared Kushner wollten ein Abkommen mit Russland so schnell wie möglich, möglichst vor Januar. Kyjiw sei zu Verhandlungen bereit, aber nicht um den Preis seiner Interessen.",
+   "details": [
+    "Witkoff ist Sondergesandter von US-Präsident Trump, Kushner dessen Schwiegersohn und Berater; beide vermitteln seit Monaten zwischen Kyjiw und Moskau. Die Gespräche kamen zuletzt nicht voran, während Russland die Angriffe auf ukrainische Städte fortsetzt; in der Region Kiew starben in den vergangenen Tagen mindestens 15 Menschen.",
+    "Am Donnerstag beraten die EU-Staats- und Regierungschefs auch darüber, wie die Ukraine im Jahr 2027 finanziert wird."
+   ],
+   "why": "Der US-Zeitdruck erhöht den Druck auf Kyjiw, Zugeständnisse zu machen. Für Europa geht es um die Frage, wer die Ukraine künftig finanziert und absichert.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://de.investing.com/news/world-news/selenskyj-usa-machen-ukraine-druck-auf-frieden-bis-januar-3784861"
+    },
+    {
+     "name": "NV",
+     "url": "https://english.nv.ua/nation/witkoff-and-kushner-want-ukraine-russia-peace-deal-as-soon-as-possible-50662152.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Nato / Polen",
+   "title": "Raketen in Polen waren fabrikneu – Tusk sucht Schulterschluss mit Nachbarn",
+   "summary": "Die drei russischen Marschflugkörper, die vergangene Woche in Polen abstürzten, wurden laut Staatsanwaltschaft erst in diesem Quartal in Dubna bei Moskau gebaut. Regierungschef Donald Tusk wirbt bei Tschechien, der Slowakei und Ungarn für gemeinsames Handeln für die Ukraine.",
+   "details": [
+    "Neu seit gestern: Am Montagabend gab es in Teilen der Woiwodschaft Lublin kurzzeitig Luftalarm, Anwohner an der Grenze sollten Schutz suchen. Polen bestellte den russischen Botschafter ein. Verletzt wurde bei dem Vorfall vom 20. November niemand.",
+    "Die Nato hat nach Beratungen der 32 Verbündeten ein Awacs-Frühwarnflugzeug an einen vorgeschobenen Standort verlegt, nach dpa-Informationen nach Litauen. Die 14 Maschinen der Nato-Flotte sind in Geilenkirchen stationiert. Polen fordert mehr Aufklärung aus der Luft und schnellere Abschussentscheidungen."
+   ],
+   "why": "Dass die Flugkörper aus aktueller Produktion stammen, zeigt, dass Russland trotz Sanktionen weiter Raketen in Serie baut. Die Ostflanke bleibt ein Schwerpunkt der Nato.",
+   "sources": [
+    {
+     "name": "dpa",
+     "url": "https://web.de/magazine/politik/russland-krieg-ukraine/nato-russischen-raketenabstuerzen-konsequenzen-42976584"
+    },
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/ausland/polen-marschflugkoerper-ukraine-krieg-russland-100.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "welt",
+   "kicker": "EU",
+   "title": "EU-Sondergipfel ab Donnerstag: Haushalt bis 2034 und Geld für die Ukraine",
+   "summary": "Die Staats- und Regierungschefs der EU treffen sich am Donnerstag und Freitag in Brüssel. Es geht um den nächsten siebenjährigen EU-Haushalt, den Finanzbedarf der Ukraine für 2027 und die Neubesetzung der EZB-Spitze.",
+   "details": [
+    "Ratspräsident António Costa hat für den Haushalt 2028 bis 2034 rund 1,78 Bio. € vorgeschlagen, gut 200 Mrd. € weniger als die EU-Kommission. Kanzler Merz hält auch das für zu viel. Ein Gipfel im Oktober war ohne Ergebnis geblieben.",
+    "Die Amtszeit von EZB-Präsidentin Christine Lagarde endet 2027. Als Kandidaten gelten der Spanier Pablo Hernández de Cos und der Niederländer Klaas Knot; eine Entscheidung wird beim regulären Gipfel am 17. und 18. Dezember erwartet."
+   ],
+   "why": "Deutschland ist größter Nettozahler; die Höhe des EU-Haushalts wirkt direkt auf den Bundeshaushalt. Die Wahl der EZB-Spitze prägt die Zinspolitik der kommenden Jahre.",
+   "sources": [
+    {
+     "name": "Interfax",
+     "url": "https://en.interfax.com.ua/news/general/1241778.html"
+    },
+    {
+     "name": "aktiencheck",
+     "url": "https://aktiencheck.de/artikel/ezb-nachfolge-knot-gegen-hernandez-de-cos-entscheidung-beim-eu-gipfel-am-17-und"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Haushalt",
+   "title": "Generaldebatte heute: Merz verteidigt Rekordhaushalt, Stromsteuer sinkt für alle",
+   "summary": "Im Bundestag spricht Kanzler Friedrich Merz (CDU) heute in der Generaldebatte über den Haushalt 2027 mit rund 560 Mrd. € Ausgaben. Neu ist, dass die Stromsteuer 2027 für alle Haushalte und Unternehmen auf das EU-Minimum sinken soll.",
+   "details": [
+    "Die Generaldebatte beginnt um 9 Uhr und dauert rund vier Stunden; traditionell eröffnet sie die größte Oppositionsfraktion, die AfD. Der Etat wurde nach der Bereinigungssitzung noch einmal aufgeschnürt, weil Merz auf der Stromsteuersenkung für alle bestand. Sie kostet den Bund rund 5 Mrd. € und soll aus ungenutzten Mitteln für die Ökostromförderung bezahlt werden. Finanzminister Klingbeil (SPD) sagt, eine Lücke von 34 Mrd. € sei geschlossen.",
+    "Insgesamt sind rund 210 Mrd. € neue Schulden geplant: 123 Mrd. € im Kernhaushalt, der Rest über die Sondervermögen für Infrastruktur und Bundeswehr. Für Verteidigung sind fast 140 Mrd. € vorgesehen. Verschoben wurden Abgaben auf zuckerhaltige Getränke und Plastikverpackungen.",
+    "Die Abstimmung ist am Freitag; Merz ist dann beim EU-Gipfel in Brüssel. Die Opposition kritisiert, dass jeder dritte Euro über Kredite finanziert wird."
+   ],
+   "why": "Für Verbraucher bedeutet die Stromsteuersenkung 2027 eine kleine Entlastung bei der Stromrechnung. Die hohe Neuverschuldung erhöht langfristig die Zinslast des Bundes.",
+   "sources": [
+    {
+     "name": "WiWo",
+     "url": "https://www.wiwo.de/politik/deutschland/haushaltwoche-im-bundestag-rund-210-milliarden-euro-neue-schulden-geplant/100272260.html"
+    },
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.onvista.de/news/2026/11-25-hoehepunkt-der-haushaltswoche-generaldebatte-mit-merz-0-10-26580198"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s6",
+   "section": "deutschland",
+   "kicker": "Tarifstreit",
+   "title": "Metall-Tarifstreit: Vierte Verhandlungsrunde heute in Mannheim",
+   "summary": "Nach ganztägigen Warnstreiks mit rund 340.000 Beteiligten verhandeln IG Metall und Arbeitgeber heute in Mannheim weiter. Die Gewerkschaft fordert 5 % mehr für 3,7 Mio. Beschäftigte, die Arbeitgeber bieten eine Einmalzahlung und 1,3 % ab Juli 2028.",
+   "details": [
+    "Erstmals verhandeln die Bezirke Baden-Württemberg und Nordrhein-Westfalen gemeinsam, um einen Pilotabschluss zu erzielen, den andere Regionen übernehmen können. Die IG Metall will einen Vertrag über ein Jahr, die Arbeitgeber über 26 Monate.",
+    "Streitpunkt ist auch, wann Betriebe in Not vom Tarifvertrag abweichen dürfen: Die IG Metall will dafür ein geregeltes Verfahren, die Arbeitgeber eine Lösung in den Betrieben. Beide Seiten wollen sich gegen Mittag äußern."
+   ],
+   "why": "Der Abschluss setzt den Maßstab für Löhne in Deutschlands wichtigster Industriebranche, auch für hessische Werke wie Opel in Rüsselsheim. Ohne Einigung drohen weitere Streiks.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/metall-tarifstreit-ig-metall-und-arbeitgeber-verhandeln-mittwoch-wieder/100272133.html"
+    },
+    {
+     "name": "aktiencheck",
+     "url": "https://aktiencheck.de/artikel/ig-metall-tarifstreit-5-prozent-gegen-13-prozent-vierte-runde-am-mittwoch-in"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s7",
+   "section": "hessen",
+   "kicker": "Lufthansa",
+   "title": "Lufthansa will 5.000 Stellen streichen – auch Frankfurt betroffen",
+   "summary": "Die Lufthansa plant, weitere 1.000 Stellen abzubauen, zusätzlich zu den bereits angekündigten 4.000. Betroffen ist auch Frankfurt, das größte Drehkreuz des Konzerns.",
+   "details": [
+    "Das Unternehmen schließt nach eigenen Worten beim Abbau keinen Bereich aus. Welche Standorte und Berufsgruppen wie stark betroffen sind, ist noch offen."
+   ],
+   "why": "Lufthansa ist einer der größten Arbeitgeber in der Region Frankfurt; der Abbau dürfte Verwaltung und Flughafenumfeld treffen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/lufthansa-5000-stellen-auf-der-streichliste---frankfurt-betroffen-v1,lufthansa-stellen-106.html"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-stellenabbau-bei-lufthansa-wir-schliessen-keinen-bereich-aus/100271990.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s8",
+   "section": "hessen",
+   "kicker": "Frankfurt",
+   "title": "Getöteter Geschäftsmann in Sachsenhausen: Zwei Jugendliche festgenommen",
+   "summary": "Fünf Wochen nach dem gewaltsamen Tod eines 38-jährigen Geschäftsmanns in Frankfurt-Sachsenhausen hat die Polizei einen 16- und einen 17-Jährigen aus dem Kreis Offenbach festgenommen. Gegen beide wurde Haftbefehl wegen Mordes erlassen.",
+   "details": [
+    "Der Mann war am 19. Oktober tot in seiner Wohnung in der Brückenstraße gefunden worden; die Tat soll etwa zwei Tage zuvor geschehen sein. Er war Geschäftsführer mehrerer Firmen. Das Motiv und ob sich Täter und Opfer kannten, ist unklar; die Ermittler nannten keine weiteren Einzelheiten."
+   ],
+   "why": "Die Festnahme klärt einen Fall, zu dem die Polizei vergangene Woche öffentlich um Hinweise gebeten hatte.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/geschaeftsmann-in-frankfurt-getoetet-polizei-nimmt-zwei-jugendliche-fest-v1,frankfurt-sachsenhausen-tot-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Börse",
+   "title": "Chipwerte unter Druck: Nasdaq −1,5 %, DAX −1,0 % – Dow erstmals über 50.000",
+   "summary": "Nach der kräftigen Erholung vom Montag haben Anleger am Dienstag erneut KI- und Chipaktien verkauft: Nasdaq −1,48 %, S&P 500 −0,53 %, DAX −0,97 %. Der Dow Jones schloss dagegen erstmals über 50.000 Punkten.",
+   "details": [
+    "Nvidia verlor mehr als 5 % und damit rund 240 Mrd. $ Börsenwert, nachdem die Aktie am Montag nach der Rückkehr von Jensen Huang um 31 % gestiegen war. Der Dow enthält weniger Technologiewerte und hielt sich besser; zugleich meldete das Conference Board einen kräftigen Anstieg des US-Verbrauchervertrauens.",
+    "In Asien setzte sich der Ausverkauf in der Nacht fort: Südkoreas Kospi fiel um fast 6 %, der japanische Nikkei um mehr als 3 %; besonders Speicherchip-Hersteller wie Samsung, SK Hynix und Kioxia gaben deutlich nach. Die US-Futures für die Nasdaq liegen im Minus."
+   ],
+   "why": "Die Welt-ETFs hängen stark an großen US-Technologiewerten; die Zweifel am KI-Boom sorgen weiter für starke Schwankungen. Breiter aufgestellte Indizes halten sich besser.",
+   "sources": [
+    {
+     "name": "Startup Fortune",
+     "url": "https://startupfortune.com/the-dow-closes-at-50019-while-nasdaq-drops-148-on-an-ai-chip-selloff/"
+    },
+    {
+     "name": "investingLive",
+     "url": "https://investinglive.com/stock-market-update/asian-stocks-slide-as-ai-doubts-return-kospi-down-nearly-6-and-nikkei-more-than-3/"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s10",
+   "section": "wirtschaft",
+   "kicker": "Konjunktur",
+   "title": "Ifo-Geschäftsklima steigt auf höchsten Stand seit Frühjahr 2023",
+   "summary": "Das Ifo-Geschäftsklima, das wichtigste Stimmungsbarometer der deutschen Wirtschaft, ist im November auf 90,6 Punkte gestiegen. Dienstleister und Handel sind zuversichtlicher, die Industrie bremst.",
+   "details": [
+    "Für den Index befragt das Münchner Ifo-Institut rund 9.000 Unternehmen nach ihrer Lage und ihren Erwartungen. Schon am Montag hatte der Einkaufsmanagerindex mit 55,0 Punkten das stärkste Wachstum seit März 2022 angezeigt. An der Börse gab der Ifo-Wert dem DAX keinen Schub."
+   ],
+   "why": "Zwei starke Frühindikatoren in Folge sprechen für eine Belebung der deutschen Wirtschaft im Winter; die schwache Industrie bleibt das Sorgenkind.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.ariva.de/news/roundup-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-12218362"
+    },
+    {
+     "name": "aktiencheck",
+     "url": "https://aktiencheck.de/artikel/ifo-geschaeftsklima-steigt-im-november-auf-906-punkte-dienstleister-und-handel"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s11",
+   "section": "tech",
+   "kicker": "KI-Bilder",
+   "title": "Zwei US-Bundesstaaten verklagen SpaceX wegen sexualisierter Grok-Bilder",
+   "summary": "Oregon und Virginia haben SpaceX verklagt, weil der KI-Assistent Grok sexualisierte Bilder realer Menschen ohne deren Zustimmung erzeugt habe, auch von Kindern. Sie verlangen Strafzahlungen und gerichtliche Auflagen.",
+   "details": [
+    "Grok gehört zum Firmenverbund von Elon Musk, zu dem auch SpaceX zählt. Die Generalstaatsanwälte werfen dem Unternehmen Verstöße gegen den Verbraucherschutz und irreführende Angaben zur Sicherheit vor. SpaceX erklärt, strenge Schutzmaßnahmen durchzusetzen."
+   ],
+   "why": "Die Klagen gehören zu den ersten Versuchen von US-Bundesstaaten, KI-Anbieter für sogenannte Deepfakes haftbar zu machen.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s12",
+   "section": "tech",
+   "kicker": "KI-Chips",
+   "title": "Amazon kauft KI-Technik für 7,5 Mrd. $ und greift Nvidia an",
+   "summary": "Amazon übernimmt nach einem Bericht von TechCrunch Technik und Forschungsteam des KI-Start-ups Decart für 7,5 Mrd. $. Damit sollen KI-Modelle effizienter auf Amazons eigenen Trainium-Chips laufen, die der Konzern künftig auch an andere verkaufen will.",
+   "details": [
+    "Bisher dominiert Nvidia den Markt für KI-Chips. Amazon, Google und andere Konzerne entwickeln eigene Chips, um unabhängiger zu werden und Kosten zu senken."
+   ],
+   "why": "Mehr Wettbewerb bei KI-Chips könnte Nvidias Preissetzungsmacht schwächen – ein Thema für Anleger, weil Nvidia im MSCI World stark gewichtet ist.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "USA: Das Verbrauchervertrauen des Conference Board ist im November von 91,9 auf 103,3 Punkte gestiegen, den höchsten Stand seit Januar 2025.",
+   "sources": [
+    {
+     "name": "Stock Analysis",
+     "url": "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
+    }
+   ]
+  },
+  {
+   "text": "Gesundheit: Der britische Gesundheitsdienst NHS testet KI beim Auswerten von Mammografien; an der Studie sollen fast 700.000 Frauen über drei Jahre teilnehmen.",
+   "sources": [
+    {
+     "name": "Semafor",
+     "url": "https://www.semafor.com/article/11/23/2026/uk-starts-major-ai-breast-cancer-trial"
+    }
+   ]
+  },
+  {
+   "text": "Offenbach: Stadt und Deutsche Bahn haben die Modernisierung des Hauptbahnhofs vereinbart; bis 2030 sollen Rampen und Aufzüge entstehen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/offenbacher-hauptbahnhof-soll-schoener-werden-v1,offenbach-bahnhof-modernisierung-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Friedberg: Ein Heimatschutzbataillon der Bundeswehr zieht in der ersten Hälfte 2027 in die frühere US-Kaserne Ray Barracks.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/gesellschaft/friedberg-heimatschutzbataillon-der-bundeswehr-zieht-in-ray-barracks-v1,ray-barracks-friedberg-heimatschutz-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Frankfurt: Fachleute empfehlen der Stadt in der Crack-Krise, sich am Zürcher Modell zu orientieren; Frankfurt erwägt ein Pilotprojekt.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/gesellschaft/crack-krise-was-frankfurt-von-zuerich-lernen-kann-v1,drogenbericht-102.html"
+    }
+   ]
+  },
+  {
+   "text": "Hessen: 2025 wurden 705 Autos gestohlen, 5,4 % weniger als im Vorjahr; bundesweit ging die Zahl um fast 14 % zurück.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/mehr-autodiebstaehle-in-hessen,autodiebstaehle-104.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neg",
+    "label": "Leicht schwächer",
+    "text": "Die Nasdaq-Futures liegen im Minus und in Asien fallen Chipwerte kräftig; am Nachmittag geben die US-Inflationsdaten (PCE) vor Thanksgiving zusätzliche Impulse.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Dünner Feiertagshandel in den USA, der EU-Gipfel und die Opec+-Entscheidung am Sonntag treffen auf anhaltende Zweifel am KI-Boom; die Richtung ist offen.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neu",
+   "label": "Starke Schwankungen",
+   "text": "Nach der schwersten Woche seit Jahren (Nasdaq −10 %) folgte am Montag eine kräftige Erholung (Nasdaq +6,5 %), am Dienstag gaben Chipwerte erneut nach (Nasdaq −1,5 %, DAX −1,0 %). Breite und weniger techlastige Werte wie der Dow halten sich besser.",
+   "sources": [
+    {
+     "name": "Startup Fortune",
+     "url": "https://startupfortune.com/the-dow-closes-at-50019-while-nasdaq-drops-148-on-an-ai-chip-selloff/"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Die Fed dürfte am 9. Dezember die Zinsen erhöhen, die EZB entscheidet am 17. Dezember; dazu kommen die Unruhe um KI-Werte und die Lage am Golf.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Entscheidend ist, ob die KI-Firmen die hohen Erwartungen mit Gewinnen erfüllen und wie weit die Notenbanken die Zinsen anheben; die anziehende Konjunktur in Deutschland und den USA stützt.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Ifo-Geschäftsklima und Einkaufsmanagerindex zeigen die beste Stimmung in der deutschen Wirtschaft seit Jahren.",
+    "sources": [
+     {
+      "name": "dpa-AFX",
+      "url": "https://www.ariva.de/news/roundup-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-12218362"
+     }
+    ]
+   },
+   {
+    "text": "Das US-Verbrauchervertrauen ist auf den höchsten Stand seit Januar 2025 gestiegen; der Dow schloss erstmals über 50.000 Punkten.",
+    "sources": [
+     {
+      "name": "Stock Analysis",
+      "url": "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
+     }
+    ]
+   },
+   {
+    "text": "Der Ölpreis bleibt trotz der Angriffe am Golf unter 90 $ je Barrel und dämpft den Inflationsdruck.",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "KI- und Chipwerte geraten erneut unter Druck: Nvidia verlor am Dienstag rund 240 Mrd. $ Börsenwert, in Asien fielen Speicherchip-Hersteller kräftig.",
+    "sources": [
+     {
+      "name": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/"
+     }
+    ]
+   },
+   {
+    "text": "Fed-Vertreter wie John Williams signalisieren weitere Zinserhöhungen.",
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://www.marketscreener.com/news/fed-s-williams-says-inflation-still-too-high-signals-more-rate-hikes-possible-ce7851dadf81f62c"
+     }
+    ]
+   },
+   {
+    "text": "Die Angriffe in der Straße von Hormus halten die geopolitischen Risiken hoch.",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "S&P 500",
+    "value": "−0,5 %",
+    "tone": "neg",
+    "note": "Vortag"
+   },
+   {
+    "label": "DAX",
+    "value": "−1,0 %",
+    "tone": "neg",
+    "note": "Vortag"
+   },
+   {
+    "label": "Nasdaq-Futures",
+    "value": "im Minus",
+    "tone": "neg",
+    "note": "vorbörslich, ohne Wert"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Ölpreis Brent",
+    "value": "≈ 88 $",
+    "note": "je Barrel, ungefähr"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "US-Inflationsdaten (PCE); Generaldebatte im Bundestag; Metall-Tarifrunde in Mannheim"
+   },
+   {
+    "when": "Do.",
+    "text": "US-Börsen wegen Thanksgiving geschlossen; EU-Sondergipfel in Brüssel beginnt"
+   },
+   {
+    "when": "Fr.",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab; US-Börsen nur verkürzt"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderpolitik 2027"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB; ab 17. Dez. EU-Gipfel mit Entscheidung über die EZB-Spitze"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
