@@ -1,0 +1,489 @@
+{
+ "date": "2026-11-26",
+ "meta": {
+  "note": "Mehrere Leitmedien (NZZ, Reuters, CNBC) waren nicht abrufbar; ergänzend wurden AP, ORF, Euronews, Al Jazeera und taz genutzt. Ergebnis der Metall-Tarifrunde stand bei Redaktionsschluss noch aus.",
+  "generated": "2026-11-26T06:57+01:00"
+ },
+ "glance": [
+  {
+   "text": "Iran meldet zwei weitere Tanker, die in der Straße von Hormus auf Minen gelaufen sind, und verlangt, dass Schiffe ihre Durchfahrt mit Teheran abstimmen.",
+   "story": "s1"
+  },
+  {
+   "text": "Die USA schlagen neue Zölle gegen 14 Handelspartner vor, darunter die EU und China; für die EU soll die vereinbarte Obergrenze von 15 % gelten.",
+   "story": "s9"
+  },
+  {
+   "text": "Heute beginnt in Brüssel der EU-Sondergipfel zum Haushalt 2028–2034; strittig sind Kürzungen und ein 45-Mrd.-€-Kredit für die Ukraine.",
+   "story": "s2"
+  },
+  {
+   "text": "US-Inflation steigt auf 3,8 %, eine Zinserhöhung der Fed im Dezember gilt als sicher; der DAX fällt auf den tiefsten Stand seit Juli.",
+   "story": "s10"
+  },
+  {
+   "text": "In der Generaldebatte kündigt Kanzler Merz Reformen bei Rente, Krankenversicherung und Bürgergeld an; die AfD will gegen den Haushalt klagen.",
+   "story": "s5"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Iran",
+   "title": "Hormus: Zwei weitere Tanker auf Minen gelaufen – Iran stellt Bedingungen",
+   "summary": "Nach Angaben der iranischen Revolutionsgarden sind am Mittwoch zwei Öltanker in der Straße von Hormus auf Seeminen gelaufen und in Brand geraten. Teheran warnt alle Schiffe, die Durchfahrt nicht ohne Abstimmung mit iranischen Kräften zu wagen.",
+   "details": [
+    "Die Tanker waren laut Iran auf einer „nicht genehmigten Route“ unterwegs; bereits am Dienstag soll ein Containerschiff nahe Chasab nach einem Minentreffer liegengeblieben sein. Unabhängig bestätigt sind die Angaben nicht. Iran hat zudem 26 Schlepper auf eine schwarze Liste gesetzt, die nun 266 Schiffe umfasst.",
+    "Die Straße von Hormus zwischen Iran und Oman ist die wichtigste Meerenge für Öl- und Gasexporte aus dem Golf. Seit Kriegsbeginn Ende Februar kontrolliert Iran die Durchfahrt zunehmend; Fachleute sehen in der Schlepper-Liste den Versuch, angegriffenen Schiffen Hilfe beim Abschleppen und Löschen zu verwehren.",
+    "Teheran will den Normalbetrieb erst wieder zulassen, wenn die USA ihre Seeblockade iranischer Häfen aufheben und der Krieg „an allen Fronten“ endet. Über Katar bot Iran an, die Meerenge binnen 48 Stunden zu öffnen, sobald diese Bedingungen erfüllt sind."
+   ],
+   "why": "Der Ölpreis liegt mit über 90 $ je Barrel weit über dem Vorkriegsniveau von rund 72 $; das hält Inflation und Zinsen hoch und belastet Aktienmärkte, auch Mauritz' Welt-ETFs.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-25/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.insurancejournal.com/news/international/2026/11/25/893726.htm"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "EU",
+   "title": "EU-Sondergipfel beginnt: Streit um Haushalt bis 2034 und Geld für Kyjiw",
+   "summary": "Die Staats- und Regierungschefs der EU beraten ab heute in Brüssel über den siebenjährigen Haushalt 2028–2034 und einen neuen Kredit von 45 Mrd. € für die Ukraine. Eine Einigung wird erst im Dezember angestrebt.",
+   "details": [
+    "Der Kompromissvorschlag von Ratspräsident António Costa kürzt den ursprünglichen Kommissionsentwurf um 204 Mrd. €. Sparsame Staaten wie Deutschland, die Niederlande und Schweden wollen tiefere Einschnitte bei Agrar- und Regionalförderung, 17 vor allem ost- und südeuropäische Staaten lehnen das ab.",
+    "Russische Angriffe haben im ukrainischen Haushalt 2027 eine Lücke von rund 70 Mrd. € gerissen. Die EU soll zwei Drittel über einen gemeinsam finanzierten Kredit decken. Die Slowakei, Tschechien, Ungarn und Bulgarien wollen sich nicht beteiligen; Kanzler Merz droht, den Haushalt zu blockieren, wenn nicht alle 27 mitziehen."
+   ],
+   "why": "Der EU-Haushalt legt fest, wie viel Geld bis 2034 in Landwirtschaft, Regionen, Verteidigung und Wettbewerbsfähigkeit fließt; Deutschland ist größter Nettozahler.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Raketen auf Kiew – Kushner sieht Gespräche über Gebiete festgefahren",
+   "summary": "Russland hat Kiew am Mittwochabend erneut mit ballistischen Raketen angegriffen. US-Unterhändler Jared Kushner räumte ein, dass die Gespräche mit Putin über Gebietsfragen feststecken.",
+   "details": [
+    "Bürgermeister Vitali Klitschko rief die Bewohner auf, in den Schutzräumen zu bleiben; Angaben zu Opfern lagen zunächst nicht vor. Am Morgen waren bei einem Angriff im Gebiet Odessa zwei Menschen getötet worden.",
+    "Kushner sagte, die USA könnten der Ukraine keine präziseren Sicherheitszusagen geben als die Nato-Beistandsklausel. Er und Steve Witkoff hätten nach vielen Stunden mit Putin bei der Frage der Gebietsabtretungen festgesteckt. Russlands Botschafter in Berlin forderte, die Europäer sollten vor einer Beteiligung an Verhandlungen zunächst nach Moskau kommen."
+   ],
+   "why": "Die USA drängen auf ein Abkommen bis Januar; ohne Lösung der Gebietsfrage bleibt ein Waffenstillstand nach Einschätzung der Beteiligten fern.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "welt",
+   "kicker": "Israel",
+   "title": "Eisenkot gewinnt Lieberman als ersten Koalitionspartner",
+   "summary": "Der mit der Regierungsbildung beauftragte Gadi Eisenkot hat sich mit Avigdor Liebermans Partei Israel Beitenu auf einen Koalitionspakt verständigt. Für eine Mehrheit fehlen ihm aber weiter deutlich Sitze.",
+   "details": [
+    "Eisenkots Partei Jaschar kommt mit ihren Partnern auf rund 48 der 120 Sitze in der Knesset, nötig sind 61. Das Lager von Benjamin Netanjahus Likud hat 53 Sitze; die arabischen Parteien mit 19 Sitzen gelten als mögliche Unterstützer. Gespräche über eine Einheitsregierung mit dem Likud laufen weiter.",
+    "Eisenkots Frist endet am 6. Dezember und kann um 14 Tage verlängert werden. Scheitert er, erhält Netanjahu eine Chance; danach drohen Neuwahlen im kommenden Jahr."
+   ],
+   "why": "Wer Israel regiert, entscheidet mit über den Kurs im Krieg mit Iran und damit über die Lage am Golf und den Ölpreis.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/iran-krieg-regierung-in-israel-eisenkot-schliesst-ersten-koalitionspakt/100136895.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Bundestag",
+   "title": "Generaldebatte: Merz kündigt Sozialreformen an, AfD will gegen Haushalt klagen",
+   "summary": "In der Generaldebatte zum Haushalt 2027 hat Kanzler Friedrich Merz (CDU) Reformen bei Rente, Krankenversicherung und Bürgergeld angekündigt. Der Staat könne sich „nicht mehr alles leisten“. Die AfD kündigte eine Verfassungsklage gegen den Etat an.",
+   "details": [
+    "Der Haushalt sieht rund 560 Mrd. € Ausgaben vor; einschließlich Sondervermögen sind etwa 210 Mrd. € neue Schulden geplant. Merz räumte ein, das Verfahren verdiene „keinen Schönheitspreis“, das Ergebnis sei aber vertretbar. Zur Ukraine sagte er, Russland wolle mehr als die Ukraine – der einzige Moment mit Applaus über Fraktionsgrenzen hinweg.",
+    "AfD-Chefin Alice Weidel sprach von Rekordverschwendung und kritisierte die Ukraine-Hilfe. Ihr Ko-Chef Tino Chrupalla kündigte eine Normenkontrollklage an, also eine Prüfung des Haushalts durch das Verfassungsgericht. Grüne und Linke warfen der Koalition Flickschusterei und Kürzungen zulasten von Frauen vor.",
+    "Die zugesagte Senkung der Stromsteuer für alle muss noch mit 5,4 Mrd. € im Haushaltsausschuss nachgetragen werden. Am Freitag stimmt der Bundestag ab."
+   ],
+   "why": "Die angekündigten Reformen bei Rente, Gesundheit und Bürgergeld können ab 2027 Beiträge und Leistungen für Millionen Menschen verändern; Details stehen noch aus.",
+   "sources": [
+    {
+     "name": "taz",
+     "url": "https://taz.de/Generaldebatte-zum-Haushalt/!6233274/"
+    },
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s6",
+   "section": "deutschland",
+   "kicker": "Tarife",
+   "title": "Metall-Tarifrunde: Auch nach Nachtsitzung keine Einigung",
+   "summary": "IG Metall und Arbeitgeber haben in Mannheim bis zum frühen Donnerstagmorgen ohne Ergebnis verhandelt. Es geht um die Einkommen von 3,7 Mio. Beschäftigten der Metall- und Elektroindustrie.",
+   "details": [
+    "Die Gewerkschaft fordert 5 % mehr Geld für zwölf Monate. Gesamtmetall bietet eine Einmalzahlung, die in Krisenfällen entfallen kann, und 1,3 % mehr ab Juli 2028 bei 26 Monaten Laufzeit. Strittig ist auch, unter welchen Bedingungen Betriebe vom Tarifvertrag abweichen dürfen.",
+    "Verhandelt wird für Baden-Württemberg und Nordrhein-Westfalen; ein Abschluss gilt als Vorbild für alle Bezirke, auch Hessen. Vorausgegangen waren bundesweite 24-Stunden-Warnstreiks, unter anderem bei Opel in Rüsselsheim."
+   ],
+   "why": "Ohne Einigung drohen weitere Streiks in der Industrie; ein Abschluss bestimmt die Lohnentwicklung in Deutschlands wichtigster Branche für die nächsten Jahre.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bislang-keine-einigung-metall-und-elektroindustrie-tarifverhandlungen-dauern-an/100272861.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s7",
+   "section": "hessen",
+   "kicker": "S-Bahn",
+   "title": "S-Bahn-Tunnel Frankfurt–Offenbach 2027 wieder wochenlang gesperrt",
+   "summary": "Die Deutsche Bahn sperrt den S-Bahn-Citytunnel zwischen Frankfurt-Mühlberg und Offenbach-Marktplatz 2027 erneut: vom 25. Juni bis 9. August und vom 1. bis 18. Oktober komplett. Betroffen sind die Linien S1, S2, S8 und S9.",
+   "details": [
+    "Grund ist der Einbau neuer Brandschutzanlagen mit Hochdruck-Wassernebel. Die Bahn begründet die Verzögerung mit dem erstmaligen Einsatz der Technik und unerwarteten Problemen; die Kosten steigen von 180 auf 200 Mio. €.",
+    "Zusätzlich ist der Tunnel an vielen Abenden zwischen Juni und Anfang November nachts eingleisig. Ohne funktionierende Anlagen dürfte er ab 2028 nicht mehr betrieben werden. Den Ersatzverkehr will die Bahn mit dem RMV rechtzeitig bekanntgeben."
+   ],
+   "why": "Pendler zwischen Offenbach und Frankfurt müssen sich im Sommer 2027 auf längere Fahrzeiten und Ersatzbusse einstellen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/offenbach-bahn-sperrt-citytunnel-auch-2027-ueber-mehrere-wochen-v1,citytunnel-bahn-sperrungen-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s8",
+   "section": "hessen",
+   "kicker": "Medien",
+   "title": "VRM druckt Nius-Zeitung in Rüsselsheim – Rhein verteidigt Entscheidung",
+   "summary": "Die Mainzer Verlagsgruppe VRM, die mehrere hessische Tageszeitungen herausgibt, druckt in Rüsselsheim die neue Wochenzeitung des rechten Portals Nius. Betriebsräte und Verdi protestieren, Ministerpräsident Boris Rhein (CDU) nennt die Kritik befremdlich.",
+   "details": [
+    "Nius wird von Julian Reichelt geführt; die erste Ausgabe kam am Samstag in den Handel, die Auflage ist unbekannt. Die Betriebsräte in Mainz, Darmstadt und Wetzlar distanzierten sich, Verdi Hessen fordert ein Ende des Auftrags; auch SPD, Grüne und Volt kritisierten VRM.",
+    "Der Verlag betont, ein Druckauftrag sei keine politische Positionierung, die Unabhängigkeit der eigenen Redaktionen bleibe gewahrt."
+   ],
+   "why": "Der Streit berührt die Frage, wie regionale Verlage mit Aufträgen politisch umstrittener Medien umgehen; die Landesregierung hat sich klar positioniert.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/belegschaft-entsetzt-vrm-druckt-nius-zeitung-in-ruesselsheim-v3,vrm-nius-100.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Handel",
+   "title": "USA planen neue Zölle gegen EU, China und zwölf weitere Partner",
+   "summary": "Der US-Handelsbeauftragte hat neue Zölle gegen 14 Handelspartner vorgeschlagen, darunter die EU, die Schweiz, China und Japan. Begründet wird das mit industriellen Überkapazitäten; für die EU soll die vereinbarte Obergrenze von 15 % gelten.",
+   "details": [
+    "Grundlage ist eine achtmonatige Untersuchung nach Abschnitt 301 des US-Handelsgesetzes, der Zölle gegen unfaire Handelspraktiken erlaubt. China soll zusätzlich 20 % zahlen, ebenso Vietnam. Nach einer Anhörungsphase könnten die Zölle im Januar greifen. Mexiko und Norwegen bleiben vorerst verschont.",
+    "Hintergrund: Im Februar hatte der Supreme Court Trumps Notstandszölle gekippt; seither stützt die Regierung Zölle auf andere Gesetze. Die EU-Kommission weist den Vorwurf der Überkapazität zurück und erwartet, dass die 15-%-Grenze aus dem Abkommen von 2025 auch zusammen mit bestehenden Zöllen eingehalten wird."
+   ],
+   "why": "Für deutsche Exporteure ändert sich wenig, solange die 15-%-Grenze hält; die Märkte reagierten dennoch nervös, weil neue Handelskonflikte Gewinne und Wachstum dämpfen könnten.",
+   "sources": [
+    {
+     "name": "ORF",
+     "url": "https://orf.at/stories/3449253/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s10",
+   "section": "wirtschaft",
+   "kicker": "Börsen",
+   "title": "US-Inflation bei 3,8 % – DAX auf Tief seit Juli, Wall Street dreht spät",
+   "summary": "Die US-Verbraucherpreise (PCE) stiegen im Oktober um 3,8 % zum Vorjahr, ohne Energie und Lebensmittel um 3,3 %. Der DAX fiel um 1,3 % auf 24.702 Punkte, den tiefsten Stand seit Juli; in New York schloss der S&P 500 nur 0,3 % tiefer.",
+   "details": [
+    "Der PCE-Index ist das von der US-Notenbank bevorzugte Inflationsmaß. Anleger rechnen nun fest mit einer Zinserhöhung der Fed am 9. Dezember. Zugleich wurde das US-Wachstum im dritten Quartal auf 4,3 % (hochgerechnet aufs Jahr) angehoben.",
+    "Chipwerte gerieten erneut unter Druck: Nvidia −3,9 %, Infineon −6,5 %. Der Nasdaq 100 lag im Tagestief 20 % unter seinem Rekord vom Oktober, was als Schwelle zum Bärenmarkt gilt. Bis Handelsschluss holten S&P 500 (−0,3 %) und Nasdaq (−0,6 %) einen Großteil auf; der Dow stieg um 0,3 % auf 50.183 Punkte."
+   ],
+   "why": "Steigende US-Zinsen und Zweifel an KI-Aktien treffen den Kern von Welt-ETFs wie Mauritz' Portfolio; dass drei Viertel der S&P-500-Werte zulegten, zeigt aber, dass der Druck vor allem auf Tech liegt.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.wpxi.com/news/business/asian-shares-rebound/Y4HJNANVHA3M5CZWBGRJRUQHHA/"
+    },
+    {
+     "name": "finanzen.at",
+     "url": "https://www.finanzen.at/nachrichten/aktien/xetra-schluss-schwach-dax-rutscht-wieder-unter-25-000-punkte-1036800435"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s11",
+   "section": "tech",
+   "kicker": "Chips",
+   "title": "USA setzen Nvidia-Großkunden Megaspeed auf schwarze Liste",
+   "summary": "Das US-Handelsministerium hat die Singapurer Cloud-Firma Megaspeed und sechs verbundene Unternehmen auf seine Sanktionsliste gesetzt. Sie sollen Nvidia-Chips nach China weitergeleitet haben, wo deren Verkauf verboten ist.",
+   "details": [
+    "US-Firmen brauchen nun eine Genehmigung, um an die sieben Unternehmen in Singapur, Malaysia und Thailand zu liefern; solche Anträge werden meist abgelehnt. Das Justizministerium ermittelt strafrechtlich. Nvidia sagt, es habe die Lieferungen an Megaspeed schon im Juni 2025 eingestellt.",
+    "Megaspeed steht im Zentrum der Affäre, die Nvidia-Chef Jensen Huang Mitte November vorübergehend das Amt kostete: Er hatte eine Beziehung mit einer früheren Megaspeed-Chefin, die US-Dienste der Spionage für China verdächtigen. Megaspeed bestreitet Fehlverhalten."
+   ],
+   "why": "Der Fall verschärft die Kontrolle über KI-Chip-Exporte und belastet zusätzlich die Stimmung bei Nvidia, dem größten Einzelwert vieler Welt-ETFs.",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
+    },
+    {
+     "name": "TNW",
+     "url": "https://thenextweb.com/news/us-blacklists-megaspeed-nvidia-scandal"
+    }
+   ],
+   "ongoing": true
+  }
+ ],
+ "brief": [
+  {
+   "text": "Südkorea: Die Notenbank hat den Leitzins um 0,25 Prozentpunkte auf 3,25 % erhöht, den höchsten Stand seit rund zwei Jahren, und ihre Wachstumsprognose angehoben.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
+    }
+   ]
+  },
+  {
+   "text": "Pharma: Bayer will laut einem Bericht das Nierenmedikament Kerendia wegen eines Streits über die Erstattung vom deutschen Markt nehmen; die Aktie fiel um 2,6 %.",
+   "sources": [
+    {
+     "name": "finanzen.at",
+     "url": "https://www.finanzen.at/nachrichten/aktien/xetra-schluss-schwach-dax-rutscht-wieder-unter-25-000-punkte-1036800435"
+    }
+   ]
+  },
+  {
+   "text": "Gießen: Das Landgericht verurteilte einen 30-Jährigen wegen Doppelmordes in Bad Nauheim zu lebenslanger Haft; Hintergrund war eine Blutfehde. Sein Bruder erhielt sechseinhalb Jahre.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/lebenslange-haft-nach-doppelmord-in-bad-nauheim--auch-bruder-verurteilt-v5,urteil-doppelmord-bad-nauheim-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Wetter: In Hessen bleibt es frostig mit Tageshöchstwerten um 0 Grad, nachts bis −8 Grad; heute sind im Norden und Osten vereinzelt Schneeflocken möglich. Vorsicht vor Glätte.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/superwetter-fuer-supermond-winter-meldet-sich-in-hessen-an-v2,schnee-hessen-166.html"
+    }
+   ]
+  },
+  {
+   "text": "Raumfahrt: Die von Darmstadt aus gesteuerte Esa-Sonde Hera zeigt den Krater, den eine Nasa-Sonde 2022 beim Test zur Asteroidenabwehr geschlagen hat.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/asteroidenabwehr-esa-sonde-hera-zeigt-menschengemachten-einschlagskrater--v1,hera-ankunft-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Asien: Die Börsen erholten sich am Donnerstag, angeführt von KI-Werten: Nikkei +1,3 %, Kospi +1,2 %, Hang Seng +1,9 %, Taiwan +2,6 %.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.wpxi.com/news/business/asian-shares-rebound/Y4HJNANVHA3M5CZWBGRJRUQHHA/"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neu",
+    "label": "Seitwärts, ruhig",
+    "text": "Asien erholt sich und US-Futures liegen leicht im Plus; wegen Thanksgiving fehlen aber Impulse aus New York, die neuen US-Zölle dämpfen Europa.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Hohe US-Inflation, die erwartete Fed-Erhöhung, die Zollpläne und die Lage in Hormus stehen gegen robuste Konjunkturdaten; die Richtung ist offen.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neg",
+   "label": "Hohe Schwankungen",
+   "text": "Auf den Einbruch der Vorwoche (Nasdaq −10 %) folgten am Montag +6,5 %, danach zwei Verlusttage. Am Mittwoch fiel der Nasdaq zeitweise um 4,6 % und schloss −0,6 %; der DAX (24.702) liegt wieder unter dem Stand vom Freitag.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.wpxi.com/news/business/asian-shares-rebound/Y4HJNANVHA3M5CZWBGRJRUQHHA/"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Eine Zinserhöhung der Fed am 9. Dezember gilt als sicher, neue US-Zölle und ein Ölpreis über 90 $ kommen hinzu; Tech-Werte dürften schwankungsanfällig bleiben.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Starkes US-Wachstum (4,3 %) und die Erholung in Deutschland stützen die Gewinne; dagegen stehen hartnäckige Inflation, steigende Zinsen und Zweifel an hohen KI-Bewertungen.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Die US-Wirtschaft wuchs im dritten Quartal mit hochgerechnet 4,3 % deutlich stärker als gedacht.",
+    "sources": []
+   },
+   {
+    "text": "Der Ausverkauf trifft vor allem Tech: Am Mittwoch stiegen drei Viertel der S&P-500-Werte, der Dow schloss über 50.000 Punkten.",
+    "sources": []
+   },
+   {
+    "text": "Asiens Börsen erholten sich über Nacht deutlich, angeführt von Chip- und KI-Werten.",
+    "sources": []
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Die US-Inflation (PCE) stieg auf 3,8 %; eine Zinserhöhung der Fed im Dezember gilt als sicher.",
+    "sources": []
+   },
+   {
+    "text": "Neue US-Zölle gegen 14 Partner und die Blockade in Hormus mit Ölpreisen über 90 $ belasten.",
+    "sources": []
+   },
+   {
+    "text": "Der Nasdaq 100 lag zeitweise 20 % unter seinem Rekord; Nvidia bleibt nach der Führungskrise unter Druck.",
+    "sources": []
+   }
+  ],
+  "indicators": [
+   {
+    "label": "S&P 500",
+    "value": "−0,3 %",
+    "tone": "neg",
+    "note": "Vortag"
+   },
+   {
+    "label": "DAX",
+    "value": "−1,3 %",
+    "tone": "neg",
+    "note": "Vortag, 24.702 Punkte"
+   },
+   {
+    "label": "S&P-500-Futures",
+    "value": "≈ +0,3 %",
+    "tone": "pos",
+    "note": "früh, ungefähr"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Ölpreis Brent",
+    "value": "≈ 91 $",
+    "note": "je Barrel, ungefähr"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "US-Börsen wegen Thanksgiving geschlossen; GfK-Konsumklima; EZB-Sitzungsprotokoll; EU-Sondergipfel beginnt"
+   },
+   {
+    "when": "Fr.",
+    "text": "Bundestag stimmt über Haushalt 2027 ab; Arbeitsmarktdaten Deutschland; US-Börsen nur verkürzt"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderpolitik 2027"
+   },
+   {
+    "when": "6. Dez.",
+    "text": "Frist für Eisenkots Regierungsbildung in Israel"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   },
+   {
+    "when": "10. Jan.",
+    "text": "Zoll-Waffenstillstand zwischen USA und China läuft aus"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
