@@ -1,0 +1,480 @@
+{
+ "date": "2026-11-27",
+ "meta": {
+  "note": "Viele Leitmedien (NZZ, Reuters, Tagesschau, heise) waren nicht abrufbar; mehrere Meldungen beruhen auf dpa-AFX-, AFP- und AP-Texten bei anderen Portalen. MSCI-World-Tageswert nicht ermittelbar. Keine Anlageberatung.",
+  "generated": "2026-11-27T06:55+01:00"
+ },
+ "glance": [
+  {
+   "text": "Der EU-Sondergipfel zum Haushalt 2028–2034 ist ohne Ergebnis vorzeitig abgebrochen worden; ein neuer Anlauf folgt im Dezember.",
+   "story": "s1"
+  },
+  {
+   "text": "Einigung in der Metall- und Elektroindustrie: 2,0 % mehr ab Mai 2027, 2,3 % ab April 2028 und eine Einmalzahlung im März 2027.",
+   "story": "s5"
+  },
+  {
+   "text": "Der Bundestag stimmt heute über den Haushalt 2027 ab: knapp 556 Mrd. € Ausgaben und fast 123 Mrd. € neue Kredite.",
+   "story": "s4"
+  },
+  {
+   "text": "Unicredit will die Commerzbank zügig übernehmen; Konzernchef Andrea Orcel soll Aufsichtsratschef werden, der Bund gibt seinen Widerstand auf.",
+   "story": "s8"
+  },
+  {
+   "text": "Der DAX hat sich am Donnerstag um 2,1 % erholt; US-Futures und Asien deuten auf einen freundlichen Freitag.",
+   "story": "s7"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "EU",
+   "title": "EU-Haushaltsgipfel vorzeitig abgebrochen – Positionen „weit auseinander“",
+   "summary": "Die Staats- und Regierungschefs der EU haben ihren Sondergipfel zum Haushalt 2028–2034 nach stundenlangen Gesprächen ohne Ergebnis beendet; die für Freitag geplante Fortsetzung entfällt. Strittig sind die Gesamthöhe von zuletzt 1.781 Mrd. € und ein neuer Kredit für die Ukraine.",
+   "details": [
+    "Ratspräsident António Costa hatte den Vorschlag der Kommission vor dem Gipfel um 204 Mrd. € gekürzt. Kanzler Friedrich Merz verlangt weitere Kürzungen um mehrere hundert Milliarden und führt eine Gruppe von sieben Staaten an, darunter die Niederlande, Österreich, Schweden und Finnland.",
+    "Viele süd- und osteuropäische Staaten, die mehr aus dem EU-Haushalt erhalten als sie einzahlen, lehnen Kürzungen ab; Frankreich und Italien wollen Einbußen für Landwirte und Regionen verhindern. Beim Ukraine-Kredit sperren sich Ungarn, die Slowakei und Tschechien gegen eine Beteiligung.",
+    "Ein weiteres Treffen ist für Dezember geplant. Frankreich droht, die Verhandlungen bei einem erneuten Scheitern erst nach der Präsidentenwahl im April fortzusetzen. Der Haushalt muss einstimmig beschlossen werden."
+   ],
+   "why": "Verzögert sich die Einigung, wird die Finanzierung der Ukraine ab 2027 unsicherer; Deutschland ist größter Nettozahler und entsprechend direkt betroffen.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://finanzen.net/nachricht/aktien/roundup-kaum-fortschritte-beim-eu-haushalt-gipfel-vorzeitig-beendet-16089611"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Raketen auf Kiewer Einkaufszentrum – Selenskyj kritisiert US-Kurs",
+   "summary": "Russische ballistische Raketen haben in Kiew ein Einkaufszentrum getroffen, sieben Menschen wurden verletzt. Präsident Selenskyj wirft den USA vor, sich zu sehr auf den Nahen Osten zu konzentrieren und Russland nicht genug unter Druck zu setzen.",
+   "details": [
+    "In einem BBC-Interview sagte Selenskyj, verzögerte Lieferungen von Patriot-Abwehrraketen kosteten Menschenleben. Trumps Bezeichnung Putins als Freund wies er zurück. Die Gespräche in Abu Dhabi Anfang November hätten keinen erkennbaren Fortschritt gebracht; die nächste Runde wird im Dezember erwartet.",
+    "Neu ist die Aussicht auf einen Gefangenenaustausch: US-Unterhändler Jared Kushner stellte den größten Gefangenenaustausch des Krieges noch vor den Weihnachtsfeiertagen in Aussicht. Die Ukraine griff nach eigenen Angaben erneut einen russischen Militärflugplatz an, den vierten in zwei Wochen."
+   ],
+   "why": "Die Lage zeigt, dass die US-Vermittlung bei der Kernfrage der Gebiete feststeckt; für Europa wächst damit der Druck, die Ukraine selbst zu finanzieren.",
+   "sources": [
+    {
+     "name": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/11/27/russo-ukrainian-war-day-1737/"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/americas/zelensky-questions-trump-putin-friendship-warns-us-focus-is-on-middle-east-1.500762663"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Israel",
+   "title": "Eisenkot verhandelt mit Ultraorthodoxen über Wehrpflicht",
+   "summary": "Der mit der Regierungsbildung beauftragte Gadi Eisenkot hat sich mit der ultraorthodoxen Partei Vereinigtes Thora-Judentum Berichten zufolge auf Grundzüge eines Wehrdienstgesetzes für Strengreligiöse verständigt. Sein Lager kommt bislang auf 48 der 120 Sitze.",
+   "details": [
+    "Die Wehrpflicht für ultraorthodoxe Männer, die bisher weitgehend vom Militärdienst befreit sind, ist einer der größten Streitpunkte der israelischen Politik. Eine Einigung darüber gilt als Voraussetzung, um die religiösen Parteien in eine Koalition zu holen.",
+    "Zuvor hatte Eisenkot bereits Avigdor Liebermans Partei Israel Beitenu als Partner gewonnen. Für die Regierungsbildung hat er bis zum 6. Dezember Zeit; eine Verlängerung um zwei Wochen ist möglich. Die Gespräche des Likud mit Eisenkot über eine Einheitsregierung blieben zuletzt ohne Ergebnis."
+   ],
+   "why": "Gelingt Eisenkot eine Mehrheit ohne Netanjahu, wäre das ein Machtwechsel in Israel mit Folgen für den Kurs gegenüber Iran und am Golf.",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-26-2026/"
+    },
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/202611269792"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "deutschland",
+   "kicker": "Haushalt",
+   "title": "Bundestag stimmt heute über den Haushalt 2027 ab",
+   "summary": "Zum Abschluss der Haushaltswoche entscheidet der Bundestag heute gegen 12:40 Uhr in namentlicher Abstimmung über den Bundeshaushalt 2027. Geplant sind 555,9 Mrd. € Ausgaben im Kernhaushalt und fast 123 Mrd. € neue Schulden.",
+   "details": [
+    "Die Ausgaben steigen gegenüber 2026 um 31,4 Mrd. €, die Nettokreditaufnahme von 98 auf fast 123 Mrd. €. Dazu kommen Kredite aus Sondervermögen für Infrastruktur und Bundeswehr, also Töpfen außerhalb des Kernhaushalts.",
+    "Vor der Schlussabstimmung werden ab 9 Uhr die Etats für Arbeit und Verkehr beraten. Der Arbeits- und Sozialetat ist mit 203,3 Mrd. € der größte Einzelposten. Die AfD hat angekündigt, gegen den Haushalt klagen zu wollen."
+   ],
+   "why": "Mit dem Beschluss stehen die Stromsteuersenkung für alle und die Investitionen für 2027 fest; Kanzler Merz hat zugleich Einschnitte bei Rente, Krankenversicherung und Bürgergeld angekündigt.",
+   "sources": [
+    {
+     "name": "AFP",
+     "url": "https://de.nachrichten.yahoo.com/bundestag-haushalt-2027-verabschieden-030528360.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Tarife",
+   "title": "Metall-Tarifeinigung: 4,3 % mehr in zwei Stufen, Einmalzahlung im März",
+   "summary": "IG Metall und Arbeitgeber haben sich nach mehr als 24 Stunden in Mannheim geeinigt: Die Entgelte steigen um 2,0 % ab Mai 2027 und um 2,3 % ab April 2028. Der Pilotabschluss soll auf alle 3,7 Mio. Beschäftigten der Branche übertragen werden.",
+   "details": [
+    "Im März 2027 gibt es eine Einmalzahlung, die von der Rendite des Betriebs abhängt: 150, 300 oder 450 €, für Auszubildende 70 bis 210 €. Der Vertrag läuft 25 Monate bis Ende November 2028; bis April 2027 steigen die Tabellenentgelte nicht.",
+    "Neu ist ein Tarifvertrag „Innovation und Beschäftigung“: Betriebe in Schwierigkeiten können mit Zustimmung der IG Metall befristet weniger zahlen oder unbezahlte Mehrarbeit vereinbaren, höchstens 8 % des Tarifentgelts. Werden Zusagen nicht eingehalten, muss zurückgezahlt werden.",
+    "Die IG Metall hatte 5 % für zwölf Monate gefordert, die Arbeitgeber 1,3 % ab Juli 2028 geboten. Vorangegangen waren 24-Stunden-Warnstreiks mit rund 500.000 Beteiligten. Der Abschluss gilt zunächst in Baden-Württemberg und Nordrhein-Westfalen."
+   ],
+   "why": "Die übrigen Tarifgebiete, darunter Hessen mit Opel in Rüsselsheim, übernehmen solche Pilotabschlüsse üblicherweise; weitere Warnstreiks sind damit vom Tisch.",
+   "sources": [
+    {
+     "name": "Berliner Zeitung",
+     "url": "https://www.berliner-zeitung.de/article/ig-metall-einigung-in-tarifverhandlungen-der-metall-und-elektroindustrie-erzielt-10639725"
+    },
+    {
+     "name": "all-electronics",
+     "url": "https://www.all-electronics.de/karriere-und-co/metall-tarifrunde-2026-ig-metall-und-arbeitgeber-einig/2759053"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s6",
+   "section": "hessen",
+   "kicker": "Goethe-Uni",
+   "title": "Goethe-Uni: Protest gegen Abbau von 60 Professuren",
+   "summary": "Studierende der Frankfurter Goethe-Universität protestieren gegen Sparpläne des Präsidiums, das die 16 Fachbereiche auf sieben zusammenlegen und 60 Professorenstellen streichen will. Heute Mittag ist eine Abschlusskundgebung am Campus Westend geplant.",
+   "details": [
+    "Betroffen wären etwa die Rechtswissenschaften mit vier und die Wirtschaftswissenschaften mit sieben Stellen; die Wirtschaftspädagogik könnte ganz wegfallen. Rund 450 Studierende fordern bei einer Vollversammlung die Neuverhandlung des Hochschulpakts mit dem Land und den Rücktritt von Präsident Enrico Schleiff.",
+    "Auch der Senat der Universität hat das Konzept als nicht zustimmungsfähig bezeichnet, mehrere Professoren widersprechen in einem offenen Brief. Das Präsidium verweist auf die Sparvorgaben des Landes, ohne Stellenabbau gehe es nicht."
+   ],
+   "why": "Die Goethe-Uni ist eine der größten Hochschulen Deutschlands; der Konflikt zeigt, wie stark die Sparvorgaben des Landes Hessen die Hochschulen treffen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/gesellschaft/studierenden-protest-in-frankfurt-wir-wollen-dass-die-goethe-uni-eine-volluniversitaet-bleibt-v1,goethe-universitaet-104.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s7",
+   "section": "wirtschaft",
+   "kicker": "Börse",
+   "title": "DAX erholt sich um 2,1 % – Asien folgt, US-Börsen heute verkürzt",
+   "summary": "Der DAX stieg am Donnerstag um 2,08 % auf 25.216 Punkte, nachdem er am Vortag auf den tiefsten Stand seit Juli gefallen war. Die Wall Street war wegen Thanksgiving geschlossen; heute wird dort nur bis 19 Uhr deutscher Zeit gehandelt.",
+   "details": [
+    "Auslöser war die späte Erholung der US-Technologiewerte am Mittwoch. Gefragt waren Rheinmetall, Infineon und Siemens Energy; der MDax legte um 2,3 % zu, der EuroStoxx 50 um gut 2 %. Die Deutsche Bank traut dem DAX bis Ende 2027 einen Anstieg auf 28.800 Punkte zu, rund 14 % über dem aktuellen Stand.",
+    "In Asien setzten sich die Gewinne am Freitag fort: Nikkei +0,7 %, Kospi +2,2 %, Hang Seng +0,4 %. Die Kurse der US-Futures, also Terminkontrakte auf die Indizes, lagen in der Nacht rund 0,5 % im Plus."
+   ],
+   "why": "Nach dem Ausverkauf bei KI-Werten stabilisieren sich die Märkte; für die Welt-ETFs ist entscheidend, ob die US-Techwerte die Erholung heute bestätigen.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70239523-aktien-frankfurt-schluss-dax-erholt-zeit-zum-durchatmen-dank-thanksgiving-016.htm"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s8",
+   "section": "wirtschaft",
+   "kicker": "Banken",
+   "title": "Unicredit greift nach der Kontrolle über die Commerzbank",
+   "summary": "Die italienische Unicredit will die Commerzbank so schnell wie möglich kontrollieren: Konzernchef Andrea Orcel soll auf einer außerordentlichen Hauptversammlung, womöglich Anfang Januar, Aufsichtsratschef werden. Unicredit hat sich knapp 50 % der Aktien gesichert.",
+   "details": [
+    "Orcel würde Jens Weidmann ablösen; neun von zehn Vertretern der Aktionäre im Aufsichtsrat sollen abberufen werden. Als letzte Behörde hat die polnische Finanzaufsicht zugestimmt, zuvor EU-Kommission, EZB und US-Notenbank. Aktionäre, die ihre Papiere angedient haben, erhalten bis 7. Dezember Unicredit-Aktien.",
+    "Der Bund hat seinen Widerstand aufgegeben, verzichtet auf zwei Aufsichtsratssitze und hält gut 13 %. Erwartet werden der Abbau von rund 7.000 Stellen und eine Verschmelzung mit der Münchner Hypovereinsbank."
+   ],
+   "why": "Mit der Übernahme verliert Frankfurt die Zentrale einer der beiden großen deutschen Privatbanken; der Stellenabbau dürfte den Finanzplatz direkt treffen.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.finanzen.at/nachrichten/aktien/roundup-5-unicredit-chef-soll-aufsichtsrat-der-commerzbank-fuehren-1036803409"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "SAP",
+   "title": "SAP erwägt Abbau von mindestens 10.000 Stellen wegen KI",
+   "summary": "Der Softwarekonzern SAP prüft laut Bloomberg den Abbau von mindestens 10.000 Stellen im Zuge eines Umbaus hin zu künstlicher Intelligenz. Eine Stellungnahme von SAP liegt nicht vor.",
+   "details": [
+    "Nach dem Bericht, der sich auf mit der Sache vertraute Personen beruft, sollen Abteilungen mögliche Einsparungen benennen. Zeitraum und betroffene Bereiche sind offen; Reuters konnte die Angaben nicht unabhängig prüfen. Die Aktie schloss am Donnerstag gut 2 % im Plus."
+   ],
+   "why": "Der Fall gilt als Beispiel dafür, wie KI auch in großen Softwarekonzernen Arbeitsplätze ersetzt; SAP gehört zu den schwersten Werten im DAX.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://live.euronext.com/en/financial-news/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s10",
+   "section": "tech",
+   "kicker": "Raumfahrt",
+   "title": "SpaceX darf bis zu eine Million Satelliten für KI-Rechenzentren starten",
+   "summary": "Die US-Telekommunikationsbehörde FCC hat SpaceX unter Auflagen erlaubt, bis zu eine Million Satelliten zu betreiben, auf denen KI-Rechenleistung im All laufen soll. Einwände von Amazon und Astronomen wegen Weltraumschrott und Störungen wurden zurückgewiesen.",
+   "details": [
+    "Das Netz mit dem Namen Starmind soll in 500 bis 1.002 km Höhe kreisen. SpaceX hat sieben Jahre Zeit für den ersten Satelliten und 14 Jahre für die gesamte Konstellation. Die Pläne zur Entsorgung ausgedienter Satelliten oberhalb von 600 km sind noch nicht genehmigt.",
+    "Hintergrund ist der enorme Strombedarf von KI-Rechenzentren auf der Erde; im All soll Sonnenenergie genutzt werden. Fachleute bezweifeln, dass Kühlung und Kosten beherrschbar sind."
+   ],
+   "why": "Die Genehmigung ist vorerst nur eine Option auf die Zukunft; sie zeigt aber, wie weit der Wettlauf um Rechenkapazität für KI inzwischen reicht.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "Konsum: Das GfK-Konsumklima für Dezember stieg nur leicht auf −30,2 Punkte und bleibt nahe dem Rekordtief; die Preiserwartungen der Verbraucher nahmen zu.",
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://de.investing.com/news/economic-indicators/deutsches-konsumklima-hellt-sich-leicht-auf-verharrt-aber-nahe-rekordtief-93CH-3787737"
+    }
+   ]
+  },
+  {
+   "text": "Neuseeland: Nach dem amtlichen Endergebnis der Wahl vom 7. November fehlt der Koalition von Premier Christopher Luxon ein Sitz zur Mehrheit; die kleine Partei Opportunity wird zum Königsmacher.",
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1127/1600847-new-zealand-election/"
+    }
+   ]
+  },
+  {
+   "text": "Öl: Brent kostete am Freitagmorgen rund 96 $ je Barrel; am Sonntag entscheidet die Opec+ über ihre Förderpolitik für 2027.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.clickondetroit.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+    }
+   ]
+  },
+  {
+   "text": "Frankfurt: Geschäfte, die bei den Krawallen auf der Zeil Ende Oktober beschädigt wurden, erhalten insgesamt 600.000 € Hilfe.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/frankfurt-geschaefte-bekommen-nach-krawallen-auf-der-zeil-600000-euro-v1,entschaedigung-krawalle-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Medien: Die Verlagsgruppe VRM beendet den Druck der Nius-Wochenzeitung in Rüsselsheim, allerdings erst im März.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/panorama/vrm-beendet-zusammenarbeit-mit-nius---aber-erst-im-maerz-v1,vrm-nius-beendet-100.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "pos",
+    "label": "Leicht freundlich",
+    "text": "US-Futures liegen rund 0,5 % im Plus und Asien steigt; der verkürzte US-Handel dürfte aber nur geringe Umsätze bringen.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Die Opec+-Entscheidung am Sonntag und die erwartete Zinserhöhung der Fed am 9. Dezember halten die Märkte nach dem KI-Ausverkauf nervös.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "neu",
+   "label": "Erholung mit Rückschlägen",
+   "text": "Nach dem Einbruch am 20. November folgten eine kräftige Erholung am Montag, zwei schwächere Tage und am Donnerstag ein DAX-Plus von 2,1 %. Treiber ist die Unsicherheit über die Bewertung von KI-Aktien.",
+   "sources": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70239523-aktien-frankfurt-schluss-dax-erholt-zeit-zum-durchatmen-dank-thanksgiving-016.htm"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Mit einer US-Inflation von 3,8 % wird für Dezember eine Zinserhöhung der Fed erwartet, an den Märkten wird sogar über einen großen Schritt um 0,5 Prozentpunkte spekuliert; dazu kommen neue US-Zollpläne.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Ob die KI-Gewinne die hohen Bewertungen rechtfertigen und wie sich Ölpreis und Golf-Konflikt entwickeln, ist offen; die Deutsche Bank hält 2027 dennoch neue Rekorde für möglich.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "Die US-Technologiewerte haben sich nach dem Ausverkauf stabilisiert; Asiens Chipwerte erholen sich.",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout"
+     }
+    ]
+   },
+   {
+    "text": "Der Ölpreis liegt trotz der Angriffe am Golf deutlich unter dem Hoch von fast 118 $ Ende Oktober.",
+    "sources": [
+     {
+      "name": "Admiral Markets",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/opec-meeting-november-29-2026-preview"
+     }
+    ]
+   },
+   {
+    "text": "Der Euro-Kurs von knapp 1,10 $ stützt den Euro-Wert der US-Aktien im Portfolio.",
+    "sources": [
+     {
+      "name": "AP",
+      "url": "https://www.clickondetroit.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Steigende US-Zinsen belasten die Bewertung der großen Tech-Konzerne, die im Portfolio stark gewichtet sind.",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout"
+     }
+    ]
+   },
+   {
+    "text": "Die USA planen Zölle von bis zu 20 % gegen 14 Handelspartner, darunter EU, China und Japan.",
+    "sources": [
+     {
+      "name": "AP",
+      "url": "https://www.clickondetroit.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+     }
+    ]
+   },
+   {
+    "text": "Die Minentreffer in der Straße von Hormus halten das Risiko eines Ölpreissprungs hoch.",
+    "sources": [
+     {
+      "name": "Iran International",
+      "url": "https://www.iranintl.com/en/202611269792"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "DAX",
+    "value": "+2,1 %",
+    "tone": "pos",
+    "note": "Vortag, 25.216 Punkte"
+   },
+   {
+    "label": "S&P-500-Futures",
+    "value": "≈ +0,6 %",
+    "tone": "pos",
+    "note": "nachts, ungefähr"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Ölpreis Brent",
+    "value": "≈ 96 $",
+    "note": "je Barrel, ungefähr"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "Heute",
+    "text": "Bundestag stimmt über den Haushalt 2027 ab (ca. 12:40 Uhr); US-Börsen nur bis 19 Uhr; Kundgebung an der Goethe-Uni"
+   },
+   {
+    "when": "29. Nov.",
+    "text": "Opec+ entscheidet über die Förderpolitik 2027"
+   },
+   {
+    "when": "6. Dez.",
+    "text": "Frist für Eisenkots Regierungsbildung in Israel"
+   },
+   {
+    "when": "7. Dez.",
+    "text": "Commerzbank-Aktionäre erhalten die Unicredit-Aktien aus dem Tauschangebot"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB"
+   },
+   {
+    "when": "10. Jan.",
+    "text": "Zoll-Waffenstillstand zwischen USA und China läuft aus"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
