@@ -1,0 +1,514 @@
+{
+ "date": "2026-11-28",
+ "meta": {
+  "stand": "Stand: Samstagmorgen (MEZ)",
+  "note": "Samstag: kein Börsenhandel. Mehrere Seiten (u. a. Tagesschau, Hessenschau-Artikel, heise) waren nicht abrufbar; einige Meldungen beruhen auf AP-, dpa- und AFP-Texten bei anderen Portalen. MSCI-World-Wert nicht ermittelbar. Keine Anlageberatung.",
+  "generated": "2026-11-28T06:55+01:00"
+ },
+ "glance": [
+  {
+   "text": "Der Bundestag hat den Rekordhaushalt 2027 mit 556 Mrd. € Ausgaben und 123 Mrd. € neuen Schulden im Kernhaushalt beschlossen.",
+   "story": "s4"
+  },
+  {
+   "text": "Die Wall Street hatte ihre beste Woche seit April 2025: Der S&P 500 stieg um 5,6 %, getragen von erholten KI- und Chipwerten.",
+   "story": "s7"
+  },
+  {
+   "text": "Der Spanier Pablo Hernández de Cos soll im Februar Christine Lagarde als EZB-Präsident ablösen; die EU-Staaten haben sich auf ihn verständigt.",
+   "story": "s8"
+  },
+  {
+   "text": "Irans Revolutionsgarden melden erneut einen Tanker, der in der Straße von Hormus auf eine Mine gelaufen sein soll; der Schiffsverkehr bleibt stark eingeschränkt.",
+   "story": "s1"
+  },
+  {
+   "text": "Selenskyj warnt vor einem neuen russischen Großangriff auf das ukrainische Stromnetz; Trump fordert Putin auf, die Aggression in Europa zurückzufahren.",
+   "story": "s2"
+  }
+ ],
+ "stories": [
+  {
+   "id": "s1",
+   "section": "welt",
+   "kicker": "Golf-Konflikt",
+   "title": "Hormus: Iran meldet weiteren Minentreffer – Verkehr weit unter Normalniveau",
+   "summary": "Die iranischen Revolutionsgarden melden, ein Öltanker sei am Freitagmorgen nördlich der Insel Ghavam in der Straße von Hormus auf eine Seemine gelaufen und explodiert; ein zweiter Tanker habe umkehren müssen. Unabhängig bestätigt ist das bisher nicht.",
+   "details": [
+    "Die Revolutionsgarden nannten weder Schiffsname noch Flagge oder Opfer. Eine Bestätigung durch die britische Seesicherheitsbehörde UKMTO, die Reederei oder das US-Militär lag zunächst nicht vor. Iran hat in dieser Woche fast täglich ähnliche Treffer gemeldet.",
+    "Nach UKMTO-Daten liegt der Schiffsverkehr durch die Meerenge rund 65 % unter dem Niveau vor dem Konflikt. Durch die Straße von Hormus läuft normalerweise etwa ein Fünftel des weltweit gehandelten Öls. Am Donnerstag wurde zudem bei einem Angriff auf die saudische Raffinerie Jazan ein Arbeiter getötet.",
+    "Teheran fordert, dass Schiffe die Durchfahrt mit iranischen Kräften abstimmen; die USA halten eine Seeblockade gegen iranische Häfen aufrecht."
+   ],
+   "why": "Jede neue Meldung aus der Meerenge hält den Ölpreis hoch und damit die Inflation, die Notenbanken zu höheren Zinsen drängt – ein Belastungsfaktor für Aktien.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s2",
+   "section": "welt",
+   "kicker": "Ukraine",
+   "title": "Selenskyj warnt vor russischem Großangriff auf das Stromnetz",
+   "summary": "Nach Angaben des ukrainischen Geheimdienstes bereitet Russland einen neuen massiven Schlag gegen Energieanlagen, Logistik und wichtige Versorgung vor. US-Präsident Trump forderte Putin auf, die militärische Aggression in Europa zurückzufahren.",
+   "details": [
+    "Schon in der Nacht zu Donnerstag hatte Russland ballistische Raketen und 113 Drohnen eingesetzt; in sechs Regionen musste die Stromversorgung wiederhergestellt werden. Kyjiw bittet um mehr Flugabwehr, vor allem Patriot-Abfangraketen, die seit dem Iran-Krieg knapp sind.",
+    "US-Unterhändler Jared Kushner sagte, Putin habe zugesagt, keine Atomwaffen einzusetzen; bei den Gebietsfragen steckten die Gespräche aber fest. Trump und Nato-Generalsekretär Mark Rutte riefen Russland in einer gemeinsamen Erklärung auf, eine Ausweitung des Krieges zu vermeiden.",
+    "Italiens Regierungschefin Giorgia Meloni warnte, der Krieg dürfe sich nicht auf das Mittelmeer ausdehnen, nachdem eine ukrainische Seedrohne ein russisches Marineschiff in einem libyschen Hafen getroffen hatte."
+   ],
+   "why": "Ein Großangriff im Winter würde die Ukraine weiter schwächen und den Druck auf Europa erhöhen, mehr Flugabwehr und Geld bereitzustellen; ein Waffenstillstand rückt damit nicht näher.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid"
+    },
+    {
+     "name": "Independent",
+     "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-kyiv-042028266.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s3",
+   "section": "welt",
+   "kicker": "Israel",
+   "title": "Eisenkot wirft Likud Verzögerung vor – Frist läuft am 6. Dezember ab",
+   "summary": "Der mit der Regierungsbildung beauftragte Gadi Eisenkot beschuldigt Netanjahus Likud, die Gespräche über eine Einheitsregierung bewusst zu verschleppen und Israel in eine Neuwahl zu treiben. Sein Lager kommt bislang auf 48 der 120 Sitze.",
+   "details": [
+    "Eisenkot, Chef der Zentrumspartei Yashar, hat inzwischen Koalitionsvereinbarungen mit den linken Demokraten und mit Avigdor Liebermans rechter Partei Israel Beitenu; zusammen kommen diese drei Parteien auf 36 Abgeordnete. Der Likud habe in zwei Wochen keinen einzigen konkreten Vorschlag gemacht, so Eisenkot.",
+    "Bei der Wahl am 27. Oktober erhielt kein Lager die nötigen 61 Sitze; Netanjahus Block aus Rechten und Ultraorthodoxen kommt auf 53. Der Likud nennt Eisenkots Bündnis eine gefährliche Linksregierung, bleibt aber nach eigenen Angaben offen für Gespräche.",
+    "Eisenkots Frist endet am 6. Dezember und kann um 14 Tage verlängert werden."
+   ],
+   "why": "Scheitert die Regierungsbildung, droht Israel die nächste Wahl – mit anhaltender politischer Unsicherheit mitten im regionalen Konflikt.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s4",
+   "section": "deutschland",
+   "kicker": "Haushalt",
+   "title": "Bundestag beschließt Rekordhaushalt 2027 mit 123 Mrd. € neuen Schulden",
+   "summary": "Der Bundestag hat den Haushalt 2027 am Freitag mit der Mehrheit von Union und SPD verabschiedet: 556 Mrd. € Ausgaben im Kernhaushalt, rund 32 Mrd. € mehr als in diesem Jahr. Die Neuverschuldung steigt dort von 98 auf 123 Mrd. €.",
+   "details": [
+    "In der namentlichen Abstimmung gab es nach Angaben des ZDF 317 Ja- und 260 Nein-Stimmen. Rechnet man die beiden Sondervermögen für Infrastruktur und Klima (57,8 Mrd. €) und für die Bundeswehr (29,6 Mrd. €) hinzu, nimmt der Bund mehr als 210 Mrd. € neue Kredite auf; etwa ein Drittel der Ausgaben ist schuldenfinanziert.",
+    "Für Verteidigung sind fast 140 Mrd. € vorgesehen, für die Ukraine 12 Mrd. €; mehr als ein Drittel entfällt auf Arbeit und Soziales. Geplante Kürzungen beim Wohngeld strichen die Koalitionsfraktionen wieder.",
+    "Offen sind der Haushalt 2028, der nach Finanzminister Lars Klingbeil (SPD) noch schwieriger wird, und die Reform der Einkommensteuer, über die Union und SPD streiten."
+   ],
+   "why": "Der Staat investiert vor allem in Verteidigung und Infrastruktur, finanziert das aber zunehmend auf Pump; der Spardruck für 2028 dürfte Sozialleistungen und Subventionen treffen.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/budget-und-steuern-bundestag-beschliesst-haushalt-aber-noch-offene-fragen/100273163.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s5",
+   "section": "deutschland",
+   "kicker": "Steuern",
+   "title": "Was sich für Bürger ändert: Stromsteuer runter, Schnaps teurer, Nullrunde",
+   "summary": "Mit dem Haushalt hat der Bundestag ein Begleitgesetz beschlossen: Die Stromsteuer sinkt 2027 für alle auf das EU-Minimum, die Steuer auf Spirituosen steigt um 20 %, ab 2028 kommt eine Zuckersteuer, und die Grundsicherung wird bis Mitte 2028 nicht erhöht.",
+   "details": [
+    "Die Stromsteuer fällt von 2,05 auf 0,1 Cent je Kilowattstunde. Die Entlastung kostet rund 5 Mrd. €, ist aber nur für 2027 finanziert. Die Union hatte darauf bestanden, dass nicht nur Industrie und Landwirtschaft, sondern auch private Haushalte profitieren.",
+    "Die Alkopopsteuer gilt künftig für Mischgetränke bis 15 % Alkohol. Die Zuckersteuer auf Softdrinks soll ab Anfang 2028 in drei Stufen 25, 30 oder 35 Cent je Liter betragen.",
+    "Die Regelsätze der Grundsicherung bleiben bis 30. Juni 2028 auf dem Stand von 2026, für Alleinstehende 563 € im Monat. Die geplante Streichung eines Zuschlags beim Kinderzuschlag wurde fallen gelassen. Der Bundesrat muss sich noch mit dem Gesetz befassen."
+   ],
+   "why": "Für einen Durchschnittshaushalt bringt die Stromsteuersenkung eine spürbare Entlastung im nächsten Jahr; ob sie 2028 bleibt, ist offen.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+    },
+    {
+     "name": "gegen-hartz.de",
+     "url": "https://www.gegen-hartz.de/news/grundsicherung-bundestag-beschliesst-nullrunde-bis-mitte-2028-warum-sich-der-januar-bescheid-trotzdem-aendern-kann"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s6",
+   "section": "hessen",
+   "kicker": "Sicherheit",
+   "title": "Streit zwischen Eintracht Frankfurt und Polizeigewerkschaft eskaliert",
+   "summary": "Die Gewerkschaft der Polizei (GdP) in Hessen verlangt von Eintracht Frankfurt eine öffentliche Entschuldigung. Vorstände des Vereins hatten der Polizei nach Abschluss der Ermittlungen zu Krawallen vor einem Heimspiel eine Mitschuld gegeben.",
+   "details": [
+    "Hintergrund sind Ausschreitungen an den Einlasskontrollen zum Fanblock vor einem Heimspiel gegen den VfB Stuttgart, bei denen die Polizei eingriff. Die Staatsanwaltschaft hat die Ermittlungen gegen zahlreiche Beteiligte inzwischen abgeschlossen.",
+    "Eintracht-Vorstand Philipp Reschke sprach von Fehlern in der Einsatzführung; Vorstandssprecher Axel Hellmann hatte die GdP zuvor als Lobbyorganisation bezeichnet. GdP-Landeschef Jens Mohrherr nannte die Äußerungen respektlos und die Schuldzuweisung unerträglich."
+   ],
+   "why": "Das Verhältnis zwischen Verein und Polizei ist wichtig für die Sicherheit bei Heimspielen im Stadtwald; ein offener Streit erschwert die Abstimmung vor Risikospielen.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/news-zu-eintracht-frankfurt--zoff-zwischen-eintracht-und-polizei---gdp-fordert-entschuldigung,bundesliga-ticker-104.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s7",
+   "section": "wirtschaft",
+   "kicker": "Börse",
+   "title": "Beste Börsenwoche seit April 2025: S&P 500 +5,6 %, DAX +2,6 %",
+   "summary": "Nach dem KI-Ausverkauf der Vorwoche haben sich die Aktienmärkte kräftig erholt. Am verkürzten Freitagshandel stiegen der S&P 500 um 1,6 % auf 7.297 Punkte und die Nasdaq um 2,3 %; der DAX schloss 0,9 % höher bei 25.441 Punkten.",
+   "details": [
+    "Der S&P 500 legte auf Wochensicht 5,6 % zu, so stark wie seit April 2025 nicht mehr; der Dow Jones stieg am Freitag um 1,2 % auf 50.775 Punkte. Gefragt waren vor allem Chip- und Technologiewerte wie Broadcom, Micron und Amazon. Die Vorwoche hatte der S&P 500 noch mehr als 10 % unter seinem Rekord vom Oktober beendet.",
+    "Der DAX gewann in der Woche 2,6 % und liegt wieder über seiner 200-Tage-Linie, einem viel beachteten Trendsignal; vom Rekord knapp über 27.000 Punkten Anfang November ist er aber weit entfernt. In Tokio stieg der Nikkei am Freitag um 2,1 % und in der Woche um 4 %.",
+    "Gleichzeitig zog die Rendite zehnjähriger US-Staatsanleihen nach dpa-AFX auf rund 4,9 % an, weil die Inflation hoch bleibt."
+   ],
+   "why": "Für das Welt-Portfolio mit hohem US- und Tech-Anteil war es eine starke Woche; die Schwankungen der letzten Wochen zeigen aber, wie empfindlich die Märkte auf Zweifel an den KI-Bewertungen reagieren.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.post-gazette.com/business/personal-finance/stock-markets-today-november-27-2026-2KMWD23HNN7BAM2FQEDY3KOQKU/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-beendet-die-woche-im-plus-black-friday-verlaeuft-ruhig/100273204.html"
+    }
+   ],
+   "ongoing": true
+  },
+  {
+   "id": "s8",
+   "section": "wirtschaft",
+   "kicker": "Notenbank",
+   "title": "Hernández de Cos soll Lagarde an der Spitze der EZB ablösen",
+   "summary": "Die EU-Staats- und Regierungschefs haben sich darauf verständigt, dass der Spanier Pablo Hernández de Cos (55) Präsident der Europäischen Zentralbank wird. Christine Lagarde verlässt die EZB vorzeitig am 7. Februar 2027.",
+   "details": [
+    "Der Weg wurde frei, als die Niederlande ihren Kandidaten Klaas Knot zurückzogen. Hernández de Cos leitet seit Juli 2025 die Bank für Internationalen Zahlungsausgleich (BIZ), die Zentralbank der Notenbanken, und war von 2018 bis 2024 Chef der spanischen Zentralbank. Er gilt als eher gemäßigt in der Zinspolitik.",
+    "Vor der förmlichen Ernennung beim regulären EU-Gipfel im Dezember werden noch das Europaparlament und der EZB-Rat angehört. Lagarde hatte Ende Oktober ihren Rücktritt angekündigt, fast neun Monate vor Ende ihrer Amtszeit.",
+    "Der neue Präsident übernimmt in schwieriger Lage: Die Inflation im Euroraum lag im Oktober wegen des Iran-Kriegs bei 4,0 %, dem höchsten Stand seit über drei Jahren."
+   ],
+   "why": "Der EZB-Präsident prägt den Zinskurs im Euroraum und damit Kreditkosten, Sparzinsen und den Euro-Kurs; ein als gemäßigt geltender Kandidat spricht nach Einschätzung von Beobachtern eher gegen sehr schnelle Zinserhöhungen.",
+   "sources": [
+    {
+     "name": "ZDF",
+     "url": "https://www.zdfheute.de/wirtschaft/ezb-chef-lagarde-nachfolge-de-cos-100.html"
+    },
+    {
+     "name": "Tagesspiegel",
+     "url": "https://www.tagesspiegel.de/wirtschaft/dpa-nachfolge-bei-der-notenbank-eu-gipfel-spanier-hernandez-de-cos-soll-ezb-chef-werden-16330023.html"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s9",
+   "section": "wirtschaft",
+   "kicker": "Öl",
+   "title": "Opec+ entscheidet am Sonntag – Förderziele dürften unverändert bleiben",
+   "summary": "Das Ölkartell Opec+ legt am Sonntag seine Förderpolitik für 2027 fest; nach Angaben von Delegierten werden die bisherigen Förderziele voraussichtlich verlängert. Brent kostete zum Wochenschluss 95,44 $ je Barrel.",
+   "details": [
+    "Am Freitag fiel Brent um 1,2 %, beendete die Woche aber mit rund 3 % Plus – dem ersten Wochengewinn im November. Treiber waren die Angriffe auf Tanker in der Straße von Hormus und Raffineriebrände in Thailand und Venezuela.",
+    "Die laufende Runde der Förderbeschränkungen gilt bis Ende 2026. Irak und Kasachstan dringen auf höhere Kapazitätsschätzungen, die ihnen mehr Förderung erlauben würden; größere Änderungen erwarten Analysten erst im Lauf von 2027. Die Internationale Energieagentur warnt für später vor einem Überangebot."
+   ],
+   "why": "Bleibt die Förderung gleich, ist kein zusätzlicher Preisdruck zu erwarten; der Ölpreis hängt dann vor allem an der Lage am Golf.",
+   "sources": [
+    {
+     "name": "IBTimes",
+     "url": "https://www.ibtimes.com.au/oil-prices-brent-weekly-gain-middle-east-attacks-opec-1879508"
+    },
+    {
+     "name": "QNC",
+     "url": "https://qncnews.com/2026/11/26/opec-plus-set-to-roll-over-oil-output-targets-at-sunday-meeting-sources-say/"
+    }
+   ],
+   "ongoing": false
+  },
+  {
+   "id": "s10",
+   "section": "tech",
+   "kicker": "Chips",
+   "title": "US-Exportkontrollen: Nvidia stoppt Lieferungen nach Südostasien",
+   "summary": "Nvidia hat Partner angewiesen, Server-Lieferungen nach Malaysia, Singapur, Thailand und Indonesien vorerst auszusetzen, nachdem die USA ihre Exportkontrollen verschärft haben. Chinesische KI-Firmen fallen laut Reuters wegen der Beschränkungen zurück.",
+   "details": [
+    "Über Firmen in Südostasien sollen Nvidia-Chips nach China gelangt sein, wo ihr Verkauf verboten ist; in dieser Woche hatten die USA bereits die Singapurer Cloud-Firma Megaspeed auf ihre Sanktionsliste gesetzt. Nvidia warnte zudem Cloud-Anbieter, sie könnten den Zugang zu Chips verlieren, wenn sie Rechenleistung an chinesische Kunden vermieten.",
+    "Nach Reuters liegt der chinesische KI-Entwickler Z.AI mit seinem nächsten großen Modell hinter dem Zeitplan; bei Moonshot AI rechnet man damit, dass sich die Abstände zwischen neuen Modellen von sechs Monaten auf ein Jahr oder mehr verlängern könnten.",
+    "Nvidia-Chef Jensen Huang muss sich in der kommenden Woche im US-Kongress zu den Exportkontrollen äußern."
+   ],
+   "why": "Nvidia ist einer der größten Werte im Welt-Portfolio; strengere Regeln sichern den US-Vorsprung bei KI, kosten den Konzern aber Umsatz in Asien.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    }
+   ],
+   "ongoing": false
+  }
+ ],
+ "brief": [
+  {
+   "text": "Cybersicherheit: Das Schweizer Bundesamt für Cybersicherheit meldet fünf Angriffe auf Unternehmen und kritische Infrastruktur, bei denen KI-Agenten eingesetzt wurden.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/legal/litigation/ai-agents-used-five-cyber-attacks-switzerland-government-says-2026-11-26/"
+    }
+   ]
+  },
+  {
+   "text": "Hessen: Die Zahl der Arbeitslosen ist im November weniger stark gesunken als erwartet.",
+   "sources": [
+    {
+     "name": "Hessenschau",
+     "url": "https://www.hessenschau.de/wirtschaft/zahl-der-arbeitslosen-in-hessen-sinkt-im-november-weniger-stark-als-erwartet-v23,arbeitslose-quote-zahlen-hessen-100.html"
+    }
+   ]
+  },
+  {
+   "text": "Guinea-Bissau: Die Militärführung hat die für den 6. Dezember geplante Präsidentenwahl um zwei Jahre auf November 2028 verschoben.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"
+    }
+   ]
+  },
+  {
+   "text": "Argentinien: Die Zentralbank darf Staatsausgaben künftig nicht mehr durch Gelddrucken finanzieren.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending"
+    }
+   ]
+  },
+  {
+   "text": "USA: Unwetter über Thanksgiving haben fast eine Million Haushalte ohne Strom gelassen.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
+    }
+   ]
+  },
+  {
+   "text": "Verkehr: Die EU könnte am 15. Dezember über die Zulassung von Teslas Fahrassistenzsystem in der ganzen Union abstimmen, wie ein Entwurf der Kommission zeigt.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/technology/eu-may-vote-authorising-tesla-assisted-driving-system-dec-15-meeting-2026-11-26/"
+    }
+   ]
+  },
+  {
+   "text": "Japan: Die Kerninflation in Tokio lag im November bei 2,9 %; eine Zinserhöhung der Bank of Japan bereits im Dezember bleibt damit möglich.",
+   "sources": [
+    {
+     "name": "QNC",
+     "url": "https://qncnews.com/2026/11/28/nikkei-jumps-2-11-per-cent-to-58711-11-as-chip-stocks-lead-end-of-week-rebound-in-tokyo/"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "forecast": [
+   {
+    "tone": "neu",
+    "label": "Kein Handel",
+    "text": "Samstag: Die Börsen sind geschlossen. Die starke Woche mit S&P 500 +5,6 % und DAX +2,6 % bildet die Ausgangslage für Montag.",
+    "horizon": "Heute"
+   },
+   {
+    "tone": "neu",
+    "label": "Seitwärts, schwankend",
+    "text": "Opec+ am Sonntag, Euro-Inflation am Dienstag und der US-Arbeitsmarktbericht am Freitag entscheiden, ob die Erholung trägt; die Zinssorgen bleiben.",
+    "horizon": "Nächste 5 Tage"
+   }
+  ],
+  "status": {
+   "tone": "pos",
+   "label": "Kräftige Erholung",
+   "text": "Nach dem KI-Ausverkauf der Vorwoche stieg der S&P 500 in dieser Woche um 5,6 %, der DAX um 2,6 % auf 25.441 Punkte und der Nikkei um 4 %. Gekauft wurden vor allem zuvor stark gefallene Chip- und Technologiewerte.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.post-gazette.com/business/personal-finance/stock-markets-today-november-27-2026-2KMWD23HNN7BAM2FQEDY3KOQKU/"
+    },
+    {
+     "name": "dpa-AFX",
+     "url": "https://aktiencheck.de/artikel/dax-wochenbilanz-25441-punkte-plus-26-prozent-rente-zoelle-eu-gipfel-und-fed"
+    }
+   ]
+  },
+  "outlook": [
+   {
+    "tone": "neg",
+    "label": "Eher Gegenwind",
+    "text": "Mit einer US-Inflation von 3,8 % wird für den 9. Dezember eine Zinserhöhung der Fed erwartet; dazu kommen steigende Anleiherenditen und neue US-Zollpläne.",
+    "horizon": "Nächste Wochen"
+   },
+   {
+    "tone": "neu",
+    "label": "Offen",
+    "text": "Ob die Gewinne der KI-Konzerne die hohen Bewertungen rechtfertigen und wie sich Golf-Konflikt und Ölpreis entwickeln, ist offen; ein neuer EZB-Chef übernimmt im Februar.",
+    "horizon": "Nächste Monate"
+   }
+  ],
+  "tailwinds": [
+   {
+    "text": "KI- und Chipwerte haben sich nach dem Einbruch deutlich erholt; das stützt den großen US-Tech-Anteil im Portfolio.",
+    "sources": [
+     {
+      "name": "AP",
+      "url": "https://www.post-gazette.com/business/personal-finance/stock-markets-today-november-27-2026-2KMWD23HNN7BAM2FQEDY3KOQKU/"
+     }
+    ]
+   },
+   {
+    "text": "Brent liegt mit gut 95 $ trotz der Angriffe am Golf unter der Marke von 100 $; die Opec+ dürfte keine Kürzungen beschließen.",
+    "sources": [
+     {
+      "name": "IBTimes",
+      "url": "https://www.ibtimes.com.au/oil-prices-brent-weekly-gain-middle-east-attacks-opec-1879508"
+     }
+    ]
+   }
+  ],
+  "headwinds": [
+   {
+    "text": "Die Rendite zehnjähriger US-Anleihen ist auf rund 4,9 % gestiegen; höhere Zinsen drücken auf die Bewertung großer Tech-Konzerne.",
+    "sources": [
+     {
+      "name": "dpa-AFX",
+      "url": "https://aktiencheck.de/artikel/dax-wochenbilanz-25441-punkte-plus-26-prozent-rente-zoelle-eu-gipfel-und-fed"
+     }
+    ]
+   },
+   {
+    "text": "Die USA planen Zölle gegen 14 Handelspartner, für die EU 15 % und für China 20 %.",
+    "sources": [
+     {
+      "name": "dpa-AFX",
+      "url": "https://aktiencheck.de/artikel/dax-wochenbilanz-25441-punkte-plus-26-prozent-rente-zoelle-eu-gipfel-und-fed"
+     }
+    ]
+   },
+   {
+    "text": "Strengere US-Exportkontrollen kosten Nvidia, einen der größten Portfoliowerte, Geschäft in Asien.",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+     }
+    ]
+   }
+  ],
+  "indicators": [
+   {
+    "label": "DAX",
+    "value": "+0,9 %",
+    "tone": "pos",
+    "note": "Fr., 25.441 Punkte"
+   },
+   {
+    "label": "S&P 500",
+    "value": "+1,6 %",
+    "tone": "pos",
+    "note": "Fr., Woche +5,6 %"
+   },
+   {
+    "label": "EZB-Einlagensatz",
+    "value": "2,50 %",
+    "note": "Sitzung 17.12."
+   },
+   {
+    "label": "Fed Funds Rate",
+    "value": "3,75–4,00 %",
+    "note": "Sitzung 9.12."
+   },
+   {
+    "label": "Ölpreis Brent",
+    "value": "95,44 $",
+    "tone": "neg",
+    "note": "Fr., −1,2 %"
+   }
+  ],
+  "calendar": [
+   {
+    "when": "So., 29. Nov.",
+    "text": "Opec+ entscheidet über die Förderpolitik 2027"
+   },
+   {
+    "when": "1. Dez.",
+    "text": "Inflation im Euroraum, Schnellschätzung für November (erwartet 3,9 % nach 4,0 %)"
+   },
+   {
+    "when": "1.–3. Dez.",
+    "text": "Nvidia-Chef Huang im US-Kongress zu Exportkontrollen"
+   },
+   {
+    "when": "4. Dez.",
+    "text": "US-Arbeitsmarktbericht für November"
+   },
+   {
+    "when": "6. Dez.",
+    "text": "Frist für Eisenkots Regierungsbildung in Israel"
+   },
+   {
+    "when": "9. Dez.",
+    "text": "Zinsentscheid der Fed – Erhöhung erwartet"
+   },
+   {
+    "when": "17. Dez.",
+    "text": "Zinsentscheid der EZB; EU-Gipfel mit neuem Anlauf zum Haushalt"
+   }
+  ],
+  "portfolio": "Vanguard FTSE All-World + Amundi MSCI World",
+  "etfs": [
+   {
+    "name": "Vanguard FTSE All-World",
+    "isin": "IE00BK5BQT80"
+   },
+   {
+    "name": "Amundi MSCI World",
+    "isin": "IE000BI8OT95"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "welt",
+   "label": "Welt"
+  },
+  {
+   "id": "deutschland",
+   "label": "Deutschland"
+  },
+  {
+   "id": "hessen",
+   "label": "Frankfurt & Hessen"
+  },
+  {
+   "id": "wirtschaft",
+   "label": "Wirtschaft"
+  },
+  {
+   "id": "tech",
+   "label": "Tech & KI"
+  }
+ ]
+}
